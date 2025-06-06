@@ -113,10 +113,10 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
         Returns:
             str: correctly spelled role.
         """
+        role_name = role_name.strip()
         for misspelt_role in self._misspelt_roles_dict.keys():
             if misspelt_role in role_name:
                 role_name = role_name.replace(misspelt_role, self._misspelt_roles_dict[misspelt_role])
-                break
         return role_name
 
     def get_qna(self, full_text):
