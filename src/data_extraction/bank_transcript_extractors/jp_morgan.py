@@ -117,7 +117,7 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
             if misspelt_role in role_name:
                 role_name = role_name.replace(misspelt_role, self._misspelt_roles_dict[misspelt_role])
                 break
-        return role
+        return role_name
 
     def get_qna(self, full_text):
         """
