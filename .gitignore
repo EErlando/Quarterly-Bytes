@@ -46,7 +46,7 @@ Thumbs.db
 .venv
 
 # Data files
-*.csv
+# *.csv
 *.json
 *.sqlite3
 
