@@ -7,77 +7,77 @@ from .base import BaseTranscriptExtractor
 
 
 class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
-    ## Dictionary of misspelt roles in the transcripts
-    misspelt_roles_dict = {
-        "  ": " ",
-        ' ,': ',',
-        'Of ficer': 'Officer',
-        'Financ ial': 'Financial',
-        'Morg an': 'Morgan',
-        'Finan cial': 'Financial',
-        'Fina ncial': 'Financial',
-        'Fin ancial': 'Financial',
-        'Analy st': 'Analyst',
-        'Cha irman': 'Chairman',
-        'JPMo rgan': 'JPMorgan',
-        'JPMorganChase': 'JPMorgan Chase & Co.',
-        'JPMorga n': 'JPMorgan',
-        'JP Morgan': 'JPMorgan',
-        'Off icer': 'Officer',
-        'JPMor gan': 'JPMorgan',
-        'JPM organ': 'JPMorgan',
-        'Chair man': 'Chairman',
-        'Membe r': 'Member',
-        '-O': 'O',
-        'Membe rOperating': 'Member Operating',
-        'M ember': 'Member',
-        'Offi cer': 'Officer',
-        '& C o': '& Co',
-        'Chas e': 'Chase',
-        'C hief': 'Chief',
-        'Oper ating': 'Operating',
-        'Comm ittee': 'Committee',
-        'Execut ive': 'Executive',
-        'Financia l': 'Financial',
-        'Ch ief': 'Chief',
-        'Co .': 'Co.',
-        'Officer ,': 'Officer,',
-        'Financi al': 'Financial',
-        'M ember': 'Member',
-        'MemberOperating': 'Member Operating',
-        'Chie f': 'Chief',
-        'Mor gan': 'Morgan',
-        'M organ': 'Morgan',
-        'C apital': 'Capital',
-        'Ev ercore': 'Evercore',
-        'Ever core': 'Evercore',
-        'Evercor e': 'Evercore',
-        'Ame rica': 'America',
-        'Amer ica': 'America',
-        'P ortales': 'Portales',
-        'Po rtales': 'Portales',
-        'Seapor t': 'Seaport',
-        'Seap ort': 'Seaport',
-        'Farg o': 'Fargo',
-        'Ca pital': 'Capital',
-        'Ba nk': 'Bank',
-        'Amer ica': 'America',
-        'Secur ities': 'Securities',
-        'Well s': 'Wells',
-        'In c': 'Inc',
-        'Autono mous': 'Autonomous',
-        'Auton omous': 'Autonomous',
-        'S ecurities': 'Securities',
-        'M errill': 'Merrill',
-        'Inc .': 'Inc.',
-        'Deutsc he': 'Deutsche',
-        'Chief Financial Officer & Member Operating Committee, JPMorgan Chase & Co.': 'Chief Financial Officer, JPMorgan Chase & Co.'
-    }
-
     def __init__(self, transcript_file_text: str, quarter: int, year: int):
         self.transcript_file_text = transcript_file_text
         self._quarter = quarter
         self._year = year
+
+        ## Dictionary of misspelt roles in the transcripts
+        self._misspelt_roles_dict = {
+            "  ": " ",
+            ' ,': ',',
+            'Of ficer': 'Officer',
+            'Financ ial': 'Financial',
+            'Morg an': 'Morgan',
+            'Finan cial': 'Financial',
+            'Fina ncial': 'Financial',
+            'Fin ancial': 'Financial',
+            'Analy st': 'Analyst',
+            'Cha irman': 'Chairman',
+            'JPMo rgan': 'JPMorgan',
+            'JPMorganChase': 'JPMorgan Chase & Co.',
+            'JPMorga n': 'JPMorgan',
+            'JP Morgan': 'JPMorgan',
+            'Off icer': 'Officer',
+            'JPMor gan': 'JPMorgan',
+            'JPM organ': 'JPMorgan',
+            'Chair man': 'Chairman',
+            'Membe r': 'Member',
+            '-O': 'O',
+            'Membe rOperating': 'Member Operating',
+            'M ember': 'Member',
+            'Offi cer': 'Officer',
+            '& C o': '& Co',
+            'Chas e': 'Chase',
+            'C hief': 'Chief',
+            'Oper ating': 'Operating',
+            'Comm ittee': 'Committee',
+            'Execut ive': 'Executive',
+            'Financia l': 'Financial',
+            'Ch ief': 'Chief',
+            'Co .': 'Co.',
+            'Officer ,': 'Officer,',
+            'Financi al': 'Financial',
+            'M ember': 'Member',
+            'MemberOperating': 'Member Operating',
+            'Chie f': 'Chief',
+            'Mor gan': 'Morgan',
+            'M organ': 'Morgan',
+            'C apital': 'Capital',
+            'Ev ercore': 'Evercore',
+            'Ever core': 'Evercore',
+            'Evercor e': 'Evercore',
+            'Ame rica': 'America',
+            'Amer ica': 'America',
+            'P ortales': 'Portales',
+            'Po rtales': 'Portales',
+            'Seapor t': 'Seaport',
+            'Seap ort': 'Seaport',
+            'Farg o': 'Fargo',
+            'Ca pital': 'Capital',
+            'Ba nk': 'Bank',
+            'Amer ica': 'America',
+            'Secur ities': 'Securities',
+            'Well s': 'Wells',
+            'In c': 'Inc',
+            'Autono mous': 'Autonomous',
+            'Auton omous': 'Autonomous',
+            'S ecurities': 'Securities',
+            'M errill': 'Merrill',
+            'Inc .': 'Inc.',
+            'Deutsc he': 'Deutsche',
+            'Chief Financial Officer & Member Operating Committee, JPMorgan Chase & Co.': 'Chief Financial Officer, JPMorgan Chase & Co.'
+        }
 
     def _extract_blocks_from_section(self, processed_text):
         # Define the separator pattern (newline, dots, newline)
@@ -113,9 +113,9 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
         Returns:
             str: correctly spelled role.
         """
-        for misspelt_role in self.misspelt_roles_dict.keys():
+        for misspelt_role in self._misspelt_roles_dict.keys():
             if misspelt_role in role:
-                role = role.replace(misspelt_role, misspelt_roles_dict[misspelt_role])
+                role = role.replace(misspelt_role, self._misspelt_roles_dict[misspelt_role])
                 break
         return role
 
@@ -186,6 +186,8 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
                     speaker_name = lines[0]
                 if len(lines) >= 2:
                     role_name = lines[1]
+                    # Final cleanup for the role
+                    role_name = self._correct_role_spelling(role_name)
                     # Remove optional Q/A from role
                     role_name = re.sub(r"\s*(Q|A)$", "", role_name).strip()
                     role_name, company_name = (
@@ -206,9 +208,6 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
 
             # Final cleanup for text content (e.g., removing any leading/trailing blank lines)
             text_content = text_content.strip()
-
-            # Final cleanup for the role
-            role_name = self._correct_role_spelling(role_name)
 
             entries.append(
                 {
@@ -269,6 +268,7 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
                     speaker_name = lines[0]
                 if len(lines) >= 2:
                     role_name = lines[1]
+                    role_name = self._correct_role_spelling(role_name)
                     role_name, company_name = (
                         role_name.split(",")[0].strip(),
                         role_name.split(",")[-1].strip(),
@@ -287,9 +287,6 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
 
             # Final cleanup for text content (e.g., removing any leading/trailing blank lines)
             text_content = text_content.strip()
-
-            # Final cleanup for the role
-            role_name = self._correct_role_spelling(role_name)
 
             entries.append(
                 {
