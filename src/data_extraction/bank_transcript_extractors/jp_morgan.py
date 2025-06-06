@@ -225,7 +225,7 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
 
         return entries
 
-    def get_discussion(self, full_text) -> List:
+    def get_discussion(self, full_text):
         """
         Parses the Management Discussion section from a transcript into a pandas dataframe
         with 'speaker', 'role', 'content' columns.
@@ -322,7 +322,7 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
         extracted_discussion = self.get_discussion(full_text)
         return pd.DataFrame(extracted_discussion)
 
-    def parse_transcript_to_dataframes(self) -> {pd.DataFrame, pd.DataFrame}:
+    def parse_transcript_to_dataframes(self):
         """Parses a raw transcript text into a DataFrame of speaking turns."""
 
         # Initial Cleaning
