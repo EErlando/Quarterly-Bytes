@@ -187,7 +187,6 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
                 if len(lines) >= 2:
                     role_name = lines[1]
                     # Final cleanup for the role
-                    print(role_name)
                     role_name = self._correct_role_spelling(role_name)
                     # Remove optional Q/A from role
                     role_name = re.sub(r"\s*(Q|A)$", "", role_name).strip()
@@ -269,7 +268,6 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
                     speaker_name = lines[0]
                 if len(lines) >= 2:
                     role_name = lines[1]
-                    print(role_name)
                     role_name = self._correct_role_spelling(role_name)
                     role_name, company_name = (
                         role_name.split(",")[0].strip(),
