@@ -106,14 +106,14 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
 
         return cleaned_blocks
 
-    def _correct_role_spelling(role: str) -> str:
+    def _correct_role_spelling(self, role: str) -> str:
         """
         Corrects any spelling or pdf conversion issues in the roles of the speaker
 
         Returns:
             str: correctly spelled role.
         """
-        for misspelt_role in misspelt_roles_dict.keys():
+        for misspelt_role in self.misspelt_roles_dict.keys():
             if misspelt_role in role:
                 role = role.replace(misspelt_role, misspelt_roles_dict[misspelt_role])
                 break
