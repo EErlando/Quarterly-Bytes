@@ -1,6 +1,8 @@
 import re
 import pandas as pd
 
+from ...constants import BankType
+
 from .base import BaseTranscriptExtractor
 
 
@@ -29,9 +31,9 @@ class GoldmanSachsTranscriptExtractor(BaseTranscriptExtractor):
             for line in section_text.split("\n"):
                 if " - " in line:
                     name, roles = line.split(" - ", 1)
-                    parsed[name.strip()] = [
+                    parsed[name.strip()] = ", ".join(sorted([
                         role.strip() for role in re.split(r"&|and", roles)
-                    ]
+                    ]))
             return parsed
 
         # Extract Company Participants
@@ -123,6 +125,8 @@ class GoldmanSachsTranscriptExtractor(BaseTranscriptExtractor):
                 current_speaker = next(
                     name for name in all_participants if line == name.strip().lower()
                 )
+                role = self.participants["company_participants"].get(current_speaker, None)
+                company =  self.participants["conference_call_participants"].get(current_speaker, None) or BankType.GOLDMAN_SACHS.value
                 # Get next content type by participant
                 content_type = (
                     "question"
@@ -130,11 +134,13 @@ class GoldmanSachsTranscriptExtractor(BaseTranscriptExtractor):
                     in self.participants["conference_call_participants"]
                     else "answer"
                 )
-                # print(entry_index, current_speaker, content_type)
+                
                 current_group[entry_index] = {
                     "content_type": content_type,
                     "content": "",
                     "speaker": current_speaker,
+                    "role": role,
+                    "company": company,
                 }
             else:
                 if current_speaker:
@@ -218,6 +224,7 @@ class GoldmanSachsTranscriptExtractor(BaseTranscriptExtractor):
                     "content": "",
                     "speaker": current_speaker,
                     "role": self.participants["company_participants"][current_speaker],
+                    "company": BankType.GOLDMAN_SACHS.value,
                 }
             else:
                 if current_speaker:
@@ -261,6 +268,7 @@ class GoldmanSachsTranscriptExtractor(BaseTranscriptExtractor):
             "question_answer_group_id": [],
             "speaker": [],
             "role": [],
+            "company": [],
             "content_type": [],
             "content": [],
             "quarter": [],
@@ -274,7 +282,8 @@ class GoldmanSachsTranscriptExtractor(BaseTranscriptExtractor):
                     question_answer_group_id
                 )
                 formatted_qna["speaker"].append(single_qna_dict["speaker"])
-                formatted_qna["role"].append(single_qna_dict["content_type"])
+                formatted_qna["role"].append(single_qna_dict["role"])
+                formatted_qna["company"].append(single_qna_dict["company"])
                 formatted_qna["content_type"].append(single_qna_dict["content_type"])
                 formatted_qna["content"].append(single_qna_dict["content"])
                 formatted_qna["quarter"].append(self._quarter)
@@ -298,6 +307,7 @@ class GoldmanSachsTranscriptExtractor(BaseTranscriptExtractor):
         formatted_discussion = {
             "speaker": [],
             "role": [],
+            "company": [],
             "content": [],
             "quarter": [],
             "year": [],
@@ -307,6 +317,9 @@ class GoldmanSachsTranscriptExtractor(BaseTranscriptExtractor):
             formatted_discussion["speaker"].append(single_discussion_dict["speaker"])
             formatted_discussion["role"].append(
                 single_discussion_dict["role"]
+            )
+            formatted_discussion["company"].append(
+                single_discussion_dict["company"]
             )
             formatted_discussion["content"].append(single_discussion_dict["content"])
             formatted_discussion["quarter"].append(self._quarter)

@@ -6,14 +6,9 @@ import logging
 import re
 import os
 import pandas as pd
-from enum import StrEnum
+from ..constants import BankType
 
 logging.basicConfig(level=logging.ERROR, format="%(levelname)s: %(message)s")
-
-
-class BankType(StrEnum):
-    GOLDMAN_SACHS = "Goldman Sachs"
-    JPMORGAN = "JPMorgan"
 
 
 def extract_text_from_pdf(pdf_path: str) -> str:
@@ -140,7 +135,8 @@ def extract_quarter_and_year_from_filename(
     # (\d{2})    - Captures exactly two digits for the year. This is Group 2.
     # _          - Matches the literal underscore immediately following the year.
     # re.IGNORECASE - Makes the 'q' match both 'q' and 'Q'.
-    pattern = re.compile(r"(\d{1})q(\d{2})_", re.IGNORECASE)
+    pattern = re.compile(r"(\d{1})q(\d{2})[_-]", re.IGNORECASE)
+
 
     match = pattern.search(filename)
 

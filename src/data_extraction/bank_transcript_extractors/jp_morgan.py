@@ -1,6 +1,8 @@
 import re
 import pandas as pd
 
+from ...constants import BankType
+
 from .base import BaseTranscriptExtractor
 
 
@@ -64,6 +66,7 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
 
         # Initialise the question group index
         question_group_index = 0
+        question_order = 0
 
         for block in blocks:
             lines = block.split("\n")
@@ -91,6 +94,7 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
             # Handle the Operator case: Speaker and start of text are on the first line
             if lines[start_index].startswith("Operator"):
                 question_group_index = question_group_index + 1
+                question_order = 0
                 continue
 
             # Handle the disclaimer at the end
@@ -104,6 +108,19 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
                     role_name = lines[start_index + 1]
                     # Remove optional Q/A from role
                     role_name = re.sub(r"\s*(Q|A)$", "", role_name).strip()
+                    role_name, company_name = (
+                        role_name.split(",")[0].strip(),
+                        role_name.split(",")[-1].strip(),
+                    )
+                    role_name = ", ".join(
+                        sorted([role.strip() for role in re.split(r"&|and", role_name)])
+                    )
+                    company_name = (
+                        BankType.JPMORGAN.value
+                        if "morgan" in company_name.lower()
+                        and "jp".lower() in company_name.lower()
+                        else company_name
+                    )
                 if len(lines) > 2:
                     text_content = "\n".join(lines[start_index + 2 :])
 
@@ -112,16 +129,18 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
 
             entries.append(
                 {
+                    "question_order": question_order,
                     "question_answer_group_id": question_group_index,
                     "speaker": speaker_name,
                     "role": role_name,
+                    "company": company_name,
                     "content": text_content,
                 }
             )
 
+            question_order += 1
+
         return entries
-        # df = pd.DataFrame(entries)
-        # return df
 
     def get_discussion(self, full_text):
         """
@@ -167,6 +186,19 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
                     speaker_name = lines[0]
                 if len(lines) >= 2:
                     role_name = lines[1]
+                    role_name, company_name = (
+                        role_name.split(",")[0].strip(),
+                        role_name.split(",")[-1].strip(),
+                    )
+                    role_name = ", ".join(
+                        sorted([role.strip() for role in re.split(r"&|and", role_name)])
+                    )
+                    company_name = (
+                        BankType.JPMORGAN.value
+                        if "morgan" in company_name.lower()
+                        and "jp".lower() in company_name.lower()
+                        else company_name
+                    )
                 if len(lines) > 2:
                     text_content = "\n".join(lines[2:])
 
@@ -174,12 +206,15 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
             text_content = text_content.strip()
 
             entries.append(
-                {"speaker": speaker_name, "role": role_name, "content": text_content}
+                {
+                    "speaker": speaker_name,
+                    "role": role_name,
+                    "company": company_name,
+                    "content": text_content,
+                }
             )
 
         return entries
-        # df = pd.DataFrame(entries)
-        # return df
 
     def get_qna_df(self, full_text):
         """
@@ -206,14 +241,18 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
 
         # Initial Cleaning
         # Remove source tags
-        text = re.sub(r'\\', '', self.transcript_file_text)
+        text = re.sub(r"\\", "", self.transcript_file_text)
         # Condense multiple newlines
-        text = re.sub(r'\n{2,}', '\n', text).strip()
+        text = re.sub(r"\n{2,}", "\n", text).strip()
 
         # Section Segmentation
-        sections = re.split(r'(MANAGEMENT DISCUSSION SECTION|QUESTION AND ANSWER SECTION)', text)
+        sections = re.split(
+            r"(MANAGEMENT DISCUSSION SECTION|QUESTION AND ANSWER SECTION)", text
+        )
         sections = [section.strip() for section in sections if section.strip()]
-        current_section_name = "INTRO" # Default for anything before first section header
+        current_section_name = (
+            "INTRO"  # Default for anything before first section header
+        )
 
         df_q_and_a = pd.DataFrame()
         df_presentation = pd.DataFrame()
@@ -230,11 +269,11 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
                 continue
 
             # If we're looking at the Q&A section, then parse to the Q&A dataframe
-            if current_section_name == 'QUESTION AND ANSWER SECTION':
+            if current_section_name == "QUESTION AND ANSWER SECTION":
                 df_q_and_a = self.get_qna_df(part)
 
             # If we're looking at the Q&A section, then parse to the Q&A dataframe
-            if current_section_name == 'MANAGEMENT DISCUSSION SECTION':
+            if current_section_name == "MANAGEMENT DISCUSSION SECTION":
                 df_presentation = self.get_discussion_df(part)
 
         return df_q_and_a, df_presentation
