@@ -1,0 +1,75 @@
+--- LDA Topic Model with 23 Topics ---
+
+LDA model fitting complete for 23 topics.
+
+
+Interpreting Topics:
+
+Topic 1:
+carefully rule teen follow sequentially inﬂation price attention notice certain
+
+Topic 2:
+macro franchise wealth high thank volatility lead expect add opportunity
+
+Topic 3:
+overall indicate lot equity long kind wealth economic platform efﬁciency
+
+Topic 4:
+credit charge platform ratio consumer net card growth overall efﬁciency
+
+Topic 5:
+elevated funding christian street acceleration attractive opportunity disclosure global banking market infrastructure fer
+
+Topic 6:
+alt sponsor business partnership trading margin client platform scale apple
+
+Topic 7:
+slow see ficc market thing ficc ﬁnance allocator volatility sight allocation
+
+Topic 8:
+gsib target resource deployment grow comment attractive ability sheet growth slow
+
+Topic 9:
+economic positioning private sponsor private credit inﬂation focus opportunity ealth reality
+
+Topic 10:
+density go progress funding reduce deposit reduction remain exposure investment
+
+Topic 11:
+wealth private wealth currently card credit individual footprint credit card private guess
+
+Topic 12:
+deposit hire multiple build block source apple partner headcount channel
+
+Topic 13:
+quarter normal kind ib market reset slow go debt reserve
+
+Topic 14:
+margin buf fer buf risk fer uncertainty exposure regulatory lens big
+
+Topic 15:
+ficc equity client strategy dif ferent ferent dif growth ef fee
+
+Topic 16:
+come ahead medium long term efﬁciencie history reﬂect different continue thank take question outcome
+
+Topic 17:
+client go participate incentive fee commit quality thing dividend quickly focused
+
+Topic 18:
+high single digit non enable average bad smart helpful maybe morning guess priority notice
+
+Topic 19:
+principal roughly reiterate actually rest assumption conﬁdence and or size concern
+
+Topic 20:
+hard direct away competition ﬁve year wrong outcome acquisition set attribute
+
+Topic 21:
+bank loan infrastructure institutional client hey morning move exactly proposal compete denis
+
+Topic 22:
+large discipline result basis type nimble strategically sign prepared remark morning david denis
+
+Topic 23:
+large single sheet big big near bring course couple year number dif sound like basis

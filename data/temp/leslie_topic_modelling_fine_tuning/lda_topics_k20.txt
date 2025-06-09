@@ -1,0 +1,66 @@
+--- LDA Topic Model with 20 Topics ---
+
+LDA model fitting complete for 20 topics.
+
+
+Interpreting Topics:
+
+Topic 1:
+carefully rule teen follow sequentially inﬂation price attention notice certain
+
+Topic 2:
+macro volatility case expect franchise volume suite et united feed
+
+Topic 3:
+deposit strategy multiple ef try risk report fee source lens
+
+Topic 4:
+fs charge fs charge slow provision portfolio path credit elevated coverage
+
+Topic 5:
+elevated christian street acceleration attractive opportunity funding disclosure global banking market infrastructure fer
+
+Topic 6:
+math issuance highly appropriate ib march state 2q sector competitive
+
+Topic 7:
+pivot tough thank deni suggest beginning understand ecosystem yes bank mark
+
+Topic 8:
+wait balance credit certainly hard ﬁnancing solution look global system
+
+Topic 9:
+sponsor economic community wallet positioning buyback revenue go help focus
+
+Topic 10:
+talk regulatory deﬁnitely period deposit company activity ratio management ﬁnancial resource
+
+Topic 11:
+ib comment marcus impairment adjustment date gerard see teen bad
+
+Topic 12:
+private wealth wealth private margin footprint card allocation credit individual give
+
+Topic 13:
+roe management cycle look sponsor alternative banking go fee put
+
+Topic 14:
+lead growth speculate basel normalization thing happen note normal basel endgame hear
+
+Topic 15:
+touch ficc equity thank go mean like fering extraordinary unusual away
+
+Topic 16:
+funding uncertain deposit trajectory original fed goal fund improvement gerard
+
+Topic 17:
+efﬁciency thank fundraising alternative long wait ib track client highlight
+
+Topic 18:
+client go equity market thing growth ficc ratio platform maybe
+
+Topic 19:
+non size conﬁdence principal actually concern set roughly see wallet share
+
+Topic 20:
+hard direct away competition ﬁve year outcome acquisition attribute reﬂective beneﬁts

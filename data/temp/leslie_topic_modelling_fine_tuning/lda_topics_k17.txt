@@ -1,0 +1,57 @@
+--- LDA Topic Model with 17 Topics ---
+
+LDA model fitting complete for 17 topics.
+
+
+Interpreting Topics:
+
+Topic 1:
+wealth private wealth hire footprint private block course couple individual wealth management partner
+
+Topic 2:
+macro volatility franchise case expect volume thank private credit feed united
+
+Topic 3:
+kind overall reserve lot monetary ficc transparency equity ﬁve year consumer
+
+Topic 4:
+original assumption fer recent plan count enable number thing helpful similar
+
+Topic 5:
+matter elevated revenue global banking market christian infrastructure street focused acceleration attractive opportunity
+
+Topic 6:
+competitive ib math wallet mark issuance highly partner 2q appropriate
+
+Topic 7:
+gsib charge ratio net loan target charge fs fs coverage consumer
+
+Topic 8:
+deposit multiple source apple channel fund day earn deposit deposit actively
+
+Topic 9:
+margin buf fer buf uncertainty fer regulatory plenty mid trajectory opportunity
+
+Topic 10:
+ﬁnancial resource talk deposit apple resource ratio partnership technology deﬁnitely period
+
+Topic 11:
+currently see ficc card ficc ﬁnance credit card allocator guess sight give
+
+Topic 12:
+private credit wealth credit rule alternative maybe banking market focused private client
+
+Topic 13:
+go client market platform growth thing ﬁrm management year term
+
+Topic 14:
+density funding go deposit exposure progress fed month term uncertain
+
+Topic 15:
+touch ficc equity go thank like mean fering extraordinary unusual away
+
+Topic 16:
+come efﬁciencie reﬂect ahead incentive thank take question history street medium long term well
+
+Topic 17:
+ficc equity strategy risk exposure client ef try help thing

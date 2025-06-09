@@ -1,0 +1,30 @@
+--- LDA Topic Model with 8 Topics ---
+
+LDA model fitting complete for 8 topics.
+
+
+Interpreting Topics:
+
+Topic 1:
+deposit multiple source apple fund channel day deposit deposit actively diversify
+
+Topic 2:
+funding deposit uncertain original trajectory goal fed fund improvement gerard
+
+Topic 3:
+alternative platform partnership resilient risk previously teen moment private credit compensation advantage
+
+Topic 4:
+client growth thing equity market ficc credit give slow platform
+
+Topic 5:
+currently gs comment take action look happy week consider will announce
+
+Topic 6:
+look performance client reason consumer card new ability serve client opportunity
+
+Topic 7:
+associate yeah ﬁrst fundraising see business gerard nature mark prepared remark
+
+Topic 8:
+deposit gsib david industry policy partnership apple end month decline balance
