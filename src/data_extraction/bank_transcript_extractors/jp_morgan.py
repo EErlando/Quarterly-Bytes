@@ -76,7 +76,8 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
             'M errill': 'Merrill',
             'Inc .': 'Inc.',
             'Deutsc he': 'Deutsche',
-            'Chief Financial Officer & Member Operating Committee, JPMorgan Chase & Co.': 'Chief Financial Officer, JPMorgan Chase & Co.'
+            'Chief Financial Officer & Member Operating Committee, JPMorgan Chase & Co.': 'Chief Financial Officer, JPMorgan Chase & Co.',
+            'Chairman, Chief Executive Officer': 'Chief Executive Officer'
         }
 
     def _extract_blocks_from_section(self, processed_text):
@@ -194,9 +195,6 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
                         role_name.split(",")[0].strip(),
                         role_name.split(",")[-1].strip(),
                     )
-                    role_name = ", ".join(
-                        sorted([role.strip() for role in re.split(r"&|and", role_name)])
-                    )
                     company_name = (
                         BankType.JPMORGAN.value
                         if "morgan" in company_name.lower()
@@ -272,9 +270,6 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
                     role_name, company_name = (
                         role_name.split(",")[0].strip(),
                         role_name.split(",")[-1].strip(),
-                    )
-                    role_name = ", ".join(
-                        sorted([role.strip() for role in re.split(r"&|and", role_name)])
                     )
                     company_name = (
                         BankType.JPMORGAN.value
