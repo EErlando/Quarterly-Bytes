@@ -77,7 +77,7 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
             'Inc .': 'Inc.',
             'Deutsc he': 'Deutsche',
             'Chief Financial Officer & Member Operating Committee, JPMorgan Chase & Co.': 'Chief Financial Officer, JPMorgan Chase & Co.',
-            'Chairman, Chief Executive Officer': 'Chief Executive Officer'
+            'Chairman & Chief Executive Officer': 'Chief Executive Officer'
         }
 
     def _extract_blocks_from_section(self, processed_text):
@@ -118,7 +118,7 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
         for misspelt_role in self._misspelt_roles_dict.keys():
             if misspelt_role in role_name:
                 role_name = role_name.replace(misspelt_role, self._misspelt_roles_dict[misspelt_role])
-        return role_name
+        return role_name.strip()
 
     def get_qna(self, full_text):
         """
@@ -168,14 +168,14 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
             if len(lines) == 1:
                 continue # skip content with just one line
 
-            if lines[0].startswith("."):
-                lines = lines[1:] # If there is an overflow of the separator onto the first line of the next block, then remove it
-
             # Handle the Operator case: Speaker and start of text are on the first line
             if lines[0].startswith("Operator"):
                 question_group_index = question_group_index + 1
                 question_order = 0
                 continue
+
+            if lines[0].startswith("."):
+                lines = lines[1:] # If there is an overflow of the separator onto the first line of the next block, then remove it
 
             # Handle the disclaimer at the end
             if lines[0].startswith("Disclaimer"):
