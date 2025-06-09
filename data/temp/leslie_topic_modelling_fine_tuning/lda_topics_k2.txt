@@ -1,0 +1,12 @@
+--- LDA Topic Model with 2 Topics ---
+
+LDA model fitting complete for 2 topics.
+
+
+Interpreting Topics:
+
+Topic 1:
+go client deposit term credit growth give ﬁrm platform equity
+
+Topic 2:
+ficc wealth market private wealth thing opportunity equity level kind footprint
