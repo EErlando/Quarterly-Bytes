@@ -161,7 +161,6 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
             speaker_name = "N/A"
             role_name = "N/A"
             text_content = ""
-            start_index = 0
 
             if not lines:
                 continue  # Skip empty blocks
@@ -173,13 +172,13 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
                 lines = lines[1:] # If there is an overflow of the separator onto the first line of the next block, then remove it
 
             # Handle the Operator case: Speaker and start of text are on the first line
-            if lines[start_index].startswith("Operator"):
+            if lines[0].startswith("Operator"):
                 question_group_index = question_group_index + 1
                 question_order = 0
                 continue
 
             # Handle the disclaimer at the end
-            if lines[start_index].startswith("Disclaimer"):
+            if lines[0].startswith("Disclaimer"):
                 continue
 
             else:  # Standard speaker: Name on line 1, Role on line 2, Text after
