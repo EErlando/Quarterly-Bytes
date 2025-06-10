@@ -85,17 +85,15 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
             if not lines:
                 continue  # Skip empty blocks
 
-            if len(lines) == 1:
+            # Some/most operator lines are one liners, and has some formatting issues so we'll use 'in' check instead of startswith
+            if len(lines) == 1 or any('operator:' in line.replace(" ", '').lower() for line in lines):
+                if any('operator:' in line.replace(" ", '').lower() for line in lines):
+                    question_group_index = question_group_index + 1
+                    question_order = 0
                 continue
 
             if lines[0].startswith("."):
                 start_index = 1
-
-            # Handle the Operator case: Speaker and start of text are on the first line
-            if lines[start_index].startswith("Operator"):
-                question_group_index = question_group_index + 1
-                question_order = 0
-                continue
 
             # Handle the disclaimer at the end
             if lines[start_index].startswith("Disclaimer"):
@@ -105,7 +103,10 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
                 if len(lines) >= 1:
                     speaker_name = lines[start_index]
                 if len(lines) >= 2:
-                    role_name = lines[start_index + 1]
+                    try:
+                        role_name = lines[start_index + 1]
+                    except IndexError:
+                        print('INDEX ERROR:', lines)
                     # Remove optional Q/A from role
                     role_name = re.sub(r"\s*(Q|A)$", "", role_name).strip()
                     role_name, company_name = (
