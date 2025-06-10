@@ -103,10 +103,7 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
                 if len(lines) >= 1:
                     speaker_name = lines[start_index]
                 if len(lines) >= 2:
-                    try:
-                        role_name = lines[start_index + 1]
-                    except IndexError:
-                        print('INDEX ERROR:', lines)
+                    role_name = lines[start_index + 1]
                     # Remove optional Q/A from role
                     role_name = re.sub(r"\s*(Q|A)$", "", role_name).strip()
                     role_name, company_name = (
