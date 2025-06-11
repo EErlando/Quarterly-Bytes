@@ -82,7 +82,7 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
 
     def _extract_blocks_from_section(self, processed_text):
         # Define the separator pattern (newline, dots, newline)
-        separator_regex = r"\.{10,}"
+        separator_regex = r"\.{5,}"
 
         # Split the text into blocks using the separator
         blocks = re.split(separator_regex, processed_text)
@@ -149,6 +149,8 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
         question_group_index = 0
         question_order = 0
 
+        print('doing block')
+
         for block in blocks:
             lines = block.split("\n")
             lines = [
@@ -161,25 +163,28 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
             speaker_name = "N/A"
             role_name = "N/A"
             text_content = ""
-            start_index = 0
 
             if not lines:
                 continue  # Skip empty blocks
 
-            if len(lines) == 1:
-                continue # skip content with just one line
-
-            if lines[0].startswith("."):
-                lines = lines[1:] # If there is an overflow of the separator onto the first line of the next block, then remove it
+            operatorPattern = r"^.{0,10}Operator ?:?"
 
             # Handle the Operator case: Speaker and start of text are on the first line
-            if lines[start_index].startswith("Operator"):
+            if re.match(operatorPattern, lines[0]):
+                print(f'found operator: {question_group_index}')
                 question_group_index = question_group_index + 1
                 question_order = 0
                 continue
+            elif lines[0].startswith('.'):
+                print('overflow line')
+                lines = lines[1:0] # If there is an overflow of the separator onto the first line of the next block, then remove it
+
+
+            if not lines:
+                continue  # Skip empty blocks
 
             # Handle the disclaimer at the end
-            if lines[start_index].startswith("Disclaimer"):
+            if lines[0].startswith("Disclaimer"):
                 continue
 
             else:  # Standard speaker: Name on line 1, Role on line 2, Text after
