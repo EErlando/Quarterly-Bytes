@@ -165,18 +165,16 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
             if not lines:
                 continue  # Skip empty blocks
 
-            if len(lines) == 1:
-                continue # skip content with just one line
-
-            # Handle the Operator case: Speaker and start of text are on the first line
-            if lines[0].startswith("Operator"):
-                question_group_index = question_group_index + 1
-                question_order = 0
+            # Some/most operator lines are one liners, and has some formatting issues so we'll use 'in' check instead of startswith
+            if len(lines) == 1 or any('operator:' in line.replace(" ", '').lower() for line in lines):
+                if any('operator:' in line.replace(" ", '').lower() for line in lines):
+                    question_group_index = question_group_index + 1
+                    question_order = 0
                 continue
 
             if lines[0].startswith("."):
-                lines = lines[1:] # If there is an overflow of the separator onto the first line of the next block, then remove it
-
+                start_index = 1
+                
             # Handle the disclaimer at the end
             if lines[0].startswith("Disclaimer"):
                 continue
