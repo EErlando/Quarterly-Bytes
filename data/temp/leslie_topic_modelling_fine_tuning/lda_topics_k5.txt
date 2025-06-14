@@ -1,21 +1,13 @@
 --- LDA Topic Model with 5 Topics ---
 
-LDA model fitting complete for 5 topics.
-
-
 Interpreting Topics:
-
 Topic 1:
-deposit multiple source apple channel fund day deposit deposit actively diversify
-
+public equity beneﬁcial strong momentum expect 64 that that narrowed our focus context continue support clients early
 Topic 2:
-strategy private wealth ef wealth margin funding private trajectory uncertainty fee
-
+have are re just there with very about at capital
 Topic 3:
-density card credit card guidance partnership credit exposure activity loss invest
-
+there more again you re set up marcus loans could follow up heading overall mix investments funds solutions still believe we
 Topic 4:
-charge fs fs charge credit slow hire acquisition card path consumer
-
+are gsib with business just have very targeting wa up
 Topic 5:
-client equity growth thing ficc market credit see slow give
+ficc there have private wealth just wealth activity certainly at private
