@@ -1,7 +1,0 @@
---- BERTopic Model - Parameters: {'umap_n_neighbors': 15, 'umap_n_components': 5, 'hdbscan_min_cluster_size': 10, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 2)} ---
-
-Interpreting Topics:
-
-BERTopic - Top Words per Topic:
-Topic 0 (0_platform_client_growth_term): platform, client, growth, term, business, give, thing, year, market, thank
-Topic 1 (1_market_year_ﬁrm_give): market, year, ﬁrm, give, thing, term, client, see, revenue, well
