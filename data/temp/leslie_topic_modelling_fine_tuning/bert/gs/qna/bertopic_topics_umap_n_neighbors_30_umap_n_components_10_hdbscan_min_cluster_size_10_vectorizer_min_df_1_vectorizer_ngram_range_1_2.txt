@@ -1,8 +1,0 @@
---- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 10, 'hdbscan_min_cluster_size': 10, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 2)} ---
-
-Interpreting Topics:
-
-BERTopic - Top Words per Topic:
-Topic 0 (0_ﬁrm_market_year_term): ﬁrm, market, year, term, efﬁciency, expense, revenue, see, thing, well
-Topic 1 (1_client_platform_banking_bank): client, platform, banking, bank, market, thing, franchise, give, competitive, business
-Topic 2 (2_fee_alt_fundraising_sponsor): fee, alt, fundraising, sponsor, alternative, term, thank, fund, give, growth
