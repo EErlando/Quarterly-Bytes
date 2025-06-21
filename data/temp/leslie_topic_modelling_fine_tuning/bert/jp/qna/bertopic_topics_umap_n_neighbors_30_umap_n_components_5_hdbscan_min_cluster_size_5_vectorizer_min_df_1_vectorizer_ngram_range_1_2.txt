@@ -1,7 +1,0 @@
---- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 5, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 2)} ---
-
-Interpreting Topics:
-
-BERTopic - Top Words per Topic:
-Topic 0 (0_think_bit_little_go): think, bit, little, go, yeah, thank, like, good, rate, little bit
-Topic 1 (1_think_go_year_thing): think, go, year, thing, good, like, market, yeah, thank, rate
