@@ -3,13 +3,11 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_ex market_billion_nii_ex): ex market, billion, nii, ex, million, nir, year, loss million, net loss, approximately billion
-Topic 1 (1_year_year year_revenue_billion year): year, year year, revenue, billion year, drive, high, expense, billion, market, revenue billion
-Topic 2 (2_year_ccb_ccb report_billion revenue): year, ccb, ccb report, billion revenue, year year, billion, revenue, financial result, income, management revenue
-Topic 3 (3_rwa_capital_requirement_cet1): rwa, capital, requirement, cet1, scb, point, quarter, increase, risk, start ccb
-Topic 4 (4_million_billion_reserve_cost billion): million, billion, reserve, cost billion, credit cost, net, cost, build, charge off, off billion
-Topic 5 (5_awm_loan_tax margin_page awm): awm, loan, tax margin, page awm, business awm, complete line, awm report, cre, awm page, billion pre
-Topic 6 (6_start page_firm report_refer disclaimer_disclaimer): start page, firm report, refer disclaimer, disclaimer, refer, page firm, presentation available, available website, morning presentation, website refer
-Topic 7 (7_auto_revenue year_year_card): auto, revenue year, year, card, auto revenue, os, card service, card os, service auto, origination
-Topic 8 (8_rate_expect_wrap_range scenario): rate, expect, wrap, range scenario, charge rate, expect card, card net, proud, ability, remain
-Topic 9 (9_trillion_trillion year_client asset_inflow): trillion, trillion year, client asset, inflow, net inflow, aum, asset trillion, aum trillion, inflow billion, year
+Topic 0 (0_drive_revenue_expense_high): drive, revenue, expense, high, drive high, payment revenue, commercial, low, offset, quarter
+Topic 1 (1_nii_nir_high_nii market): nii, nir, high, nii market, market, drive, revenue, rate, low, rate nir
+Topic 2 (2_rwa_capital_requirement_cet1): rwa, capital, requirement, cet1, scb, cet1 ratio, quarter, ratio, quarter cet1, high rwa
+Topic 3 (3_start report_rotce_refer_refer disclaimer): start report, rotce, refer, refer disclaimer, disclaimer, revenue deliver, deliver rotce, deliver, available website, presentation available
+Topic 4 (4_awm_tax margin_awm report_report tax): awm, tax margin, awm report, report tax, margin, awm awm, margin revenue, business awm, line, line business
+Topic 5 (5_ccb_ccb report_financial result_financial): ccb, ccb report, financial result, financial, small business, management revenue, revenue, consumer, wealth, wealth management
+Topic 6 (6_inflow_aum_quarter_continue inflow): inflow, aum, quarter, continue inflow, inflow aum, asset, liquidity, drive, liquidity see, see inflow
+Topic 7 (7_loan_origination_loan reflect_loan sequentially): loan, origination, loan reflect, loan sequentially, client, funding, sequentially, mute, rate, sequentially loan
