@@ -1,0 +1,10 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 10, 'hdbscan_min_cluster_size': 10, 'vectorizer_min_df': 5, 'vectorizer_ngram_range': (1, 1)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_nii_high_market_drive): nii, high, market, drive, low, revenue, balance, largely, investment, expense
+Topic 1 (1_drive_revenue_high_low): drive, revenue, high, low, expense, offset, relate, predominantly, market, largely
+Topic 2 (2_capital_business_quarter_start): capital, business, quarter, start, result, offset, low, point, revenue, end
+Topic 3 (3_inflow_asset_high_drive): inflow, asset, high, drive, quarter, level, margin, fee, deposit, compensation
+Topic 4 (4_report_start_result_revenue): report, start, result, revenue, include, loss, quarter, turn, security, gain

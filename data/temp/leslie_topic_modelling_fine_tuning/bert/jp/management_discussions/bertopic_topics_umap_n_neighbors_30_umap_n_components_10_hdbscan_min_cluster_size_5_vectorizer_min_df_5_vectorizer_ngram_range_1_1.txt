@@ -1,0 +1,19 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 10, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 5, 'vectorizer_ngram_range': (1, 1)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_nii_high_market_rate): nii, high, market, rate, drive, low, revenue, mention, loss, expense
+Topic 1 (1_commercial_reserve_expense_off): commercial, reserve, expense, off, cost, drive, compensation, predominantly, high, bank
+Topic 2 (2_rotce_start_report_result): rotce, start, report, result, revenue, include, loss, gain, exclude, item
+Topic 3 (3_capital_distribution_end_quarter): capital, distribution, end, quarter, start, versus, effect, business, current, increase
+Topic 4 (4_fix_market_revenue_security): fix, market, revenue, security, strong, service, rate, low, offset, high
+Topic 5 (5_consumer_business_spend_management): consumer, business, spend, management, cash, deposit, revenue, segment, start, normalize
+Topic 6 (6_inflow_asset_quarter_see): inflow, asset, quarter, see, equity, level, drive, high, continue, overall
+Topic 7 (7_awm_management_tax_margin): awm, management, tax, margin, high, inflow, asset, report, drive, average
+Topic 8 (8_uncertainty_environment_client_go): uncertainty, environment, client, go, franchise, open, global, mind, earning, support
+Topic 9 (9_ib_non_volume_quarter): ib, non, volume, quarter, office, relate, deposit, drive, technology, expense
+Topic 10 (10_loan_sequentially_client_rate): loan, sequentially, client, rate, reflect, awm, off, cost, office, portfolio
+Topic 11 (11_cib_ib_rank_fee): cib, ib, rank, fee, report, advisory, deal, revenue, large, closing
+Topic 12 (12_advisory_fee_healthy_1q): advisory, fee, healthy, 1q, headwind, dynamic, robust, particularly, current, deal
+Topic 13 (13_open___): open, , , , , , , , , 

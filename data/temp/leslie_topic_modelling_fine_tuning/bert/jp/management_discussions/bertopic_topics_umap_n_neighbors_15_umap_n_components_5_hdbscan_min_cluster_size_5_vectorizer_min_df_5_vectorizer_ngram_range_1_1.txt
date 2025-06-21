@@ -1,0 +1,22 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 15, 'umap_n_components': 5, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 5, 'vectorizer_ngram_range': (1, 1)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_nii_market_impact_rate): nii, market, impact, rate, mention, loss, security, run, high, include
+Topic 1 (1_commercial_off_reserve_cost): commercial, off, reserve, cost, expense, bank, drive, predominantly, reflect, compensation
+Topic 2 (2_capital_end_distribution_versus): capital, end, distribution, versus, quarter, effect, start, business, current, increase
+Topic 3 (3_consumer_business_result_spend): consumer, business, result, spend, deposit, segment, management, highlight, revenue, report
+Topic 4 (4_rotce_start_report_result): rotce, start, report, result, loss, revenue, include, item, security, turn
+Topic 5 (5_inflow_asset_see_quarter): inflow, asset, see, quarter, equity, level, overall, continue, deposit, drive
+Topic 6 (6_lease_service_nii_acquisition): lease, service, nii, acquisition, high, balance, normalization, strong, lending, revenue
+Topic 7 (7_awm_tax_margin_management): awm, tax, margin, management, inflow, high, report, asset, average, advisor
+Topic 8 (8_loan_sequentially_client_reflect): loan, sequentially, client, reflect, rate, awm, portfolio, off, average, quarter
+Topic 9 (9_uncertainty_environment_go_client): uncertainty, environment, go, client, open, franchise, customer, support, global, earning
+Topic 10 (10_ib_non_office_relate): ib, non, office, relate, volume, deposit, quarter, large, expense, technology
+Topic 11 (11_volatility_fix_product_market): volatility, fix, product, market, elevated, strong, rate, increase, high, flow
+Topic 12 (12_cib_ib_fee_advisory): cib, ib, fee, advisory, report, deal, large, revenue, closing, maintain
+Topic 13 (13_fdic_expense_nii_market): fdic, expense, nii, market, mention, fee, brokerage, exclude, largely, compensation
+Topic 14 (14_underwriting_advisory_condition_fee): underwriting, advisory, condition, fee, healthy, 1q, headwind, robust, dynamic, current
+Topic 15 (15_open___): open, , , , , , , , , 
+Topic 16 (16_payment_balance_total_revenue): payment, balance, total, revenue, low, compression, exclude, offset, drive, service

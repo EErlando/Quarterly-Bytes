@@ -1,0 +1,10 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 5, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 2)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_client_deposit_wealth_platform): client, deposit, wealth, platform, loan, growth, banking, ﬁrm, term, business
+Topic 1 (1_sponsor_fundraising_fund_fee): sponsor, fundraising, fund, fee, alternative, alt, platform, incentive fee, term, private credit
+Topic 2 (2_ﬁrm_compensation_management_efﬁciency): ﬁrm, compensation, management, efﬁciency, market, teen, mid teen, mid, return, non
+Topic 3 (3_risk_client_volatility_thing): risk, client, volatility, thing, month, year, policy, progress, target, etc
+Topic 4 (4_equity_client_ﬁnancing_ficc): equity, client, ﬁnancing, ficc, equity ﬁnancing, ficc equity, thank, activity, level, overall

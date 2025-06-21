@@ -1,0 +1,19 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 15, 'umap_n_components': 5, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 2)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_revenue_equity_ficc_ﬁnance): revenue, equity, ficc, ﬁnance, portfolio, underwriting, intermediation, rise, revenue rise, lending
+Topic 1 (1_client_management_franchise_wealth): client, management, franchise, wealth, wealth management, business, scale, excellence, shareholder, class
+Topic 2 (2_inﬂation_economy_see_rate): inﬂation, economy, see, rate, interest rate, geopolitical, ukraine, tension, datum, interest
+Topic 3 (3_ep_david let_roe_ep roe): ep, david let, roe, ep roe, result page, let result, generate, net earning, page presentation, net
+Topic 4 (4_fee_management fee_aus_inﬂow): fee, management fee, aus, inﬂow, alternative, management, alternative aus, aus total, total end, drive management
+Topic 5 (5_compensation_expense_non compensation_compensation expense): compensation, expense, non compensation, compensation expense, non, quarterly non, compensation ratio, net provision, quarterly, provision
+Topic 6 (6_common stock_stock_common_dividend): common stock, stock, common, dividend, repurchase, include common, cet1 ratio, cet1, standardized, stock dividend
+Topic 7 (7_fort_ef fort_ef_year): fort, ef fort, ef, year, key, deposit customer, gsib, franchise, number, gs
+Topic 8 (8_investment_portfolio_loss_public portfolio): investment, portfolio, loss, public portfolio, equity investment, net loss, net, relate, approximately, cre
+Topic 9 (9_question open_open_open question_question): question open, open, open question, question, additionally execution, outcome deliver, identiﬁe outcome, identiﬁe, area identiﬁe, question additionally
+Topic 10 (10_regulation_fed_ﬁnancial_ﬁnancial system): regulation, fed, ﬁnancial, ﬁnancial system, stress, turn deni, deni, system, supervision, reform
+Topic 11 (11_ai_technology_artiﬁcial intelligence_intelligence): ai, technology, artiﬁcial intelligence, intelligence, artiﬁcial, potential, productivity, modernize, stack, assistant
+Topic 12 (12_ir_conference_carey halio_halio): ir, conference, carey halio, halio, halio head, head ir, earning conference, conference today, head, earning
+Topic 13 (13_chief_ofﬁcer_solomon_chairman chief): chief, ofﬁcer, solomon, chairman chief, chief executive, david solomon, reproduce rebroadcast, rebroadcast consent, chief financial, copyright

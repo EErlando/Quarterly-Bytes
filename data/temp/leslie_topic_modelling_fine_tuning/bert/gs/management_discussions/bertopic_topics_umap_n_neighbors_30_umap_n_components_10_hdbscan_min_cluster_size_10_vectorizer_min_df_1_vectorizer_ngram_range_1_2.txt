@@ -1,0 +1,13 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 10, 'hdbscan_min_cluster_size': 10, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 2)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_portfolio_revenue_lending_loan): portfolio, revenue, lending, loan, net, fee, alternative, total, management fee, equity
+Topic 1 (1_client_management_franchise_wealth): client, management, franchise, wealth, business, solution, scale, wealth management, market, global
+Topic 2 (2_revenue_ficc_equity_ﬁnance): revenue, ficc, equity, ﬁnance, intermediation, ﬁnance revenue, ﬁnancing, net revenue, mortgage, intermediation revenue
+Topic 3 (3_ep_david let_generate_roe): ep, david let, generate, roe, let result, result page, net, net earning, result, revenue
+Topic 4 (4_inﬂation_economy_see_ceo): inﬂation, economy, see, ceo, geopolitical, tension, datum, rate, economic, trajectory
+Topic 5 (5_common stock_common_dividend_stock): common stock, common, dividend, stock, requirement, include common, cet1 ratio, cet1, stock dividend, standardized
+Topic 6 (6_compensation_expense_non compensation_compensation expense): compensation, expense, non compensation, compensation expense, non, quarterly non, quarterly, compensation ratio, net provision, tax
+Topic 7 (7_ofﬁcer_chief_ir_earning presentation): ofﬁcer, chief, ir, earning presentation, earning, solomon, gs, chairman chief, consent join, executive ofﬁcer

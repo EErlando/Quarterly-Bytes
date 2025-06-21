@@ -1,0 +1,8 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 15, 'umap_n_components': 10, 'hdbscan_min_cluster_size': 10, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 2)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_revenue_client_equity_management): revenue, client, equity, management, net, portfolio, result, franchise, net revenue, market
+Topic 1 (1_expense_compensation_quarterly_tax): expense, compensation, quarterly, tax, non compensation, compensation expense, operating, quarterly non, non, ratio
+Topic 2 (2_ofﬁcer_chief_gs_ir): ofﬁcer, chief, gs, ir, earning, earning presentation, presentation, today, solomon, david

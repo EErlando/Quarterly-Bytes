@@ -1,0 +1,48 @@
+--- LDA Topic Model with 14 Topics ---
+
+LDA model fitting complete for 14 topics.
+
+
+Interpreting Topics:
+
+Topic 1:
+basel endgame you re seeing on balance it dif ferent re brennan curious non comp color
+
+Topic 2:
+card investment we ve seen ultimate thing handful 12 24 investments direction travel apple
+
+Topic 3:
+density re activities rest down we capital it re committed early
+
+Topic 4:
+we re we re volatility ve markets things it bit debt
+
+Topic 5:
+we we re ve focused re business clients before sachs looks pretty
+
+Topic 6:
+based billion buyback held vast classes ealth management smaller thoughtful denis comments
+
+Topic 7:
+business re driving taking question prices compete sustainably growing dividend inﬂation exit bank out
+
+Topic 8:
+gsib targeting ficc ﬁnancing resource year that re over year needs
+
+Topic 9:
+we ve grown okay you betsy reasons close terms overall cetera party investment haven
+
+Topic 10:
+we re that it we re you ve clients growth markets
+
+Topic 11:
+outlook ﬁnancing markets pipeline rules deal relatively outcome on balance activities we ealth management business
+
+Topic 12:
+12 24 months continue especially given helpful follow believe prepared remarks risks thanks morning ve seen reductions
+
+Topic 13:
+they shares ll markets businesses package expanding deﬁnitely partnership apple ﬁnancing there ll
+
+Topic 14:
+improvement re ﬁnancing markets revenue well gerard stay trends buyback hit

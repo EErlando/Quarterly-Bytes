@@ -1,0 +1,9 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 5, 'hdbscan_min_cluster_size': 10, 'vectorizer_min_df': 5, 'vectorizer_ngram_range': (1, 1)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_drive_revenue_loan_quarter): drive, revenue, loan, quarter, expense, growth, investment, reserve, deposit, reflect
+Topic 1 (1_drive_market_revenue_expense): drive, market, revenue, expense, security, investment, include, impact, growth, mention
+Topic 2 (2_business_quarter_start_reflect): business, quarter, start, reflect, revenue, deposit, result, report, drive, record
+Topic 3 (3_report_start_revenue_result): report, start, revenue, result, include, loss, security, quarter, turn, investment

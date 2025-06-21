@@ -9,3 +9,8 @@ PyYAML
 torch
 transformers
 numpy
+bertopic
+umap-learn
+python-dev-tools
+hdbscan==0.8.40
+sentence-transformers

@@ -1,0 +1,19 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 15, 'umap_n_components': 5, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 5, 'vectorizer_ngram_range': (1, 2)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_revenue_equity_portfolio_underwriting): revenue, equity, portfolio, underwriting, rise, lending, versus, low, net revenue, net
+Topic 1 (1_management_client_franchise_business): management, client, franchise, business, class, solution, ealth, invest, ﬁrm, ealth management
+Topic 2 (2_see_join_ﬁnancial_level): see, join, ﬁnancial, level, economic, recent, growth, high, stress, expectation
+Topic 3 (3_roe_generate_net_result): roe, generate, net, result, item, revenue, net revenue, let, david, page
+Topic 4 (4_fee_inﬂow_aus_alternative): fee, inﬂow, aus, alternative, management, net inﬂow, total, private, revenue, long term
+Topic 5 (5_expense_quarterly_tax_ratio): expense, quarterly, tax, ratio, operating, date, impairment, total, approximately, cost
+Topic 6 (6_common_dividend_ratio_shareholder): common, dividend, ratio, shareholder, return shareholder, approach, slide, return, point, buf fer
+Topic 7 (7_ef_year_number_franchise): ef, year, number, franchise, deposit, durability, cycle, volatility, follow, gs
+Topic 8 (8_investment_loss_portfolio_cre): investment, loss, portfolio, cre, public, relate, approximately, net, equity, cie
+Topic 9 (9_additionally_area_deliver_execution): additionally, area, deliver, execution, shareholder, client, , , , 
+Topic 10 (10_ﬁnancial_stress_industry_bank): ﬁnancial, stress, industry, bank, liquidity, turn, make, uncertainty, service, large
+Topic 11 (11_technology_capability_solution_particularly): technology, capability, solution, particularly, lead, signiﬁcant, infrastructure, footprint, innovation, program
+Topic 12 (12_earning_gs_today_presentation): earning, gs, today, presentation, page, 2q, ﬁrst, 3q, 4q, strategic
+Topic 13 (13_david_look_material_denis): david, look, material, denis, join, presentation, earning, let, today, gs

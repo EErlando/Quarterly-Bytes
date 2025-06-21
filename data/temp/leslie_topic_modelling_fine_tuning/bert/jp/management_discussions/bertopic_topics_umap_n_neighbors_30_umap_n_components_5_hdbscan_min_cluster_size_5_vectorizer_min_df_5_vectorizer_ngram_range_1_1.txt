@@ -1,0 +1,19 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 5, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 5, 'vectorizer_ngram_range': (1, 1)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_nii_high_market_mention): nii, high, market, mention, rate, drive, low, loss, security, expense
+Topic 1 (1_start_report_result_revenue): start, report, result, revenue, loss, include, exclude, gain, firmwide, previously
+Topic 2 (2_capital_ccb_start_quarter): capital, ccb, start, quarter, current, versus, business, 4q, consumer, effect
+Topic 3 (3_commercial_off_reserve_expense): commercial, off, reserve, expense, cost, drive, bank, compensation, predominantly, move
+Topic 4 (4_ccb_consumer_deposit_business): ccb, consumer, deposit, business, management, spend, touch, revenue, segment, cash
+Topic 5 (5_inflow_asset_equity_quarter): inflow, asset, equity, quarter, see, level, continue, drive, high, compensation
+Topic 6 (6_awm_management_margin_tax): awm, management, margin, tax, high, average, report, inflow, offset, business
+Topic 7 (7_loan_sequentially_client_rate): loan, sequentially, client, rate, reflect, awm, cost, off, office, portfolio
+Topic 8 (8_cib_ib_fee_advisory): cib, ib, fee, advisory, report, deal, revenue, large, closing, benefit
+Topic 9 (9_underwriting_advisory_fee_significantly): underwriting, advisory, fee, significantly, healthy, 1q, remain, see, robust, business
+Topic 10 (10_volatility_market_strong_elevated): volatility, market, strong, elevated, high, rate, service, total, flow, increase
+Topic 11 (11_ib_office_relate_deposit): ib, office, relate, deposit, volume, non, quarter, technology, drive, large
+Topic 12 (12_environment_uncertainty_franchise_client): environment, uncertainty, franchise, client, global, mind, earning, course, employee, open
+Topic 13 (13_open___): open, , , , , , , , , 

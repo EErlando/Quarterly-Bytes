@@ -1,0 +1,18 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 15, 'umap_n_components': 10, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 2)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_nii_nir_nii market_high): nii, nir, nii market, high, market, drive, rate, revenue, rate nir, security loss
+Topic 1 (1_derivative_currency emerge_currency_fix): derivative, currency emerge, currency, fix, revenue, market, volatility, strong, emerge market, emerge
+Topic 2 (2_commercial_move commercial_expense_reserve): commercial, move commercial, expense, reserve, off, drive, commercial report, cost, cost reflect, bank commercial
+Topic 3 (3_rwa_requirement_capital_cet1): rwa, requirement, capital, cet1, scb, cet1 ratio, ratio, start ccb, business start, quarter cet1
+Topic 4 (4_ccb_ccb report_financial result_management revenue): ccb, ccb report, financial result, management revenue, financial, small business, wealth management, wealth, revenue wealth, result
+Topic 5 (5_start report_refer_refer disclaimer_disclaimer): start report, refer, refer disclaimer, disclaimer, revenue deliver, rotce, morning, website, available website, website refer
+Topic 6 (6_inflow_aum_continue inflow_asset): inflow, aum, continue inflow, asset, quarter, inflow aum, aum asset, see inflow, liquidity see, liquidity
+Topic 7 (7_awm_tax margin_report tax_awm report): awm, tax margin, report tax, awm report, management, awm awm, management fee, line, line business, business awm
+Topic 8 (8_gross ib_gross_ib_technology investment): gross ib, gross, ib, technology investment, quarter, include office, ib market, volume relate, attrition non, investment high
+Topic 9 (9_loan_origination_loan reflect_loan sequentially): loan, origination, loan reflect, loan sequentially, funding, sequentially, client, mute, reflect continued, loan client
+Topic 10 (10_revenue ib_cib report_cib_ib): revenue ib, cib report, cib, ib, fee rank, ib fee, fee, rank, report revenue, rank date
+Topic 11 (11_underwriting_fee_fee term_underwriting business): underwriting, fee, fee term, underwriting business, advisory fee, advisory, pipeline, condition, underwriting fee, exist pipeline
+Topic 12 (12_open_question_open question_open open): open, question, open question, open open, operator open, operator, question ahead, open guess, question operator, great question
