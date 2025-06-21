@@ -3,14 +3,16 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_nii_revenue_rate_high): nii, revenue, rate, high, market, low, service, balance, strong, drive
-Topic 1 (1_expense_commercial_reserve_off): expense, commercial, reserve, off, cost, drive, predominantly, compensation, high, move
-Topic 2 (2_capital_distribution_end_quarter): capital, distribution, end, quarter, versus, prior quarter, start, offset, business, increase
-Topic 3 (3_start_report_result_revenue): start, report, result, revenue, loss, include, security, item, result report, exclude
-Topic 4 (4_inflow_asset_quarter_see): inflow, asset, quarter, see, level, quarter quarter, high, drive, deposit, fix
-Topic 5 (5_awm_management_margin_tax): awm, management, margin, tax, high, inflow, asset, drive high, revenue drive, offset
-Topic 6 (6_loan_sequentially_rate_high rate): loan, sequentially, rate, high rate, reflect, loan quarter, awm, continued, cost, quarter quarter
-Topic 7 (7_ib_ib fee_report revenue_fee): ib, ib fee, report revenue, fee, revenue, report, ib revenue, advisory, deal, large
-Topic 8 (8_ib_quarter_deposit_deposit quarter): ib, quarter, deposit, deposit quarter, volume, non, relate, market revenue, quarter quarter, ib revenue
-Topic 9 (9_open_employee_turn_contribution): open, employee, turn, contribution, consumer, business, include, fee, , 
-Topic 10 (10_underwriting_advisory_condition_underwriting fee): underwriting, advisory, condition, underwriting fee, fee, 1q, healthy, dynamic, headwind, current
+Topic 0 (0_nii_high_market_rate): nii, high, market, rate, drive, low, drive high, mention, high rate, revenue
+Topic 1 (1_fix_market_strong_security service): fix, market, strong, security service, rate, revenue, environment, elevated, low, offset
+Topic 2 (2_commercial_reserve_expense_off): commercial, reserve, expense, off, cost, drive, reflect off, term, predominantly, compensation
+Topic 3 (3_capital_end_quarter_effect): capital, end, quarter, effect, versus, start, versus prior, business, current, prior quarter
+Topic 4 (4_consumer_result_business_deposit): consumer, result, business, deposit, management, report revenue, spend, revenue, segment, cash
+Topic 5 (5_start_report_result_revenue): start, report, result, revenue, loss, include, item, quarter, mention, security
+Topic 6 (6_inflow_asset_quarter_equity): inflow, asset, quarter, equity, see, quarter quarter, level, loan quarter, high, drive
+Topic 7 (7_awm_management_margin_tax): awm, management, margin, tax, strong inflow, high, report, advisor, inflow, offset
+Topic 8 (8_ib_deposit quarter_quarter_non): ib, deposit quarter, quarter, non, volume, quarter quarter, office, deposit, relate, drive
+Topic 9 (9_loan_sequentially_client_rate): loan, sequentially, client, rate, high rate, reflect, loan quarter, awm, off, quarter quarter
+Topic 10 (10_cib_ib_ib fee_rank): cib, ib, ib fee, rank, fee, report revenue, advisory, report, revenue, deal
+Topic 11 (11_underwriting_advisory_fee_condition): underwriting, advisory, fee, condition, underwriting fee, term, 1q, healthy, robust, particularly
+Topic 12 (12_open___): open, , , , , , , , , 
