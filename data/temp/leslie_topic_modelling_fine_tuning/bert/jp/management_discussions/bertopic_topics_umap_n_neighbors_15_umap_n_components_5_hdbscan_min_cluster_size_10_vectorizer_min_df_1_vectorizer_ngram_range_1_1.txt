@@ -1,0 +1,10 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 15, 'umap_n_components': 5, 'hdbscan_min_cluster_size': 10, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 1)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_nii_high_nir_drive): nii, high, nir, drive, market, rate, revenue, low, balance, growth
+Topic 1 (1_drive_revenue_high_low): drive, revenue, high, low, offset, expense, commercial, predominantly, quarter, market
+Topic 2 (2_rwa_ccb_capital_requirement): rwa, ccb, capital, requirement, quarter, scb, business, cet1, buffer, financial
+Topic 3 (3_inflow_aum_high_drive): inflow, aum, high, drive, awm, asset, quarter, management, level, margin
+Topic 4 (4_disclaimer_refer_rotce_website): disclaimer, refer, rotce, website, deliver, available, morning, ep, report, start

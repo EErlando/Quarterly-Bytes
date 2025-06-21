@@ -1,0 +1,13 @@
+--- LDA Topic Model with 5 Topics ---
+
+Interpreting Topics:
+Topic 1:
+public equity beneﬁcial strong momentum expect 64 that that narrowed our focus context continue support clients early
+Topic 2:
+have are re just there with very about at capital
+Topic 3:
+there more again you re set up marcus loans could follow up heading overall mix investments funds solutions still believe we
+Topic 4:
+are gsib with business just have very targeting wa up
+Topic 5:
+ficc there have private wealth just wealth activity certainly at private
