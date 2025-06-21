@@ -1,0 +1,18 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 10, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 2)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_nii_year_ex market_auto): nii, year, ex market, auto, million, billion, ex, loss million, card, nir
+Topic 1 (1_trillion_year_trillion year_inflow): trillion, year, trillion year, inflow, client asset, net inflow, aum, asset trillion, fix income, aum trillion
+Topic 2 (2_rwa_capital_requirement_cet1): rwa, capital, requirement, cet1, scb, point, increase, quarter, risk, basis point
+Topic 3 (3_million_cost billion_charge off_reserve): million, cost billion, charge off, reserve, off, billion, net charge, net, charge, credit cost
+Topic 4 (4_ccb_year_ccb report_financial result): ccb, year, ccb report, financial result, management revenue, financial, year year, year banking, small business, wealth management
+Topic 5 (5_refer disclaimer_refer_disclaimer_start page): refer disclaimer, refer, disclaimer, start page, firm report, page firm, presentation available, morning presentation, website, available website
+Topic 6 (6_expect_rate_expect card_charge rate): expect, rate, expect card, charge rate, card net, produce, driver, proud, go driver, ability
+Topic 7 (7_year_gross_year year_gross ib): year, gross, year year, gross ib, expense, billion year, revenue, ib, drive, deposit
+Topic 8 (8_awm_tax margin_awm report_page awm): awm, tax margin, awm report, page awm, business awm, complete line, billion pre, pre tax, management fee, margin
+Topic 9 (9_open_open line_question_economy): open, open line, question, economy, let open, operator open, line, let, global economy, outcome
+Topic 10 (10_loan_origination_cre loan_utilization): loan, origination, cre loan, utilization, cre, revolver utilization, revolver, estate, real estate, middle market
+Topic 11 (11_cib report_year ib_cib_billion ib): cib report, year ib, cib, billion ib, ib, wallet share, wallet, rank, fee, ib fee
+Topic 12 (12_underwriting_fee_conversion_equity term): underwriting, fee, conversion, equity term, underwriting business, advisory, pipeline, advisory fee, condition, underwriting fee
