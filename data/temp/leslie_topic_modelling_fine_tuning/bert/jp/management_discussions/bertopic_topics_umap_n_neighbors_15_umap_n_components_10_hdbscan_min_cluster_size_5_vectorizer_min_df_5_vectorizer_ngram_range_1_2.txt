@@ -3,14 +3,14 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_year_year year_revenue_drive): year, year year, revenue, drive, billion year, inflow, deposit, high, drive high, net inflow
-Topic 1 (1_nii_billion_million_loss): nii, billion, million, loss, expense, year, corporate, million year, approximately, page
-Topic 2 (2_capital_increase_point_risk): capital, increase, point, risk, quarter, basis point, change, basis, end, page
-Topic 3 (3_million_charge off_reserve_off): million, charge off, reserve, off, billion, net, build, credit cost, net charge, reserve build
-Topic 4 (4_management_margin_tax_line business): management, margin, tax, line business, complete, net, year, report, high, report net
-Topic 5 (5_line_let_global_earning): line, let, global, earning, company, environment, look, strong, performance, provide
-Topic 6 (6_auto_card_card service_revolving balance): auto, card, card service, revolving balance, revolving, origination, service, account, year, year year
-Topic 7 (7_expect_rate_return_driver): expect, rate, return, driver, range, continue, look, remain, normalization, significant
-Topic 8 (8_loan_origination_banking_new): loan, origination, banking, new, corporate, client, million, reflect, activity, high rate
-Topic 9 (9_ib_cib_billion revenue_revenue billion): ib, cib, billion revenue, revenue billion, number, fee, billion, income billion, share, year
-Topic 10 (10_fee_debt_equity_outlook): fee, debt, equity, outlook, activity, market, 1q, term, headwind, affect
+Topic 0 (0_nii_revenue_rate_high): nii, revenue, rate, high, market, low, service, balance, strong, drive
+Topic 1 (1_expense_commercial_reserve_off): expense, commercial, reserve, off, cost, drive, predominantly, compensation, high, move
+Topic 2 (2_capital_distribution_end_quarter): capital, distribution, end, quarter, versus, prior quarter, start, offset, business, increase
+Topic 3 (3_start_report_result_revenue): start, report, result, revenue, loss, include, security, item, result report, exclude
+Topic 4 (4_inflow_asset_quarter_see): inflow, asset, quarter, see, level, quarter quarter, high, drive, deposit, fix
+Topic 5 (5_awm_management_margin_tax): awm, management, margin, tax, high, inflow, asset, drive high, revenue drive, offset
+Topic 6 (6_loan_sequentially_rate_high rate): loan, sequentially, rate, high rate, reflect, loan quarter, awm, continued, cost, quarter quarter
+Topic 7 (7_ib_ib fee_report revenue_fee): ib, ib fee, report revenue, fee, revenue, report, ib revenue, advisory, deal, large
+Topic 8 (8_ib_quarter_deposit_deposit quarter): ib, quarter, deposit, deposit quarter, volume, non, relate, market revenue, quarter quarter, ib revenue
+Topic 9 (9_open_employee_turn_contribution): open, employee, turn, contribution, consumer, business, include, fee, , 
+Topic 10 (10_underwriting_advisory_condition_underwriting fee): underwriting, advisory, condition, underwriting fee, fee, 1q, healthy, dynamic, headwind, current
