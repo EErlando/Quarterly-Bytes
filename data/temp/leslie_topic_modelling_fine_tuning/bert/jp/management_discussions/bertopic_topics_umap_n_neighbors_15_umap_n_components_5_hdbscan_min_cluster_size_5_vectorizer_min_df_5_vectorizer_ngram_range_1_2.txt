@@ -3,16 +3,20 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_nii_high_market_rate): nii, high, market, rate, drive, low, mention, drive high, revenue, loss
-Topic 1 (1_rate_fix_security service_strong): rate, fix, security service, strong, market, revenue, environment, low, offset, drive high
-Topic 2 (2_commercial_reserve_expense_off): commercial, reserve, expense, off, cost, drive, reflect off, term, predominantly, compensation
-Topic 3 (3_rotce_start_report_result): rotce, start, report, result, revenue, loss, include, quarter, exclude, gain
-Topic 4 (4_capital_distribution_point_end): capital, distribution, point, end, quarter, ccb, versus, versus prior, prior quarter, effect
-Topic 5 (5_ccb_consumer_business_result): ccb, consumer, business, result, report revenue, deposit, revenue, management, cash, segment
-Topic 6 (6_inflow_asset_quarter_see): inflow, asset, quarter, see, asset drive, equity, level, quarter quarter, high, drive
-Topic 7 (7_awm_management_tax_margin): awm, management, tax, margin, high, strong inflow, inflow, team, asset, drive
-Topic 8 (8_ib_deposit quarter_quarter_non): ib, deposit quarter, quarter, non, volume, deposit, office, quarter quarter, relate, drive
-Topic 9 (9_loan_sequentially_client_rate): loan, sequentially, client, rate, high rate, reflect, loan quarter, awm, cost, off
-Topic 10 (10_cib_ib_ib fee_rank): cib, ib, ib fee, rank, report revenue, fee, advisory, report, revenue, deal
-Topic 11 (11_open_support_employee_turn): open, support, employee, turn, contribution, consumer, include, business, fee, 
-Topic 12 (12_underwriting_advisory_underwriting fee_fee): underwriting, advisory, underwriting fee, fee, term, 1q, healthy, dynamic, particularly, robust
+Topic 0 (0_nii_market_impact_security loss): nii, market, impact, security loss, rate, high rate, investment security, mention, high, loss
+Topic 1 (1_commercial_off_reserve_cost reflect): commercial, off, reserve, cost reflect, cost, expense, drive, bank, loan growth, predominantly
+Topic 2 (2_capital_distribution_end_quarter): capital, distribution, end, quarter, versus, versus prior, effect, prior quarter, start, business
+Topic 3 (3_consumer_business_report revenue_result): consumer, business, report revenue, result, spend, deposit, management, segment, revenue, highlight
+Topic 4 (4_rotce_start_report_investment security): rotce, start, report, investment security, result, security loss, revenue, loss, include, item
+Topic 5 (5_inflow_asset_quarter_see): inflow, asset, quarter, see, asset drive, quarter quarter, equity, loan quarter, level, drive
+Topic 6 (6_lease_service_service revenue_high nii): lease, service, service revenue, high nii, nii, high balance, high, acquisition, balance, normalization
+Topic 7 (7_awm_tax_margin_management): awm, tax, margin, management, strong inflow, inflow, high, report, asset, average
+Topic 8 (8_loan_sequentially_client_loan quarter): loan, sequentially, client, loan quarter, reflect, quarter quarter, rate, high rate, awm, quarter
+Topic 9 (9_uncertainty_environment_go_client): uncertainty, environment, go, client, open, franchise, customer, result quarter, support, global
+Topic 10 (10_ib_deposit quarter_ib revenue_non): ib, deposit quarter, ib revenue, non, relate, office, volume, quarter quarter, quarter, deposit
+Topic 11 (11_fix_volatility_product_market): fix, volatility, product, market, elevated, strong, move market, service revenue, security service, rate
+Topic 12 (12_cib_ib_ib fee_report revenue): cib, ib, ib fee, report revenue, fee, advisory, ib revenue, report, deal, revenue
+Topic 13 (13_fdic_revenue expense_expense_nii): fdic, revenue expense, expense, nii, asset management, expense predominantly, market revenue, market, investment security, security loss
+Topic 14 (14_underwriting_advisory_condition_underwriting fee): underwriting, advisory, condition, underwriting fee, fee, healthy, 1q, headwind, robust, dynamic
+Topic 15 (15_open___): open, , , , , , , , , 
+Topic 16 (16_payment revenue_revenue exclude_offset margin_move market): payment revenue, revenue exclude, offset margin, move market, drive high, revenue, low balance, balance, payment, rate partially
