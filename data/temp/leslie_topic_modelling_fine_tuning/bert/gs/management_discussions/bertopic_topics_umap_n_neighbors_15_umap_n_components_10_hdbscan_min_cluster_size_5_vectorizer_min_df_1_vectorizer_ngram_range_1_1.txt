@@ -1,0 +1,21 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 15, 'umap_n_components': 10, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 1)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_client_franchise_wealth_management): client, franchise, wealth, management, business, fort, market, ef, strategic, lead
+Topic 1 (1_revenue_ficc_ﬁnance_underwriting): revenue, ficc, ﬁnance, underwriting, equity, intermediation, volume, rise, ﬁnancing, mortgage
+Topic 2 (2_ep_roe_generate_result): ep, roe, generate, result, rote, net, david, presentation, item, let
+Topic 3 (3_compensation_expense_non_quarterly): compensation, expense, non, quarterly, tax, fective, provision, ratio, operating, ef
+Topic 4 (4_dividend_common_stock_repurchase): dividend, common, stock, repurchase, requirement, cet1, standardized, shareholder, ratio, approach
+Topic 5 (5_inﬂation_economy_see_rate): inﬂation, economy, see, rate, geopolitical, supply, trend, interest, sector, tension
+Topic 6 (6_inﬂow_aus_alternative_long): inﬂow, aus, alternative, long, total, gross, trillion, party, fundraising, end
+Topic 7 (7_pcl_portfolio_loan_nii): pcl, portfolio, loan, nii, primarily, charge, total, credit, lending, collateralized
+Topic 8 (8_chief_ofﬁcer_ir_earning): chief, ofﬁcer, ir, earning, solomon, statement, website, com, gaap, copyright
+Topic 9 (9_investment_loss_cre_portfolio): investment, loss, cre, portfolio, exposure, cie, relate, public, equity, ofﬁce
+Topic 10 (10_fee_management_revenue_banking): fee, management, revenue, banking, lending, incentive, sequentially, private, rise, durable
+Topic 11 (11_join_moment_thank_violence): join, moment, thank, violence, celebrate, carey, everybody, remark, prepared, begin
+Topic 12 (12_ai_proven_technology_efﬁciently): ai, proven, technology, efﬁciently, scale, win, productivity, modernize, assistant, stack
+Topic 13 (13_open_question_identiﬁe_outcome): open, question, identiﬁe, outcome, deliver, additionally, area, execution, shareholder, client
+Topic 14 (14_stress_fed_regulation_ﬁle): stress, fed, regulation, ﬁle, supervision, suit, ﬁnancial, administration, time, partnership
+Topic 15 (15_historical_principal_portfolio_reduction): historical, principal, portfolio, reduction, platform, solution, sheet, pace, sale, approximately
