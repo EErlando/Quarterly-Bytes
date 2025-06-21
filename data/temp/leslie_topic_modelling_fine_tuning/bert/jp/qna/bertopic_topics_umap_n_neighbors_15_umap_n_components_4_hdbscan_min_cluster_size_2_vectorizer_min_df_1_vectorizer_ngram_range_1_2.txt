@@ -3,6 +3,7 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_go_get_capital_thing): go, get, capital, thing, know, lot, obviously, time, okay, kind
-Topic 1 (1_capital_go_sort_growth): capital, go, sort, growth, kind, lot, know, thank, obviously, maybe
-Topic 2 (2_go_bank_mean_rate): go, bank, mean, rate, see, quarter, talk, lot, nii, high
+Topic 0 (0_capital_go_growth_mean): capital, go, growth, mean, term, see, big, business, way, great
+Topic 1 (1_go_thing_time_aoci): go, thing, time, aoci, give, fed, come, guess, term, recession
+Topic 2 (2_go_capital_get_nii): go, capital, get, nii, thing, time, say, business, way, curve
+Topic 3 (3_go_mean_product_quarter): go, mean, product, quarter, liquidity, business, ratio, bank, system, nii
