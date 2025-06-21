@@ -1,0 +1,13 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 5, 'hdbscan_min_cluster_size': 10, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 2)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_year_drive_year year_market level): year, drive, year year, market level, trillion, high, billion year, revenue, billion, inflow
+Topic 1 (1_ex market_billion_nii_ex): ex market, billion, nii, ex, million, year, nir, loss million, nii ex, net loss
+Topic 2 (2_year_ccb_ccb report_year year): year, ccb, ccb report, year year, billion, revenue, billion revenue, revenue billion, income, income billion
+Topic 3 (3_rwa_capital_requirement_scb): rwa, capital, requirement, scb, quarter, increase, cet1, point, start ccb, ccb page
+Topic 4 (4_million_billion_net_reserve): million, billion, net, reserve, reserve build, build, credit cost, net reserve, cost billion, charge off
+Topic 5 (5_expect_open_rate_open line): expect, open, rate, open line, wrap, range scenario, range, expect card, charge rate, let open
+Topic 6 (6_auto_year_revenue year_card): auto, year, revenue year, card, auto revenue, os, origination, card service, card os, service auto
+Topic 7 (7_start page_refer disclaimer_refer_disclaimer): start page, refer disclaimer, refer, disclaimer, page firm, billion, website refer, available website, presentation available, morning presentation
