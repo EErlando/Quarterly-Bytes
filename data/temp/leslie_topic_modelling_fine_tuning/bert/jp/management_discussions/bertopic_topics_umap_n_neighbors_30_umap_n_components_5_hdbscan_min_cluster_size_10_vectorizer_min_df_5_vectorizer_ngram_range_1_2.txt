@@ -3,11 +3,8 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_year_drive_year year_billion year): year, drive, year year, billion year, inflow, high, revenue, net inflow, equity, drive high
-Topic 1 (1_nii_million_billion_year): nii, million, billion, year, loss, approximately, market, expense, million year, billion billion
-Topic 2 (2_year_billion revenue_year year_revenue): year, billion revenue, year year, revenue, income billion, revenue billion, report net, billion, income, ib
-Topic 3 (3_capital_increase_cet1_point): capital, increase, cet1, point, quarter, risk, change, basis point, basis, cet1 ratio
-Topic 4 (4_million_reserve_reserve build_credit cost): million, reserve, reserve build, credit cost, build, net, charge off, cost, billion, off
-Topic 5 (5_expect_rate_look_forward): expect, rate, look, forward, remain, line, uncertainty, continue, return, let
-Topic 6 (6_card_year_account_service): card, year, account, service, high, year year, drive, revenue, drive high, acquisition
-Topic 7 (7_firm report_billion_report_income billion): firm report, billion, report, income billion, good, report net, revenue billion, page, firm, start
+Topic 0 (0_drive_high_revenue_drive high): drive, high, revenue, drive high, offset, low, expense, relate, balance, market
+Topic 1 (1_nii_high_market_drive): nii, high, market, drive, rate, low, revenue, drive high, balance, high rate
+Topic 2 (2_capital_quarter_business_offset): capital, quarter, business, offset, low, revenue, result, management, deposit, wealth management
+Topic 3 (3_inflow_loan_high_asset): inflow, loan, high, asset, drive, quarter, level, margin, management, quarter quarter
+Topic 4 (4_report_result_revenue_include): report, result, revenue, include, investment security, security loss, loss, gain, security, exclude
