@@ -1,0 +1,22 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 5, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 5, 'vectorizer_ngram_range': (1, 2)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_capital_risk_basis point_point): capital, risk, basis point, point, change, basis, increase, quarter, end, balance sheet
+Topic 1 (1_reserve_charge off_off_reserve build): reserve, charge off, off, reserve build, build, net reserve, million, credit cost, net charge, cost
+Topic 2 (2_security service_revenue_equity_year): security service, revenue, equity, year, billion year, drive high, high, offset low, revenue billion, drive
+Topic 3 (3_billion revenue_year_income_business): billion revenue, year, income, business, year year, consumer, result, spend, income billion, revenue
+Topic 4 (4_thank_firm_start_good): thank, firm, start, good, report, billion, republic, page, report net, corporate
+Topic 5 (5_card_revolving balance_revolving_account): card, revolving balance, revolving, account, origination, year, service, home, home lending, year year
+Topic 6 (6_nii_approximately_nii ex_expect): nii, approximately, nii ex, expect, ex, outlook, billion, expense, page, 4q
+Topic 7 (7_inflow_net inflow_asset_long term): inflow, net inflow, asset, long term, long, net, quarter, year, client, finally
+Topic 8 (8_expect_rate_driver_normalization): expect, rate, driver, normalization, card, forward, charge, look, go, continue
+Topic 9 (9_loss_million_nir_year nii): loss, million, nir, year nii, million year, billion million, net, investment security, security, year
+Topic 10 (10_awm_tax_management_margin): awm, tax, management, margin, line business, complete, pre, net, high, report
+Topic 11 (11_ex_nir_nii ex_low): ex, nir, nii ex, low, market, year expense, billion drive, high, ib fee, market revenue
+Topic 12 (12_line_let_global_environment): line, let, global, environment, company, look, operating, recent, uncertainty, economic
+Topic 13 (13_ib_year_year year_billion year): ib, year, year year, billion year, quarter quarter, deposit, year quarter, expense, quarter, volume
+Topic 14 (14_loan_origination_sequentially_banking): loan, origination, sequentially, banking, new, client, corporate, loan year, year sequentially, loan quarter
+Topic 15 (15_cib_rank_ib_billion revenue): cib, rank, ib, billion revenue, ib fee, rank number, number, fee, fee year, share
+Topic 16 (16_underwriting_fee_advisory_condition): underwriting, fee, advisory, condition, underwriting fee, debt, debt equity, equity, outlook, activity
