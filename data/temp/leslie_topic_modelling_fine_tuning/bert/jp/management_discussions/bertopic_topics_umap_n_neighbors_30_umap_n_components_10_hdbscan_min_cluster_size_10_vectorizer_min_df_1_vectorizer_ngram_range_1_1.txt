@@ -3,6 +3,8 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_drive_revenue_high_quarter): drive, revenue, high, quarter, loan, compensation, expense, relate, offset, low
-Topic 1 (1_nii_high_drive_market): nii, high, drive, market, nir, revenue, low, expense, rate, origination
-Topic 2 (2_rwa_ccb_capital_requirement): rwa, ccb, capital, requirement, quarter, business, scb, cet1, buffer, revenue
+Topic 0 (0_nii_high_nir_market): nii, high, nir, market, drive, revenue, rate, low, origination, balance
+Topic 1 (1_drive_revenue_high_low): drive, revenue, high, low, offset, commercial, expense, quarter, predominantly, relate
+Topic 2 (2_ccb_rwa_capital_requirement): ccb, rwa, capital, requirement, scb, quarter, cet1, business, buffer, consumer
+Topic 3 (3_inflow_aum_awm_asset): inflow, aum, awm, asset, quarter, high, drive, management, level, margin
+Topic 4 (4_disclaimer_refer_website_deliver): disclaimer, refer, website, deliver, rotce, available, morning, report, presentation, ep
