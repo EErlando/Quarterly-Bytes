@@ -1,0 +1,16 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 15, 'umap_n_components': 10, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 1)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_year_revenue_trillion_drive): year, revenue, trillion, drive, inflow, deposit, high, billion, quarter, expense
+Topic 1 (1_billion_nii_million_loss): billion, nii, million, loss, ex, nir, year, expense, corporate, page
+Topic 2 (2_rwa_capital_requirement_cet1): rwa, capital, requirement, cet1, increase, scb, point, quarter, risk, gsib
+Topic 3 (3_million_reserve_billion_off): million, reserve, billion, off, net, build, charge, cost, credit, card
+Topic 4 (4_awm_management_margin_tax): awm, management, margin, tax, net, valuation, complete, year, high, report
+Topic 5 (5_open_question_operator_economy): open, question, operator, economy, world, wrap, line, jamie, let, ahead
+Topic 6 (6_auto_card_os_revolving): auto, card, os, revolving, origination, year, service, account, lease, high
+Topic 7 (7_expect_produce_rate_ability): expect, produce, rate, ability, proud, wrap, return, driver, look, range
+Topic 8 (8_loan_revolver_origination_utilization): loan, revolver, origination, utilization, cre, sequentially, estate, real, middle, banking
+Topic 9 (9_wallet_ib_rank_cib): wallet, ib, rank, cib, fee, number, billion, year, share, revenue
+Topic 10 (10_underwriting_fee_advisory_conversion): underwriting, fee, advisory, conversion, condition, pipeline, debt, equity, announce, outlook
