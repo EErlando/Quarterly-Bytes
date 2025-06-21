@@ -3,20 +3,16 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_year_revenue_equity_expense): year, revenue, equity, expense, drive, high, relate, payment, deposit, low
-Topic 1 (1_capital_risk_point_increase): capital, risk, point, increase, basis, change, quarter, ccb, end, basel
-Topic 2 (2_thank_firm_republic_billion): thank, firm, republic, billion, report, start, corporate, good, page, result
-Topic 3 (3_reserve_off_million_build): reserve, off, million, build, charge, cost, credit, net, card, billion
-Topic 4 (4_ccb_year_income_small): ccb, year, income, small, consumer, business, touch, highlight, revenue, report
-Topic 5 (5_nii_approximately_expect_ex): nii, approximately, expect, ex, expense, outlook, billion, fdic, page, market
-Topic 6 (6_inflow_asset_long_finally): inflow, asset, long, finally, quarter, net, client, drive, year, see
-Topic 7 (7_expect_rate_look_forward): expect, rate, look, forward, driver, operating, uncertainty, focus, normalization, remain
-Topic 8 (8_awm_margin_tax_management): awm, margin, tax, management, complete, pre, net, report, fee, high
-Topic 9 (9_loan_origination_sequentially_banking): loan, origination, sequentially, banking, client, new, flat, reflect, activity, corporate
-Topic 10 (10_ex_nir_low_market): ex, nir, low, market, ib, billion, high, balance, security, million
-Topic 11 (11_auto_card_origination_revolving): auto, card, origination, revolving, account, service, lease, acquisition, move, year
-Topic 12 (12_loss_million_nir_net): loss, million, nir, net, mention, year, compare, security, corporate, impact
-Topic 13 (13_cib_ib_rank_fee): cib, ib, rank, fee, number, share, advisory, report, billion, deal
-Topic 14 (14_let_line_actual_additional): let, line, actual, additional, 3q, thank, want, earning, recent, good
-Topic 15 (15_underwriting_fee_advisory_condition): underwriting, fee, advisory, condition, debt, equity, announce, outlook, activity, 1q
-Topic 16 (16_year_deposit_quarter_asset): year, deposit, quarter, asset, customer, management, make, home, drive, banking
+Topic 0 (0_nii_market_high_rate): nii, market, high, rate, drive, mention, low, loss, revenue, security
+Topic 1 (1_fix_rate_strong_market): fix, rate, strong, market, revenue, environment, low, offset, service, high
+Topic 2 (2_commercial_reserve_off_expense): commercial, reserve, off, expense, cost, drive, term, predominantly, compensation, reflect
+Topic 3 (3_rotce_start_report_result): rotce, start, report, result, revenue, loss, include, quarter, firmwide, gain
+Topic 4 (4_capital_distribution_point_end): capital, distribution, point, end, quarter, ccb, versus, effect, start, current
+Topic 5 (5_ccb_consumer_business_result): ccb, consumer, business, result, deposit, management, cash, segment, touch, revenue
+Topic 6 (6_inflow_asset_quarter_see): inflow, asset, quarter, see, equity, level, high, drive, team, continue
+Topic 7 (7_awm_management_tax_margin): awm, management, tax, margin, high, team, inflow, asset, average, drive
+Topic 8 (8_ib_non_quarter_volume): ib, non, quarter, volume, office, deposit, relate, drive, technology, expense
+Topic 9 (9_loan_sequentially_client_rate): loan, sequentially, client, rate, reflect, awm, cost, off, office, portfolio
+Topic 10 (10_cib_ib_rank_fee): cib, ib, rank, fee, advisory, report, revenue, deal, large, benefit
+Topic 11 (11_open_support_employee_turn): open, support, employee, turn, contribution, consumer, include, business, fee, 
+Topic 12 (12_underwriting_advisory_fee_term): underwriting, advisory, fee, term, 1q, healthy, dynamic, particularly, robust, headwind
