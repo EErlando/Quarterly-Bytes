@@ -5,7 +5,7 @@ This group project is for the Bank of England as part of the Data Science and AI
 ---
 
 <p align="center">
-  <img src="./images/bank_of_england_logo_placeholder.png" alt="Bank of England Logo Placeholder" width="200"/>
+  <img src="./assets/Bank_of_England_logo.svg" alt="Bank of England Logo Placeholder" width="200"/>
   <img src="./images/cambridge_ice_logo_placeholder.png" alt="Cambridge ICE Logo Placeholder" width="200"/>
   <img src="./images/fourthrev_logo_placeholder.png" alt="FourthRev Logo Placeholder" width="200"/>
 </p>
