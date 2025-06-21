@@ -3,10 +3,9 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_drive_revenue_high_expense): drive, revenue, high, expense, drive high, payment revenue, offset, low, quarter, commercial
-Topic 1 (1_nii_nir_high_drive): nii, nir, high, drive, nii market, market, revenue, rate, low, drive high
-Topic 2 (2_inflow_aum_high_drive): inflow, aum, high, drive, inflow high, asset, quarter, awm, continue inflow, management fee
-Topic 3 (3_rwa_cet1_capital_scb): rwa, cet1, capital, scb, requirement, quarter, cet1 ratio, ratio, quarter cet1, start ccb
-Topic 4 (4_start report_refer disclaimer_refer_disclaimer): start report, refer disclaimer, refer, disclaimer, revenue deliver, deliver rotce, deliver, website, presentation available, morning presentation
-Topic 5 (5_ccb_ccb report_financial result_management revenue): ccb, ccb report, financial result, management revenue, revenue, financial, small business, wealth, wealth management, business
-Topic 6 (6_loan_origination_loan reflect_loan sequentially): loan, origination, loan reflect, loan sequentially, sequentially, client, funding, mute, rate, loan client
+Topic 0 (0_drive_revenue_high_expense): drive, revenue, high, expense, drive high, low, offset, payment revenue, quarter, market
+Topic 1 (1_nii_high_drive_nir): nii, high, drive, nir, revenue, market, nii market, low, rate, drive high
+Topic 2 (2_ccb_rwa_capital_requirement): ccb, rwa, capital, requirement, ccb report, business start, quarter, business, scb, cet1
+Topic 3 (3_inflow_high_aum_drive): inflow, high, aum, drive, asset, quarter, inflow high, awm, continue inflow, management fee
+Topic 4 (4_start report_refer_disclaimer_refer disclaimer): start report, refer, disclaimer, refer disclaimer, rotce, revenue deliver, deliver rotce, presentation available, morning presentation, website refer
+Topic 5 (5_loan_origination_loan reflect_loan sequentially): loan, origination, loan reflect, loan sequentially, sequentially, funding, client, mute, reflect, rate
