@@ -3,10 +3,6 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_billion_year_nii_million): billion, year, nii, million, ex market, ex, revenue, nir, year year, net
-Topic 1 (1_year_year year_trillion_drive): year, year year, trillion, drive, billion year, revenue, billion, high, quarter, expense
-Topic 2 (2_expect_rate_open_wrap): expect, rate, open, wrap, open line, remain, range scenario, expect card, range, charge rate
-Topic 3 (3_million_billion_net_reserve): million, billion, net, reserve, cost billion, build, year, charge off, reserve build, net charge
-Topic 4 (4_rwa_capital_requirement_quarter): rwa, capital, requirement, quarter, cet1, scb, increase, start ccb, ccb page, let business
-Topic 5 (5_auto_year_card_revenue year): auto, year, card, revenue year, auto revenue, os, origination, card service, card os, year year
-Topic 6 (6_awm_tax margin_awm report_page awm): awm, tax margin, awm report, page awm, business awm, complete line, awm page, year, billion pre, pre tax
+Topic 0 (0_drive_revenue_high_quarter): drive, revenue, high, quarter, loan, expense, compensation, relate, offset, drive high
+Topic 1 (1_nii_high_drive_market): nii, high, drive, market, revenue, nir, low, nii market, quarter, expense
+Topic 2 (2_rwa_ccb_capital_quarter): rwa, ccb, capital, quarter, requirement, ccb report, business start, business, scb, start ccb
