@@ -1,0 +1,18 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 10, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 5, 'vectorizer_ngram_range': (1, 1)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_nii_year_million_card): nii, year, million, card, loss, billion, approximately, high, drive, expense
+Topic 1 (1_inflow_year_equity_high): inflow, year, equity, high, drive, asset, quarter, client, market, expense
+Topic 2 (2_capital_point_risk_increase): capital, point, risk, increase, basis, change, quarter, ratio, sheet, end
+Topic 3 (3_million_reserve_off_cost): million, reserve, off, cost, build, charge, card, credit, net, billion
+Topic 4 (4_year_business_consumer_income): year, business, consumer, income, revenue, republic, spend, result, segment, management
+Topic 5 (5_rotce_firm_good_start): rotce, firm, good, start, report, page, billion, corporate, income, net
+Topic 6 (6_expect_rate_driver_card): expect, rate, driver, card, normalization, charge, forward, go, remain, continue
+Topic 7 (7_year_expense_ib_deposit): year, expense, ib, deposit, revenue, drive, relate, volume, non, high
+Topic 8 (8_awm_margin_management_tax): awm, margin, management, tax, complete, pre, high, net, drive, year
+Topic 9 (9_line_let_environment_operating): line, let, environment, operating, global, company, recent, uncertainty, look, economic
+Topic 10 (10_loan_origination_sequentially_banking): loan, origination, sequentially, banking, new, client, reflect, flat, corporate, million
+Topic 11 (11_cib_ib_rank_number): cib, ib, rank, number, fee, share, billion, year, revenue, report
+Topic 12 (12_underwriting_fee_advisory_condition): underwriting, fee, advisory, condition, debt, equity, outlook, activity, 1q, market
