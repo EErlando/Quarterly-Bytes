@@ -3,12 +3,10 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_nii_billion_million_loss): nii, billion, million, loss, expect, rate, expense, year, net, page
-Topic 1 (1_year_revenue_expense_equity): year, revenue, expense, equity, drive, low, high, market, relate, deposit
-Topic 2 (2_year_cib_ib_revenue): year, cib, ib, revenue, report, income, billion, fee, number, share
-Topic 3 (3_capital_point_increase_risk): capital, point, increase, risk, basis, change, quarter, let, start, page
-Topic 4 (4_million_charge_reserve_off): million, charge, reserve, off, cost, billion, net, build, credit, card
-Topic 5 (5_card_account_year_service): card, account, year, service, revenue, nii, high, drive, strong, home
-Topic 6 (6_inflow_asset_net_year): inflow, asset, net, year, quarter, drive, long, high, finally, billion
-Topic 7 (7_awm_margin_management_tax): awm, margin, management, tax, complete, net, fee, report, year, pre
-Topic 8 (8_loan_sequentially_banking_new): loan, sequentially, banking, new, client, corporate, flat, million, market, remain
+Topic 0 (0_drive_revenue_expense_high): drive, revenue, expense, high, relate, offset, low, predominantly, investment, volume
+Topic 1 (1_nii_high_market_drive): nii, high, market, drive, rate, revenue, low, expense, balance, investment
+Topic 2 (2_inflow_asset_awm_high): inflow, asset, awm, high, drive, management, level, margin, quarter, fee
+Topic 3 (3_capital_quarter_end_versus): capital, quarter, end, versus, offset, business, effect, high, current, 4q
+Topic 4 (4_start_report_result_revenue): start, report, result, revenue, include, loss, quarter, item, security, investment
+Topic 5 (5_revenue_consumer_business_deposit): revenue, consumer, business, deposit, management, spend, report, cash, result, segment
+Topic 6 (6_loan_sequentially_rate_reflect): loan, sequentially, rate, reflect, awm, quarter, high, off, cost, large
