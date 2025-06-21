@@ -1,0 +1,13 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 5, 'hdbscan_min_cluster_size': 10, 'vectorizer_min_df': 5, 'vectorizer_ngram_range': (1, 2)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_year_drive_year year_billion year): year, drive, year year, billion year, inflow, high, revenue, net inflow, equity, drive high
+Topic 1 (1_nii_million_billion_year): nii, million, billion, year, loss, approximately, market, expense, million year, billion billion
+Topic 2 (2_year_billion revenue_year year_revenue): year, billion revenue, year year, revenue, income billion, revenue billion, report net, billion, income, ib
+Topic 3 (3_capital_increase_cet1_point): capital, increase, cet1, point, quarter, risk, change, basis point, basis, cet1 ratio
+Topic 4 (4_million_reserve_reserve build_credit cost): million, reserve, reserve build, credit cost, build, net, charge off, cost, billion, off
+Topic 5 (5_expect_rate_look_forward): expect, rate, look, forward, remain, line, uncertainty, continue, return, let
+Topic 6 (6_card_year_account_service): card, year, account, service, high, year year, drive, revenue, drive high, acquisition
+Topic 7 (7_firm report_billion_report_income billion): firm report, billion, report, income billion, good, report net, revenue billion, page, firm, start
