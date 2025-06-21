@@ -3,12 +3,10 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_nii_billion_million_loss): nii, billion, million, loss, expect, rate, expense, year, million year, net
-Topic 1 (1_year_revenue_billion year_year year): year, revenue, billion year, year year, expense, equity, drive, revenue billion, drive high, low
-Topic 2 (2_billion revenue_year_cib_revenue): billion revenue, year, cib, revenue, ib, report, revenue billion, income billion, year year, billion
-Topic 3 (3_capital_point_increase_risk): capital, point, increase, risk, quarter, basis point, basis, change, let, start
-Topic 4 (4_million_charge off_net charge_charge): million, charge off, net charge, charge, reserve, off, billion, net, credit cost, cost
-Topic 5 (5_card_year_account_revenue): card, year, account, revenue, year year, service, nii, high, drive, strong
-Topic 6 (6_inflow_net inflow_inflow billion_asset): inflow, net inflow, inflow billion, asset, net, year, quarter, long term, drive, long
-Topic 7 (7_awm_margin_line business_management): awm, margin, line business, management, tax, complete, net, fee, year, report
-Topic 8 (8_loan_sequentially_banking_new): loan, sequentially, banking, new, client, corporate, million, flat, loan year, year sequentially
+Topic 0 (0_drive_revenue_expense_drive high): drive, revenue, expense, drive high, high, relate, offset, low, investment, predominantly
+Topic 1 (1_nii_high_market_drive): nii, high, market, drive, rate, drive high, revenue, low, expense, high rate
+Topic 2 (2_inflow_asset_awm_high): inflow, asset, awm, high, drive, management, level, quarter, margin, fee
+Topic 3 (3_capital_quarter_end_versus): capital, quarter, end, versus, versus prior, offset, prior quarter, business, effect, high
+Topic 4 (4_start_report_result_revenue): start, report, result, revenue, investment security, security loss, include, loss, quarter, item
+Topic 5 (5_revenue_consumer_business_report revenue): revenue, consumer, business, report revenue, deposit, management, spend, report, cash, result
+Topic 6 (6_loan_sequentially_rate_reflect): loan, sequentially, rate, reflect, high rate, loan quarter, awm, quarter, high, off

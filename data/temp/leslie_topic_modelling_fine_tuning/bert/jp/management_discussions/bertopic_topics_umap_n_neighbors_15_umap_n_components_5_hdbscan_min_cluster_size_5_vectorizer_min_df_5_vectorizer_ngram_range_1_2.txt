@@ -3,20 +3,16 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_year_billion year_revenue_year year): year, billion year, revenue, year year, equity, expense, revenue billion, drive, drive high, high
-Topic 1 (1_capital_risk_point_increase): capital, risk, point, increase, basis point, basis, change, quarter, ccb, end
-Topic 2 (2_firm_republic_thank_billion): firm, republic, thank, billion, report, corporate, start, page, good, net income
-Topic 3 (3_reserve_cost billion_charge off_million): reserve, cost billion, charge off, million, off, reserve build, build, net reserve, net charge, credit cost
-Topic 4 (4_ccb_year_billion revenue_income): ccb, year, billion revenue, income, year year, small, income billion, business, consumer, revenue
-Topic 5 (5_nii_approximately_expect_nii ex): nii, approximately, expect, nii ex, ex, expense, billion, outlook, fdic, page
-Topic 6 (6_inflow_net inflow_inflow billion_asset): inflow, net inflow, inflow billion, asset, long term, long, quarter, net, finally, revenue relate
-Topic 7 (7_expect_rate_look_forward): expect, rate, look, forward, driver, operating, uncertainty, focus, normalization, remain
-Topic 8 (8_awm_margin_tax_management): awm, margin, tax, management, line business, complete, pre, net, strong net, report
-Topic 9 (9_loan_origination_sequentially_banking): loan, origination, sequentially, banking, client, new, loan quarter, flat, loan year, year sequentially
-Topic 10 (10_ex_nir_low_nii ex): ex, nir, low, nii ex, market, ib fee, market revenue, year expense, ib, billion
-Topic 11 (11_auto_card_origination_revenue year): auto, card, origination, revenue year, revolving balance, revolving, account, service, high card, lease
-Topic 12 (12_million_loss_billion million_nir): million, loss, billion million, nir, million year, year nii, net, year, security loss, billion billion
-Topic 13 (13_cib_ib_rank_ib fee): cib, ib, rank, ib fee, billion revenue, rank number, fee, number, revenue billion, share
-Topic 14 (14_let_line_actual_additional): let, line, actual, additional, 3q, thank, want, earning, recent, good
-Topic 15 (15_underwriting_fee_advisory_underwriting fee): underwriting, fee, advisory, underwriting fee, condition, debt, equity, announce, activity, outlook
-Topic 16 (16_revenue year_quarter quarter_year_high nii): revenue year, quarter quarter, year, high nii, quarter, deposit, lending revenue, deposit quarter, asset, year year
+Topic 0 (0_nii_high_market_rate): nii, high, market, rate, drive, low, mention, drive high, revenue, loss
+Topic 1 (1_rate_fix_security service_strong): rate, fix, security service, strong, market, revenue, environment, low, offset, drive high
+Topic 2 (2_commercial_reserve_expense_off): commercial, reserve, expense, off, cost, drive, reflect off, term, predominantly, compensation
+Topic 3 (3_rotce_start_report_result): rotce, start, report, result, revenue, loss, include, quarter, exclude, gain
+Topic 4 (4_capital_distribution_point_end): capital, distribution, point, end, quarter, ccb, versus, versus prior, prior quarter, effect
+Topic 5 (5_ccb_consumer_business_result): ccb, consumer, business, result, report revenue, deposit, revenue, management, cash, segment
+Topic 6 (6_inflow_asset_quarter_see): inflow, asset, quarter, see, asset drive, equity, level, quarter quarter, high, drive
+Topic 7 (7_awm_management_tax_margin): awm, management, tax, margin, high, strong inflow, inflow, team, asset, drive
+Topic 8 (8_ib_deposit quarter_quarter_non): ib, deposit quarter, quarter, non, volume, deposit, office, quarter quarter, relate, drive
+Topic 9 (9_loan_sequentially_client_rate): loan, sequentially, client, rate, high rate, reflect, loan quarter, awm, cost, off
+Topic 10 (10_cib_ib_ib fee_rank): cib, ib, ib fee, rank, report revenue, fee, advisory, report, revenue, deal
+Topic 11 (11_open_support_employee_turn): open, support, employee, turn, contribution, consumer, include, business, fee, 
+Topic 12 (12_underwriting_advisory_underwriting fee_fee): underwriting, advisory, underwriting fee, fee, term, 1q, healthy, dynamic, particularly, robust

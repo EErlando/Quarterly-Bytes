@@ -3,20 +3,16 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_year_billion year_revenue_year year): year, billion year, revenue, year year, equity, drive, payment revenue, expense, revenue billion, service revenue
-Topic 1 (1_rwa_capital_requirement_cet1): rwa, capital, requirement, cet1, scb, point, risk, increase, start ccb, ccb page
-Topic 2 (2_firm report_start page_disclaimer_refer disclaimer): firm report, start page, disclaimer, refer disclaimer, refer, page firm, website, available website, morning presentation, presentation available
-Topic 3 (3_million_reserve_charge off_cost billion): million, reserve, charge off, cost billion, off, build, net charge, reserve build, charge, net reserve
-Topic 4 (4_ccb report_ccb_year_financial result): ccb report, ccb, year, financial result, financial, year banking, management revenue, small business, year year, billion revenue
-Topic 5 (5_approximately billion_nii_approximately_page expect): approximately billion, nii, approximately, page expect, expect nii, expect, market approximately, outlook page, guidance, adjusted expense
-Topic 6 (6_trillion_trillion year_inflow_client asset): trillion, trillion year, inflow, client asset, net inflow, asset trillion, aum, aum trillion, inflow billion, continue net
-Topic 7 (7_wrap_expect_range_range scenario): wrap, expect, range, range scenario, rate, expect card, card net, charge rate, look, proud
-Topic 8 (8_awm_tax margin_awm report_page awm): awm, tax margin, awm report, page awm, business awm, complete line, billion pre, pre tax, awm page, margin revenue
-Topic 9 (9_loan_cre loan_origination_utilization): loan, cre loan, origination, utilization, cre, revolver utilization, revolver, new loan, estate, real estate
-Topic 10 (10_ex market_nir ex_ex_market billion): ex market, nir ex, ex, market billion, nir, low ib, market, low, billion, nii ex
-Topic 11 (11_auto_card_card service_auto revenue): auto, card, card service, auto revenue, move card, os, origination, origination billion, revenue year, card os
-Topic 12 (12_net loss_loss million_million_loss): net loss, loss million, million, loss, nii billion, nir net, impact high, year, nir, corporate report
-Topic 13 (13_cib report_year ib_cib_ib): cib report, year ib, cib, ib, billion ib, wallet share, wallet, rank, fee, ib fee
-Topic 14 (14_open_question_open line_open question): open, question, open line, open question, operator open, jamie, let open, let, operator, line
-Topic 15 (15_underwriting_fee_conversion_equity term): underwriting, fee, conversion, equity term, advisory fee, underwriting business, advisory, pipeline, condition, underwriting fee
-Topic 16 (16_drive market_asset year_investment asset_client investment): drive market, asset year, investment asset, client investment, wealth, wealth management, year, market performance, revenue year, quarter
+Topic 0 (0_nii_nir_nii market_high): nii, nir, nii market, high, market, drive, rate, revenue, rate nir, security loss
+Topic 1 (1_derivative_revenue_rate_currency emerge): derivative, revenue, rate, currency emerge, currency, service revenue, market, strong, volatility, fix
+Topic 2 (2_commercial_reserve_expense_off): commercial, reserve, expense, off, cost, drive, move commercial, cost reflect, bank commercial, term quarter
+Topic 3 (3_start report_disclaimer_refer disclaimer_refer): start report, disclaimer, refer disclaimer, refer, revenue deliver, morning, website, morning presentation, available website, website refer
+Topic 4 (4_rwa_cet1_scb_capital): rwa, cet1, scb, capital, requirement, cet1 ratio, ratio, quarter cet1, start ccb, quarter
+Topic 5 (5_ccb_ccb report_financial result_financial): ccb, ccb report, financial result, financial, management revenue, small business, wealth, wealth management, small, revenue
+Topic 6 (6_inflow_aum_liquidity_continue inflow): inflow, aum, liquidity, continue inflow, asset, quarter, inflow aum, see inflow, liquidity see, inflow high
+Topic 7 (7_awm_tax margin_awm report_report tax): awm, tax margin, awm report, report tax, management, awm awm, management fee, line business, line, business awm
+Topic 8 (8_gross ib_gross_ib_technology investment): gross ib, gross, ib, technology investment, quarter, include office, ib market, attrition non, volume relate, investment high
+Topic 9 (9_loan_origination_loan reflect_loan sequentially): loan, origination, loan reflect, loan sequentially, funding, sequentially, client, mute, loan client, sequentially loan
+Topic 10 (10_revenue ib_cib report_cib_ib): revenue ib, cib report, cib, ib, fee rank, ib fee, fee, rank, report revenue, rank date
+Topic 11 (11_open_question_jamie_turn jamie): open, question, jamie, turn jamie, open open, open question, operator open, offer, operator, support
+Topic 12 (12_underwriting_underwriting business_fee term_fee): underwriting, underwriting business, fee term, fee, advisory fee, condition, advisory, pipeline, underwriting fee, exist pipeline

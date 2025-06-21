@@ -1,0 +1,8 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 2, 'hdbscan_min_cluster_size': 2, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 2)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_go_capital_kind_obviously): go, capital, kind, obviously, thank, know, high, maybe, sort, jamie
+Topic 1 (1_go_capital_obviously_get): go, capital, obviously, get, talk, thing, lot, nii, market, business
+Topic 2 (2_go_okay_quarter_thing): go, okay, quarter, thing, know, get, lot, thank, obviously, mean

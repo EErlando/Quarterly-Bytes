@@ -3,11 +3,8 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_year_trillion_drive_high): year, trillion, drive, high, inflow, revenue, billion, equity, expense, quarter
-Topic 1 (1_ex_nii_billion_million): ex, nii, billion, million, nir, year, loss, approximately, market, expense
-Topic 2 (2_year_ccb_revenue_billion): year, ccb, revenue, billion, income, fee, report, ib, financial, cib
-Topic 3 (3_rwa_capital_requirement_scb): rwa, capital, requirement, scb, increase, cet1, point, quarter, gsib, risk
-Topic 4 (4_million_reserve_net_billion): million, reserve, net, billion, build, cost, off, charge, credit, year
-Topic 5 (5_expect_open_rate_wrap): expect, open, rate, wrap, range, driver, proud, ability, look, forward
-Topic 6 (6_auto_os_card_year): auto, os, card, year, origination, revolving, account, service, high, drive
-Topic 7 (7_refer_disclaimer_website_available): refer, disclaimer, website, available, thank, rotce, morning, billion, ep, deliver
+Topic 0 (0_drive_revenue_high_offset): drive, revenue, high, offset, low, expense, commercial, relate, quarter, market
+Topic 1 (1_nii_high_nir_drive): nii, high, nir, drive, market, revenue, low, rate, balance, include
+Topic 2 (2_rwa_ccb_capital_requirement): rwa, ccb, capital, requirement, quarter, scb, cet1, business, buffer, financial
+Topic 3 (3_inflow_loan_awm_high): inflow, loan, awm, high, quarter, aum, drive, asset, line, level
+Topic 4 (4_refer_disclaimer_website_available): refer, disclaimer, website, available, rotce, start, morning, presentation, deliver, report

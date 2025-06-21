@@ -3,16 +3,10 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_nii_year_million_card): nii, year, million, card, billion, loss, high, year year, approximately, million year
-Topic 1 (1_inflow_net inflow_year_inflow billion): inflow, net inflow, year, inflow billion, equity, drive, high, year year, asset, billion year
-Topic 2 (2_capital_point_increase_risk): capital, point, increase, risk, basis point, quarter, basis, change, ratio, balance sheet
-Topic 3 (3_million_charge off_reserve_off): million, charge off, reserve, off, net charge, credit cost, cost, build, charge, reserve build
-Topic 4 (4_year_year year_billion revenue_business): year, year year, billion revenue, business, revenue, income, consumer, republic, spend, result
-Topic 5 (5_rotce_firm_good_start): rotce, firm, good, start, report, billion, page, corporate, report net, income billion
-Topic 6 (6_expect_rate_driver_card): expect, rate, driver, card, charge, normalization, forward, go, remain, continue
-Topic 7 (7_year_expense_year year_ib): year, expense, year year, ib, billion year, revenue, deposit, drive, relate, volume
-Topic 8 (8_awm_margin_management_tax): awm, margin, management, tax, line business, complete, high, net, pre, strong net
-Topic 9 (9_line_let_environment_operating): line, let, environment, operating, global, company, recent, uncertainty, look, economic
-Topic 10 (10_loan_origination_sequentially_banking): loan, origination, sequentially, banking, new, client, reflect, loan quarter, flat, corporate
-Topic 11 (11_cib_ib_rank_ib fee): cib, ib, rank, ib fee, number, billion revenue, rank number, fee, revenue billion, fee year
-Topic 12 (12_underwriting_fee_advisory_condition): underwriting, fee, advisory, condition, underwriting fee, debt, equity, outlook, activity, 1q
+Topic 0 (0_drive_high_expense_drive high): drive, high, expense, drive high, quarter, revenue, inflow, predominantly, low, predominantly drive
+Topic 1 (1_nii_high_market_drive): nii, high, market, drive, low, drive high, revenue, expense, include, balance
+Topic 2 (2_capital_loan_quarter_business): capital, loan, quarter, business, reflect, high, start, low, distribution, deposit
+Topic 3 (3_start_report_result_revenue): start, report, result, revenue, include, investment security, security loss, gain, loss, item
+Topic 4 (4_awm_management_margin_tax): awm, management, margin, tax, high, inflow, drive, asset, drive high, strong inflow
+Topic 5 (5_cib_ib_ib fee_fee): cib, ib, ib fee, fee, report revenue, rank, revenue, report, deal, large
+Topic 6 (6_underwriting_fee_underwriting fee_1q): underwriting, fee, underwriting fee, 1q, healthy, business, remain, particularly, dynamic, significantly

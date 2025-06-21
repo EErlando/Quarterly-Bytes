@@ -3,14 +3,14 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_year_year year_revenue_drive): year, year year, revenue, drive, billion year, trillion, billion, high, deposit, inflow
-Topic 1 (1_billion_nii_million_ex market): billion, nii, million, ex market, year, loss, ex, nir, expense, approximately billion
-Topic 2 (2_rwa_capital_requirement_increase): rwa, capital, requirement, increase, cet1, scb, point, quarter, start ccb, ccb page
-Topic 3 (3_million_billion_net_charge off): million, billion, net, charge off, reserve, off, cost billion, build, net charge, charge
-Topic 4 (4_awm_tax margin_awm report_page awm): awm, tax margin, awm report, page awm, management, business awm, complete line, margin, billion pre, pre tax
-Topic 5 (5_open_open line_operator open_question): open, open line, operator open, question, operator, global economy, open question, company performance, economy, world
-Topic 6 (6_auto_card_revenue year_move card): auto, card, revenue year, move card, year, card service, auto revenue, origination billion, origination, revolving balance
-Topic 7 (7_expect_rate_expect card_produce): expect, rate, expect card, produce, ability, proud, card net, charge rate, range scenario, wrap
-Topic 8 (8_loan_origination_revolver utilization_revolver): loan, origination, revolver utilization, revolver, cre loan, utilization, cre, sequentially, real, estate
-Topic 9 (9_cib report_year ib_ib_wallet share): cib report, year ib, ib, wallet share, wallet, rank, cib, billion ib, fee, revenue billion
-Topic 10 (10_underwriting_fee_equity term_advisory): underwriting, fee, equity term, advisory, conversion, underwriting fee, condition, underwriting business, advisory fee, debt equity
+Topic 0 (0_nii_revenue_high_rate): nii, revenue, high, rate, market, low, ccb, drive, service revenue, strong
+Topic 1 (1_expense_commercial_drive_off): expense, commercial, drive, off, reserve, cost, cost reflect, move commercial, high, bank commercial
+Topic 2 (2_rwa_capital_cet1_requirement): rwa, capital, cet1, requirement, scb, cet1 ratio, ratio, quarter, start ccb, quarter cet1
+Topic 3 (3_start report_rotce_revenue deliver_morning): start report, rotce, revenue deliver, morning, morning presentation, presentation available, deliver rotce, ep revenue, refer, refer disclaimer
+Topic 4 (4_inflow_aum_quarter_asset): inflow, aum, quarter, asset, liquidity, continue inflow, inflow aum, see inflow, liquidity see, inflow high
+Topic 5 (5_awm_tax margin_awm report_report tax): awm, tax margin, awm report, report tax, management, margin, line, line business, awm awm, tax
+Topic 6 (6_loan_origination_loan reflect_loan sequentially): loan, origination, loan reflect, loan sequentially, client, sequentially, funding, rate, mute, impact origination
+Topic 7 (7_revenue ib_cib report_cib_ib): revenue ib, cib report, cib, ib, fee rank, ib fee, fee, rank, report revenue, rank date
+Topic 8 (8_gross ib_gross_ib_technology investment): gross ib, gross, ib, technology investment, quarter, include office, ib market, volume relate, investment high, deposit
+Topic 9 (9_open_question_jamie_turn jamie): open, question, jamie, turn jamie, open open, open question, operator open, offer, support, operator
+Topic 10 (10_underwriting_fee_fee term_underwriting business): underwriting, fee, fee term, underwriting business, advisory fee, pipeline, advisory, condition, underwriting fee, exist pipeline

@@ -3,12 +3,10 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_billion_nii_ex market_year): billion, nii, ex market, year, million, nir, ex, approximately, loss, expect
-Topic 1 (1_year_revenue_year year_billion year): year, revenue, year year, billion year, drive, expense, equity, high, market, billion
-Topic 2 (2_year_ccb_ccb report_billion revenue): year, ccb, ccb report, billion revenue, revenue, billion, year year, cib, ib, revenue billion
-Topic 3 (3_rwa_capital_requirement_cet1): rwa, capital, requirement, cet1, scb, point, increase, quarter, risk, start ccb
-Topic 4 (4_million_billion_net_cost billion): million, billion, net, cost billion, charge off, net charge, charge, reserve, off, off billion
-Topic 5 (5_auto_card_revenue year_year): auto, card, revenue year, year, auto revenue, os, card service, card os, revolving balance, service auto
-Topic 6 (6_trillion_trillion year_client asset_inflow): trillion, trillion year, client asset, inflow, asset trillion, aum, net inflow, aum trillion, inflow billion, year
-Topic 7 (7_awm_tax margin_awm report_page awm): awm, tax margin, awm report, page awm, management fee, business awm, complete line, awm page, margin revenue, margin
-Topic 8 (8_loan_origination_cre loan_utilization): loan, origination, cre loan, utilization, cre, real estate, estate, middle market, real, new loan
+Topic 0 (0_drive_revenue_high_expense): drive, revenue, high, expense, drive high, payment revenue, offset, low, quarter, commercial
+Topic 1 (1_nii_nir_high_drive): nii, nir, high, drive, nii market, market, revenue, rate, low, drive high
+Topic 2 (2_inflow_aum_high_drive): inflow, aum, high, drive, inflow high, asset, quarter, awm, continue inflow, management fee
+Topic 3 (3_rwa_cet1_capital_scb): rwa, cet1, capital, scb, requirement, quarter, cet1 ratio, ratio, quarter cet1, start ccb
+Topic 4 (4_start report_refer disclaimer_refer_disclaimer): start report, refer disclaimer, refer, disclaimer, revenue deliver, deliver rotce, deliver, website, presentation available, morning presentation
+Topic 5 (5_ccb_ccb report_financial result_management revenue): ccb, ccb report, financial result, management revenue, revenue, financial, small business, wealth, wealth management, business
+Topic 6 (6_loan_origination_loan reflect_loan sequentially): loan, origination, loan reflect, loan sequentially, sequentially, client, funding, mute, rate, loan client

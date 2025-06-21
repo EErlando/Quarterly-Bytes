@@ -3,20 +3,16 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_year_revenue_equity_derivative): year, revenue, equity, derivative, gross, expense, drive, fix, high, currency
-Topic 1 (1_rwa_capital_requirement_cet1): rwa, capital, requirement, cet1, scb, risk, point, gsib, increase, aoci
-Topic 2 (2_refer_disclaimer_website_available): refer, disclaimer, website, available, rotce, ep, morning, thank, presentation, deliver
-Topic 3 (3_reserve_million_off_build): reserve, million, off, build, charge, cost, credit, net, billion, card
-Topic 4 (4_ccb_financial_year_wealth): ccb, financial, year, wealth, income, small, buffer, business, consumer, revenue
-Topic 5 (5_nii_approximately_guidance_expect): nii, approximately, guidance, expect, adjusted, imply, ex, expense, outlook, billion
-Topic 6 (6_trillion_inflow_aum_liquidity): trillion, inflow, aum, liquidity, asset, quarter, long, net, finally, client
-Topic 7 (7_wrap_expect_range_rate): wrap, expect, range, rate, ability, proud, look, produce, scenario, return
-Topic 8 (8_awm_margin_tax_management): awm, margin, tax, management, complete, valuation, pre, net, report, high
-Topic 9 (9_loan_utilization_cre_origination): loan, utilization, cre, origination, revolver, estate, real, sequentially, demand, middle
-Topic 10 (10_ex_nir_low_market): ex, nir, low, market, billion, ib, high, balance, million, fee
-Topic 11 (11_auto_card_os_origination): auto, card, os, origination, revolving, account, service, lease, revolve, vehicle
-Topic 12 (12_million_loss_nir_net): million, loss, nir, net, year, mention, upfront, security, corporate, compare
-Topic 13 (13_cib_wallet_ib_rank): cib, wallet, ib, rank, fee, number, date, share, billion, report
-Topic 14 (14_open_question_jamie_let): open, question, jamie, let, operator, line, bloodshed, hatred, terrorism, heart
-Topic 15 (15_underwriting_conversion_fee_advisory): underwriting, conversion, fee, advisory, pipeline, condition, debt, equity, announce, exist
-Topic 16 (16_wealth_year_quarter_tight): wealth, year, quarter, tight, deposit, asset, customer, management, spread, home
+Topic 0 (0_nii_nir_high_market): nii, nir, high, market, rate, drive, assessment, revolve, fdic, low
+Topic 1 (1_derivative_currency_rate_volatility): derivative, currency, rate, volatility, fix, revenue, strong, market, emerge, product
+Topic 2 (2_commercial_reserve_expense_off): commercial, reserve, expense, off, cost, drive, term, predominantly, reflect, compensation
+Topic 3 (3_disclaimer_refer_website_morning): disclaimer, refer, website, morning, available, rotce, presentation, ep, deliver, start
+Topic 4 (4_rwa_cet1_scb_requirement): rwa, cet1, scb, requirement, capital, ratio, distribution, common, point, quarter
+Topic 5 (5_ccb_financial_wealth_small): ccb, financial, wealth, small, buffer, consumer, business, result, fast, revenue
+Topic 6 (6_inflow_aum_liquidity_asset): inflow, aum, liquidity, asset, quarter, see, equity, level, high, drive
+Topic 7 (7_awm_management_line_margin): awm, management, line, margin, tax, valuation, high, china, private, inflow
+Topic 8 (8_gross_ib_quarter_attrition): gross, ib, quarter, attrition, non, volume, deposit, drive, relate, office
+Topic 9 (9_loan_origination_funding_sequentially): loan, origination, funding, sequentially, client, mute, prepayment, payoff, rate, cautious
+Topic 10 (10_cib_ib_rank_fee): cib, ib, rank, fee, date, revenue, report, advisory, deal, meaningfully
+Topic 11 (11_open_question_jamie_offer): open, question, jamie, offer, operator, support, local, remark, variety, waive
+Topic 12 (12_underwriting_pipeline_condition_advisory): underwriting, pipeline, condition, advisory, fee, announce, term, exist, affect, finance
