@@ -1,13 +1,10 @@
-# BoE-EP-Project
-
 This group project is for the Bank of England as part of the Data Science and AI Career Accelerator Programme, delivered in partnership with Cambridge Institute of Continuing Education (ICE) and FourthRev.
 
 ---
-
 <p align="center">
-  <img src="./assets/Bank_of_England_logo.svg" alt="Bank of England Logo Placeholder" width="200"/>
-  <img src="./images/cambridge_ice_logo_placeholder.png" alt="Cambridge ICE Logo Placeholder" width="200"/>
-  <img src="./images/fourthrev_logo_placeholder.png" alt="FourthRev Logo Placeholder" width="200"/>
+  <img src="https://github.com/user-attachments/assets/d6c18e47-fd60-4424-929f-6450bf4a4032" alt="Cambridge Institute of Continuing Education Logo" width="150" style="vertical-align: middle; margin-right: 20px;"/>
+  <img src="https://github.com/user-attachments/assets/be7ccdc8-156f-499a-ade1-65ce19505365" alt="University of Cambridge Logo" width="150" style="vertical-align: middle; margin-right: 20px;"/>
+  <img src="https://github.com/user-attachments/assets/cb89a8bb-fe99-4a60-8fe4-e13812197df7" alt="FourthRev Logo" width="150" style="vertical-align: middle;"/>
 </p>
 
 ---
