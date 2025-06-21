@@ -1,0 +1,16 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 15, 'umap_n_components': 10, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 5, 'vectorizer_ngram_range': (1, 1)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_year_revenue_drive_inflow): year, revenue, drive, inflow, deposit, high, billion, expense, quarter, low
+Topic 1 (1_nii_billion_million_loss): nii, billion, million, loss, expense, corporate, year, approximately, page, security
+Topic 2 (2_capital_increase_point_risk): capital, increase, point, risk, quarter, change, basis, end, start, page
+Topic 3 (3_million_reserve_off_build): million, reserve, off, build, billion, net, charge, cost, credit, card
+Topic 4 (4_management_margin_tax_complete): management, margin, tax, complete, net, report, high, year, pre, inflow
+Topic 5 (5_line_let_earning_global): line, let, earning, global, company, environment, look, strong, performance, help
+Topic 6 (6_auto_card_revolving_origination): auto, card, revolving, origination, service, account, year, revolve, acquisition, high
+Topic 7 (7_expect_rate_return_driver): expect, rate, return, driver, range, look, continue, remain, normalization, significant
+Topic 8 (8_loan_origination_banking_new): loan, origination, banking, new, corporate, client, million, reflect, activity, flat
+Topic 9 (9_ib_cib_number_fee): ib, cib, number, fee, billion, share, year, report, revenue, income
+Topic 10 (10_fee_debt_equity_outlook): fee, debt, equity, outlook, activity, market, 1q, term, headwind, affect
