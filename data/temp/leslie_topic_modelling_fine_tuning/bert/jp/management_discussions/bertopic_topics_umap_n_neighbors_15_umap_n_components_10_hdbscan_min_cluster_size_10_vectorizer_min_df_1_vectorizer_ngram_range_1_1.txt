@@ -1,0 +1,14 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 15, 'umap_n_components': 10, 'hdbscan_min_cluster_size': 10, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 1)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_nii_billion_nir_ex): nii, billion, nir, ex, million, approximately, loss, expect, year, rate
+Topic 1 (1_year_revenue_expense_drive): year, revenue, expense, drive, equity, derivative, high, gross, market, low
+Topic 2 (2_year_ccb_cib_revenue): year, ccb, cib, revenue, ib, billion, report, income, rank, wallet
+Topic 3 (3_rwa_capital_requirement_cet1): rwa, capital, requirement, cet1, scb, point, increase, risk, quarter, gsib
+Topic 4 (4_million_billion_net_charge): million, billion, net, charge, reserve, off, cost, credit, build, card
+Topic 5 (5_auto_card_os_year): auto, card, os, year, revolving, account, origination, revenue, lease, nii
+Topic 6 (6_trillion_inflow_aum_asset): trillion, inflow, aum, asset, year, liquidity, net, quarter, drive, billion
+Topic 7 (7_awm_margin_management_tax): awm, margin, management, tax, complete, net, valuation, year, fee, report
+Topic 8 (8_loan_origination_utilization_cre): loan, origination, utilization, cre, real, estate, revolver, demand, sequentially, middle
