@@ -3,11 +3,8 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_drive_revenue_expense_high): drive, revenue, expense, high, drive high, payment revenue, commercial, low, offset, quarter
-Topic 1 (1_nii_nir_high_nii market): nii, nir, high, nii market, market, drive, revenue, rate, low, rate nir
-Topic 2 (2_rwa_capital_requirement_cet1): rwa, capital, requirement, cet1, scb, cet1 ratio, quarter, ratio, quarter cet1, high rwa
-Topic 3 (3_start report_rotce_refer_refer disclaimer): start report, rotce, refer, refer disclaimer, disclaimer, revenue deliver, deliver rotce, deliver, available website, presentation available
-Topic 4 (4_awm_tax margin_awm report_report tax): awm, tax margin, awm report, report tax, margin, awm awm, margin revenue, business awm, line, line business
-Topic 5 (5_ccb_ccb report_financial result_financial): ccb, ccb report, financial result, financial, small business, management revenue, revenue, consumer, wealth, wealth management
-Topic 6 (6_inflow_aum_quarter_continue inflow): inflow, aum, quarter, continue inflow, inflow aum, asset, liquidity, drive, liquidity see, see inflow
-Topic 7 (7_loan_origination_loan reflect_loan sequentially): loan, origination, loan reflect, loan sequentially, client, funding, sequentially, mute, rate, sequentially loan
+Topic 0 (0_nii_high_nir_drive): nii, high, nir, drive, market, revenue, nii market, rate, low, drive high
+Topic 1 (1_drive_revenue_high_low): drive, revenue, high, low, offset, expense, drive high, commercial, quarter, predominantly
+Topic 2 (2_rwa_ccb_capital_requirement): rwa, ccb, capital, requirement, quarter, ccb report, business start, business, scb, cet1
+Topic 3 (3_inflow_high_drive_aum): inflow, high, drive, aum, quarter, awm, asset, inflow high, continue inflow, management fee
+Topic 4 (4_start report_refer disclaimer_refer_disclaimer): start report, refer disclaimer, refer, disclaimer, rotce, revenue deliver, deliver rotce, morning presentation, presentation available, available website
