@@ -3,10 +3,9 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_drive_revenue_expense_drive high): drive, revenue, expense, drive high, high, relate, offset, low, investment, predominantly
-Topic 1 (1_nii_high_market_drive): nii, high, market, drive, rate, drive high, revenue, low, expense, high rate
-Topic 2 (2_inflow_asset_awm_high): inflow, asset, awm, high, drive, management, level, quarter, margin, fee
-Topic 3 (3_capital_quarter_end_versus): capital, quarter, end, versus, versus prior, offset, prior quarter, business, effect, high
-Topic 4 (4_start_report_result_revenue): start, report, result, revenue, investment security, security loss, include, loss, quarter, item
-Topic 5 (5_revenue_consumer_business_report revenue): revenue, consumer, business, report revenue, deposit, management, spend, report, cash, result
-Topic 6 (6_loan_sequentially_rate_reflect): loan, sequentially, rate, reflect, high rate, loan quarter, awm, quarter, high, off
+Topic 0 (0_drive_revenue_high_expense): drive, revenue, high, expense, drive high, offset, low, offset low, relate, predominantly
+Topic 1 (1_nii_high_market_drive): nii, high, market, drive, revenue, rate, low, drive high, expense, balance
+Topic 2 (2_capital_business_quarter_result): capital, business, quarter, result, start, revenue, point, management, offset, low
+Topic 3 (3_inflow_asset_high_drive): inflow, asset, high, drive, awm, management, quarter, level, margin, fee
+Topic 4 (4_start_report_revenue_result): start, report, revenue, result, include, investment security, security loss, loss, security, investment
+Topic 5 (5_loan_sequentially_reflect_rate): loan, sequentially, reflect, rate, high rate, quarter, high, awm, loan quarter, quarter quarter
