@@ -3,13 +3,11 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_nii_ex_nir_billion): nii, ex, nir, billion, million, year, loss, approximately, expense, market
-Topic 1 (1_year_revenue_drive_high): year, revenue, drive, high, derivative, equity, expense, market, gross, low
-Topic 2 (2_ccb_year_revenue_billion): ccb, year, revenue, billion, ib, income, financial, report, cib, rank
-Topic 3 (3_rwa_capital_requirement_cet1): rwa, capital, requirement, cet1, scb, point, increase, risk, quarter, gsib
-Topic 4 (4_million_reserve_cost_build): million, reserve, cost, build, off, billion, net, charge, credit, card
-Topic 5 (5_awm_loan_cre_origination): awm, loan, cre, origination, utilization, revolver, complete, tax, margin, sequentially
-Topic 6 (6_refer_disclaimer_website_available): refer, disclaimer, website, available, rotce, morning, thank, ep, billion, deliver
-Topic 7 (7_auto_card_os_year): auto, card, os, year, revolving, origination, account, high, service, revenue
-Topic 8 (8_wrap_expect_rate_proud): wrap, expect, rate, proud, ability, range, remain, produce, scenario, return
-Topic 9 (9_trillion_inflow_aum_asset): trillion, inflow, aum, asset, liquidity, year, net, quarter, drive, high
+Topic 0 (0_drive_revenue_expense_high): drive, revenue, expense, high, commercial, offset, low, derivative, relate, market
+Topic 1 (1_nii_nir_market_high): nii, nir, market, high, drive, revenue, rate, low, lease, expense
+Topic 2 (2_rwa_requirement_cet1_scb): rwa, requirement, cet1, scb, capital, ratio, quarter, point, common, distribution
+Topic 3 (3_rotce_refer_disclaimer_deliver): rotce, refer, disclaimer, deliver, website, morning, available, ep, presentation, start
+Topic 4 (4_awm_margin_line_management): awm, margin, line, management, tax, high, fee, valuation, drive, china
+Topic 5 (5_ccb_financial_consumer_wealth): ccb, financial, consumer, wealth, small, revenue, buffer, fast, deposit, business
+Topic 6 (6_inflow_aum_quarter_asset): inflow, aum, quarter, asset, liquidity, drive, equity, high, see, respectively
+Topic 7 (7_loan_origination_funding_client): loan, origination, funding, client, sequentially, mute, prepayment, rate, reflect, payoff
