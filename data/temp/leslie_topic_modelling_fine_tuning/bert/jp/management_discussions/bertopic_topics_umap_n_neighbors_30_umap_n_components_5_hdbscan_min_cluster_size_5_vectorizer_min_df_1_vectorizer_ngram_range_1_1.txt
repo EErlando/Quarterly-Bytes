@@ -1,0 +1,22 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 5, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 1)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_rwa_capital_requirement_cet1): rwa, capital, requirement, cet1, scb, risk, point, gsib, aoci, change
+Topic 1 (1_reserve_off_build_million): reserve, off, build, million, charge, cost, credit, net, card, billion
+Topic 2 (2_derivative_currency_year_fix): derivative, currency, year, fix, revenue, equity, emerge, securitized, product, high
+Topic 3 (3_ccb_financial_year_wealth): ccb, financial, year, wealth, income, small, business, result, buffer, consumer
+Topic 4 (4_disclaimer_refer_website_available): disclaimer, refer, website, available, rotce, morning, thank, presentation, ep, firm
+Topic 5 (5_auto_card_os_revolving): auto, card, os, revolving, origination, account, year, service, home, production
+Topic 6 (6_nii_approximately_guidance_expect): nii, approximately, guidance, expect, imply, ex, outlook, adjusted, billion, expense
+Topic 7 (7_trillion_inflow_aum_asset): trillion, inflow, aum, asset, liquidity, long, quarter, net, year, client
+Topic 8 (8_expect_rate_ability_proud): expect, rate, ability, proud, return, produce, driver, follow, cut, wrap
+Topic 9 (9_million_loss_nir_net): million, loss, nir, net, year, security, corporate, billion, mention, impact
+Topic 10 (10_awm_tax_management_margin): awm, tax, management, margin, complete, valuation, pre, net, high, report
+Topic 11 (11_ex_nir_market_low): ex, nir, market, low, high, billion, balance, security, drive, million
+Topic 12 (12_open_question_economy_operator): open, question, economy, operator, world, line, wrap, let, jamie, ahead
+Topic 13 (13_gross_year_ib_non): gross, year, ib, non, attrition, quarter, deposit, expense, volume, drive
+Topic 14 (14_loan_origination_revolver_utilization): loan, origination, revolver, utilization, cre, estate, real, middle, sequentially, demand
+Topic 15 (15_cib_wallet_rank_ib): cib, wallet, rank, ib, fee, number, share, date, billion, report
+Topic 16 (16_underwriting_conversion_fee_advisory): underwriting, conversion, fee, advisory, pipeline, condition, debt, announce, exist, equity
