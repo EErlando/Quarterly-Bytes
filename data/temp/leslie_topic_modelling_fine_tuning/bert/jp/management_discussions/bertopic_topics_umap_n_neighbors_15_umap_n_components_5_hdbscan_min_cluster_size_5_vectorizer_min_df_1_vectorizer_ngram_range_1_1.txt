@@ -3,16 +3,20 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_nii_nir_high_market): nii, nir, high, market, rate, drive, assessment, revolve, fdic, low
-Topic 1 (1_derivative_currency_rate_volatility): derivative, currency, rate, volatility, fix, revenue, strong, market, emerge, product
-Topic 2 (2_commercial_reserve_expense_off): commercial, reserve, expense, off, cost, drive, term, predominantly, reflect, compensation
-Topic 3 (3_disclaimer_refer_website_morning): disclaimer, refer, website, morning, available, rotce, presentation, ep, deliver, start
-Topic 4 (4_rwa_cet1_scb_requirement): rwa, cet1, scb, requirement, capital, ratio, distribution, common, point, quarter
-Topic 5 (5_ccb_financial_wealth_small): ccb, financial, wealth, small, buffer, consumer, business, result, fast, revenue
-Topic 6 (6_inflow_aum_liquidity_asset): inflow, aum, liquidity, asset, quarter, see, equity, level, high, drive
-Topic 7 (7_awm_management_line_margin): awm, management, line, margin, tax, valuation, high, china, private, inflow
-Topic 8 (8_gross_ib_quarter_attrition): gross, ib, quarter, attrition, non, volume, deposit, drive, relate, office
-Topic 9 (9_loan_origination_funding_sequentially): loan, origination, funding, sequentially, client, mute, prepayment, payoff, rate, cautious
-Topic 10 (10_cib_ib_rank_fee): cib, ib, rank, fee, date, revenue, report, advisory, deal, meaningfully
-Topic 11 (11_open_question_jamie_offer): open, question, jamie, offer, operator, support, local, remark, variety, waive
-Topic 12 (12_underwriting_pipeline_condition_advisory): underwriting, pipeline, condition, advisory, fee, announce, term, exist, affect, finance
+Topic 0 (0_nii_nir_market_impact): nii, nir, market, impact, rate, imply, adjusted, guidance, high, mention
+Topic 1 (1_commercial_off_reserve_cost): commercial, off, reserve, cost, term, expense, drive, bank, predominantly, reflect
+Topic 2 (2_rwa_cet1_capital_requirement): rwa, cet1, capital, requirement, scb, ratio, gsib, point, common, distribution
+Topic 3 (3_ccb_financial_wealth_business): ccb, financial, wealth, business, consumer, small, buffer, result, datum, fast
+Topic 4 (4_refer_disclaimer_morning_website): refer, disclaimer, morning, website, available, rotce, ep, deliver, presentation, start
+Topic 5 (5_inflow_aum_liquidity_asset): inflow, aum, liquidity, asset, quarter, see, respectively, level, equity, migration
+Topic 6 (6_origination_revolve_lease_service): origination, revolve, lease, service, production, nii, high, vehicle, acquisition, balance
+Topic 7 (7_awm_line_tax_management): awm, line, tax, management, margin, valuation, china, private, team, high
+Topic 8 (8_loan_origination_sequentially_funding): loan, origination, sequentially, funding, mute, client, prepayment, paydown, cautious, payoff
+Topic 9 (9_uncertainty_environment_thing_economy): uncertainty, environment, thing, economy, mind, diversified, prepare, outcome, basel, area
+Topic 10 (10_gross_ib_quarter_relate): gross, ib, quarter, relate, deposit, non, seasonally, office, volume, attrition
+Topic 11 (11_currency_emerge_volatility_fix): currency, emerge, volatility, fix, market, product, macro, elevated, strong, derivative
+Topic 12 (12_cib_rank_ib_fee): cib, rank, ib, fee, date, report, advisory, revenue, deal, meaningfully
+Topic 13 (13_fdic_special_assessment_accrual): fdic, special, assessment, accrual, nii, expense, pivot, market, finish, fee
+Topic 14 (14_underwriting_pipeline_advisory_condition): underwriting, pipeline, advisory, condition, fee, term, announce, exist, finance, issuance
+Topic 15 (15_open_question_operator_guess): open, question, operator, guess, great, ahead, , , , 
+Topic 16 (16_derivative_revenue_balance_low): derivative, revenue, balance, low, payment, total, prime, exclude, offset, drive
