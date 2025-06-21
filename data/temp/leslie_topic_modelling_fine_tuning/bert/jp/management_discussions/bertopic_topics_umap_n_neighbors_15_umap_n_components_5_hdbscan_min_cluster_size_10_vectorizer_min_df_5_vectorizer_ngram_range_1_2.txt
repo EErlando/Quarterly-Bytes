@@ -3,11 +3,8 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_drive_expense_revenue_drive high): drive, expense, revenue, drive high, high, offset, low, relate, offset low, market
-Topic 1 (1_nii_market_high_drive): nii, market, high, drive, rate, revenue, low, drive high, expense, security loss
-Topic 2 (2_capital_distribution_quarter_end): capital, distribution, quarter, end, versus, versus prior, prior quarter, offset, business, current
-Topic 3 (3_start_report_result_revenue): start, report, result, revenue, investment security, security loss, include, loss, quarter, item
-Topic 4 (4_awm_margin_management_tax): awm, margin, management, tax, fee, high, drive, strong inflow, drive high, private
-Topic 5 (5_consumer_revenue_report revenue_deposit): consumer, revenue, report revenue, deposit, business, cash, spend, segment, management, low
-Topic 6 (6_inflow_asset_quarter_drive): inflow, asset, quarter, drive, asset drive, see, quarter quarter, level, high, loan quarter
-Topic 7 (7_loan_sequentially_rate_reflect): loan, sequentially, rate, reflect, high rate, loan quarter, off, quarter, awm, continued
+Topic 0 (0_nii_high_market_drive): nii, high, market, drive, low, revenue, drive high, balance, growth, expense
+Topic 1 (1_drive_high_revenue_expense): drive, high, revenue, expense, drive high, low, offset, predominantly, relate, largely
+Topic 2 (2_capital_business_quarter_result): capital, business, quarter, result, start, revenue, management, offset, low, reflect
+Topic 3 (3_inflow_asset_high_drive): inflow, asset, high, drive, quarter, level, management, margin, fee, tax
+Topic 4 (4_report_start_revenue_result): report, start, revenue, result, include, investment security, security loss, loss, security, quarter
