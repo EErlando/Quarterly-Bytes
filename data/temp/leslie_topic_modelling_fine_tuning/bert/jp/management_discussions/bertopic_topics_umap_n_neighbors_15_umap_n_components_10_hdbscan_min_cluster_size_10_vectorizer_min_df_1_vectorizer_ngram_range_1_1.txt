@@ -3,10 +3,9 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_drive_revenue_expense_high): drive, revenue, expense, high, offset, low, commercial, relate, quarter, investment
-Topic 1 (1_nii_nir_high_market): nii, nir, high, market, drive, revenue, rate, low, expense, lease
-Topic 2 (2_inflow_aum_asset_high): inflow, aum, asset, high, drive, awm, quarter, management, private, fee
-Topic 3 (3_rwa_cet1_capital_scb): rwa, cet1, capital, scb, requirement, ratio, quarter, distribution, point, common
-Topic 4 (4_refer_disclaimer_deliver_website): refer, disclaimer, deliver, website, rotce, available, morning, presentation, ep, start
-Topic 5 (5_ccb_financial_revenue_wealth): ccb, financial, revenue, wealth, business, consumer, small, buffer, deposit, fast
-Topic 6 (6_loan_origination_sequentially_funding): loan, origination, sequentially, funding, client, mute, prepayment, rate, reflect, payoff
+Topic 0 (0_drive_revenue_high_expense): drive, revenue, high, expense, offset, low, relate, commercial, predominantly, quarter
+Topic 1 (1_nii_high_nir_drive): nii, high, nir, drive, market, revenue, low, rate, expense, lease
+Topic 2 (2_ccb_rwa_capital_requirement): ccb, rwa, capital, requirement, scb, business, cet1, quarter, buffer, consumer
+Topic 3 (3_inflow_aum_asset_high): inflow, aum, asset, high, drive, awm, quarter, management, level, private
+Topic 4 (4_refer_disclaimer_rotce_website): refer, disclaimer, rotce, website, deliver, available, morning, ep, start, report
+Topic 5 (5_loan_origination_sequentially_funding): loan, origination, sequentially, funding, client, mute, prepayment, reflect, rate, quarter
