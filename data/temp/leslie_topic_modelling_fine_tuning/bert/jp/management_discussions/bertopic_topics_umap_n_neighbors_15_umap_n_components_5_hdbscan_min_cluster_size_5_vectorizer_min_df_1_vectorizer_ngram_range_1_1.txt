@@ -1,0 +1,22 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 15, 'umap_n_components': 5, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 1)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_year_revenue_equity_derivative): year, revenue, equity, derivative, gross, expense, drive, fix, high, currency
+Topic 1 (1_rwa_capital_requirement_cet1): rwa, capital, requirement, cet1, scb, risk, point, gsib, increase, aoci
+Topic 2 (2_refer_disclaimer_website_available): refer, disclaimer, website, available, rotce, ep, morning, thank, presentation, deliver
+Topic 3 (3_reserve_million_off_build): reserve, million, off, build, charge, cost, credit, net, billion, card
+Topic 4 (4_ccb_financial_year_wealth): ccb, financial, year, wealth, income, small, buffer, business, consumer, revenue
+Topic 5 (5_nii_approximately_guidance_expect): nii, approximately, guidance, expect, adjusted, imply, ex, expense, outlook, billion
+Topic 6 (6_trillion_inflow_aum_liquidity): trillion, inflow, aum, liquidity, asset, quarter, long, net, finally, client
+Topic 7 (7_wrap_expect_range_rate): wrap, expect, range, rate, ability, proud, look, produce, scenario, return
+Topic 8 (8_awm_margin_tax_management): awm, margin, tax, management, complete, valuation, pre, net, report, high
+Topic 9 (9_loan_utilization_cre_origination): loan, utilization, cre, origination, revolver, estate, real, sequentially, demand, middle
+Topic 10 (10_ex_nir_low_market): ex, nir, low, market, billion, ib, high, balance, million, fee
+Topic 11 (11_auto_card_os_origination): auto, card, os, origination, revolving, account, service, lease, revolve, vehicle
+Topic 12 (12_million_loss_nir_net): million, loss, nir, net, year, mention, upfront, security, corporate, compare
+Topic 13 (13_cib_wallet_ib_rank): cib, wallet, ib, rank, fee, number, date, share, billion, report
+Topic 14 (14_open_question_jamie_let): open, question, jamie, let, operator, line, bloodshed, hatred, terrorism, heart
+Topic 15 (15_underwriting_conversion_fee_advisory): underwriting, conversion, fee, advisory, pipeline, condition, debt, equity, announce, exist
+Topic 16 (16_wealth_year_quarter_tight): wealth, year, quarter, tight, deposit, asset, customer, management, spread, home
