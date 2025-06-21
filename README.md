@@ -1,5 +1,5 @@
 This group project is for the Bank of England as part of the Data Science and AI Career Accelerator Programme, delivered in partnership with Cambridge Institute of Continuing Education (ICE) and FourthRev.
-
+ 
 ---
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d6c18e47-fd60-4424-929f-6450bf4a4032" alt="Cambridge Institute of Continuing Education Logo" width="150" style="vertical-align: middle; margin-right: 20px;"/>
