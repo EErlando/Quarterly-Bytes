@@ -1,0 +1,18 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 10, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 1)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_nii_auto_year_ex): nii, auto, year, ex, nir, million, card, billion, revolving, high
+Topic 1 (1_trillion_inflow_aum_year): trillion, inflow, aum, year, fix, derivative, high, drive, equity, asset
+Topic 2 (2_rwa_capital_requirement_cet1): rwa, capital, requirement, cet1, scb, point, increase, risk, gsib, aoci
+Topic 3 (3_million_reserve_off_charge): million, reserve, off, charge, cost, build, card, net, billion, credit
+Topic 4 (4_ccb_year_financial_wealth): ccb, year, financial, wealth, business, revenue, small, income, consumer, result
+Topic 5 (5_refer_disclaimer_website_morning): refer, disclaimer, website, morning, available, thank, rotce, ep, presentation, good
+Topic 6 (6_expect_rate_produce_ability): expect, rate, produce, ability, proud, driver, return, card, follow, cut
+Topic 7 (7_year_gross_expense_ib): year, gross, expense, ib, revenue, deposit, drive, relate, high, volume
+Topic 8 (8_awm_margin_management_tax): awm, margin, management, tax, complete, valuation, net, high, pre, year
+Topic 9 (9_open_question_economy_line): open, question, economy, line, outcome, let, operator, world, broad, wrap
+Topic 10 (10_loan_origination_utilization_cre): loan, origination, utilization, cre, revolver, estate, real, demand, sequentially, middle
+Topic 11 (11_cib_wallet_ib_rank): cib, wallet, ib, rank, number, fee, billion, share, year, date
+Topic 12 (12_underwriting_conversion_fee_advisory): underwriting, conversion, fee, advisory, pipeline, condition, debt, announce, equity, exist
