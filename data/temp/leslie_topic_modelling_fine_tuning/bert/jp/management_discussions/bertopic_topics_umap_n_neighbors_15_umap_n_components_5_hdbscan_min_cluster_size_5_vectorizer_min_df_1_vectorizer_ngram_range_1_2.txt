@@ -1,0 +1,22 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 15, 'umap_n_components': 5, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 2)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_year_billion year_revenue_year year): year, billion year, revenue, year year, equity, drive, payment revenue, expense, revenue billion, service revenue
+Topic 1 (1_rwa_capital_requirement_cet1): rwa, capital, requirement, cet1, scb, point, risk, increase, start ccb, ccb page
+Topic 2 (2_firm report_start page_disclaimer_refer disclaimer): firm report, start page, disclaimer, refer disclaimer, refer, page firm, website, available website, morning presentation, presentation available
+Topic 3 (3_million_reserve_charge off_cost billion): million, reserve, charge off, cost billion, off, build, net charge, reserve build, charge, net reserve
+Topic 4 (4_ccb report_ccb_year_financial result): ccb report, ccb, year, financial result, financial, year banking, management revenue, small business, year year, billion revenue
+Topic 5 (5_approximately billion_nii_approximately_page expect): approximately billion, nii, approximately, page expect, expect nii, expect, market approximately, outlook page, guidance, adjusted expense
+Topic 6 (6_trillion_trillion year_inflow_client asset): trillion, trillion year, inflow, client asset, net inflow, asset trillion, aum, aum trillion, inflow billion, continue net
+Topic 7 (7_wrap_expect_range_range scenario): wrap, expect, range, range scenario, rate, expect card, card net, charge rate, look, proud
+Topic 8 (8_awm_tax margin_awm report_page awm): awm, tax margin, awm report, page awm, business awm, complete line, billion pre, pre tax, awm page, margin revenue
+Topic 9 (9_loan_cre loan_origination_utilization): loan, cre loan, origination, utilization, cre, revolver utilization, revolver, new loan, estate, real estate
+Topic 10 (10_ex market_nir ex_ex_market billion): ex market, nir ex, ex, market billion, nir, low ib, market, low, billion, nii ex
+Topic 11 (11_auto_card_card service_auto revenue): auto, card, card service, auto revenue, move card, os, origination, origination billion, revenue year, card os
+Topic 12 (12_net loss_loss million_million_loss): net loss, loss million, million, loss, nii billion, nir net, impact high, year, nir, corporate report
+Topic 13 (13_cib report_year ib_cib_ib): cib report, year ib, cib, ib, billion ib, wallet share, wallet, rank, fee, ib fee
+Topic 14 (14_open_question_open line_open question): open, question, open line, open question, operator open, jamie, let open, let, operator, line
+Topic 15 (15_underwriting_fee_conversion_equity term): underwriting, fee, conversion, equity term, advisory fee, underwriting business, advisory, pipeline, condition, underwriting fee
+Topic 16 (16_drive market_asset year_investment asset_client investment): drive market, asset year, investment asset, client investment, wealth, wealth management, year, market performance, revenue year, quarter
