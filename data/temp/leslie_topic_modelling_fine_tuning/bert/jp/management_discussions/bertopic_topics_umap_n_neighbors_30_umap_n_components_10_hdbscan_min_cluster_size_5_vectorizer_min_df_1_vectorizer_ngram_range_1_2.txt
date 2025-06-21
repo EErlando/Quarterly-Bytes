@@ -3,10 +3,17 @@
 Interpreting Topics:
 
 BERTopic - Top Words per Topic:
-Topic 0 (0_drive_high_quarter_revenue): drive, high, quarter, revenue, expense, drive high, low, predominantly, inflow, offset
-Topic 1 (1_nii_high_drive_market): nii, high, drive, market, nir, nii market, rate, low, revenue, drive high
-Topic 2 (2_ccb_rwa_capital_loan): ccb, rwa, capital, loan, quarter, requirement, ccb report, business start, cet1, scb
-Topic 3 (3_start report_rotce_refer_disclaimer): start report, rotce, refer, disclaimer, refer disclaimer, revenue deliver, deliver rotce, deliver, presentation available, website refer
-Topic 4 (4_awm_tax margin_report tax_awm report): awm, tax margin, report tax, awm report, management, margin, awm awm, high, business awm, management fee
-Topic 5 (5_revenue ib_cib report_cib_ib): revenue ib, cib report, cib, ib, fee rank, fee, ib fee, report revenue, revenue, rank date
-Topic 6 (6_underwriting_advisory_fee_condition): underwriting, advisory, fee, condition, underwriting business, fee term, advisory fee, underwriting fee, pipeline, term
+Topic 0 (0_nii_nir_high_nii market): nii, nir, high, nii market, market, drive, revenue, rate nir, rate, low
+Topic 1 (1_commercial_move commercial_expense_reserve): commercial, move commercial, expense, reserve, off, drive, commercial report, cost, bank commercial, cost reflect
+Topic 2 (2_start report_morning_refer_disclaimer): start report, morning, refer, disclaimer, refer disclaimer, revenue deliver, presentation available, website, morning presentation, available website
+Topic 3 (3_rwa_cet1_capital_requirement): rwa, cet1, capital, requirement, scb, cet1 ratio, ratio, start ccb, gsib, high rwa
+Topic 4 (4_derivative_currency_currency emerge_fix): derivative, currency, currency emerge, fix, revenue, emerge market, emerge, product, market, service revenue
+Topic 5 (5_ccb_ccb report_financial result_management revenue): ccb, ccb report, financial result, management revenue, small business, financial, wealth, wealth management, consumer, small
+Topic 6 (6_inflow_aum_continue inflow_inflow aum): inflow, aum, continue inflow, inflow aum, quarter, asset, see inflow, liquidity see, liquidity, inflow high
+Topic 7 (7_awm_tax margin_report tax_awm report): awm, tax margin, report tax, awm report, management, awm awm, management fee, margin, business awm, line business
+Topic 8 (8_uncertainty_environment_economy_strong result): uncertainty, environment, economy, strong result, area, thing, scenario, outcome, global economy, prepare
+Topic 9 (9_gross ib_gross_ib_technology investment): gross ib, gross, ib, technology investment, quarter, include office, volume relate, attrition non, ib market, investment high
+Topic 10 (10_loan_origination_loan reflect_loan sequentially): loan, origination, loan reflect, loan sequentially, funding, sequentially, client, mute, reflect continued, loan client
+Topic 11 (11_revenue ib_cib report_cib_ib): revenue ib, cib report, cib, ib, fee rank, ib fee, fee, rank, report revenue, rank date
+Topic 12 (12_underwriting_fee_pipeline_underwriting business): underwriting, fee, pipeline, underwriting business, fee term, advisory fee, condition, advisory, underwriting fee, exist pipeline
+Topic 13 (13_open_question_open question_open open): open, question, open question, open open, operator open, operator, question ahead, open guess, question operator, great question
