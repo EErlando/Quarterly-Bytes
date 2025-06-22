@@ -82,7 +82,7 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
 
     def _extract_blocks_from_section(self, processed_text):
         # Define the separator pattern (newline, dots, newline)
-        separator_regex = r"\.{10,}"
+        separator_regex = r"\.{5,}"
 
         # Split the text into blocks using the separator
         blocks = re.split(separator_regex, processed_text)
@@ -149,6 +149,8 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
         question_group_index = 0
         question_order = 0
 
+        print('doing block')
+
         for block in blocks:
             lines = block.split("\n")
             lines = [
@@ -165,16 +167,33 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
             if not lines:
                 continue  # Skip empty blocks
 
-            # Some/most operator lines are one liners, and has some formatting issues so we'll use 'in' check instead of startswith
-            if len(lines) == 1 or any('operator:' in line.replace(" ", '').lower() for line in lines):
-                if any('operator:' in line.replace(" ", '').lower() for line in lines):
-                    question_group_index = question_group_index + 1
-                    question_order = 0
+<<<<<<< HEAD
+            if len(lines) == 1:
+                continue # skip content with just one line
+
+            # Handle the Operator case: Speaker and start of text are on the first line
+            if lines[0].startswith("Operator"):
+=======
+            operatorPattern = r"^.{0,10}Operator ?:?"
+
+            # Handle the Operator case: Speaker and start of text are on the first line
+            if re.match(operatorPattern, lines[0]):
+                print(f'found operator: {question_group_index}')
+>>>>>>> 4aeff7444b59e1a2144fb41bb3ab46187304e396
+                question_group_index = question_group_index + 1
+                question_order = 0
                 continue
+            elif lines[0].startswith('.'):
+                print('overflow line')
+                lines = lines[1:0] # If there is an overflow of the separator onto the first line of the next block, then remove it
+
+
+            if not lines:
+                continue  # Skip empty blocks
 
             if lines[0].startswith("."):
-                start_index = 1
-                
+                lines = lines[1:] # If there is an overflow of the separator onto the first line of the next block, then remove it
+
             # Handle the disclaimer at the end
             if lines[0].startswith("Disclaimer"):
                 continue
