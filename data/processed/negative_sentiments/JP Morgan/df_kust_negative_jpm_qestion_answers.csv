@@ -1,0 +1,382 @@
+question_order,question_answer_group_id,speaker,role,company,content,year,quarter,content_type,score,label
+3,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. I guess I would direct you to my comments I think one or two quarters ago on this, but generally speaking that number i s pretty
+correla ted to the short -term rate. So all else equal, you'll see a headwind in there as the Fed hikes come through which in general in the
+geography, we would tend to expect that to be offset in NIR. But it's noisy. It can shift as a function of obscure balance s heet composition
+issues as I've mentioned in the past. And so that's why we don't focus too much on that number.",2022,1,answer,0.5105767846107483,Negative
+45,0,Glenn Schorr,Analyst,Evercore,That doesn’t sound so bad.,2022,1,question,0.9842995405197144,Negative
+53,0,Gerard Cassidy,Analyst,RBC,"Can we follow up on your comments about building up the reserves? I think you said it was $902 million that you guys built up , and it was due
+to high inflation and the war in the Ukraine. How much was it due to inflation? And when you made that comment, is  it because you're
+concerned about the lower end consumer spending more money for fuel and food that may lead to greater delinquencies down the road? And
+how much was it due to the Ukraine situation?",2022,1,question,0.5333150625228882,Negative
+55,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"One of the things I hated when CECL came out is that we'd spend a lot of time in every call yapping about CECL. I just think it's a huge
+mistake for all of us to spend too much time on it.",2022,1,answer,0.9996016621589661,Negative
+77,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"...you'd be shocked. So obviously, we're aware of that all the time in everything we do.",2022,1,answer,0.8217454552650452,Negative
+86,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. I mean, you know that we're going to be reluctant to like predict the next three quarters of trading performance.",2022,1,answer,0.9998836517333984,Negative
+94,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,Very hard to tell. There was some improvement and then there was Ukraine and now it's all mixed again. So it's hard to tell.,2022,1,answer,0.5874635577201843,Negative
+13,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. And, Glenn, just remember that we did do that last quarter, right? So we already introduced a sort of skew to the outlook beyond what's
+implied by the market to reflect our own slightly more negative view. And in a sense, arguably we were sort of early on that, so it really wasn't
+necessary t his quarter.",2022,2,answer,0.9997158646583557,Negative
+30,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"But another very important point for shareholders, that number, when they –  that doesn't even remotely – the stress loss doesn't even
+remotely represent what would happen under that kind of scenario. And I'm not s aying the Fed says it should or shouldn't, but I would tell you
+we'd make money under that scenario. We wouldn't lose, I think they had us losing $44 billion. There's almost no chance that that would be
+true.
+And I just –  so I –  and I feel bad for the shareholders because people look at that and s ay, well, what's going to happen? I mean but  there's
+good evidence, we didn't lose money after Lehman, we didn't lose money in the great – what just happened. We didn't lose money in great
+financial recession.
+The company's got huge underlying earnings power and consistent revenues in CCB, Asset Management custody, payment services. And
+then we have some kind of fairly volatile streams. And now we've got the CECL, which obviously can go up or down quite a bit.  But again,
+that's an accounting entry. And so we feel we're in very good shape. We just have to hold a higher number now and we're going to go there.",2022,2,answer,0.9909407496452332,Negative
+32,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"The other thing is, it's got bad effects for the economy because we're –  I just said, we're going to dr ive down this and drive down this, it's not
+good for the United States economy. And the mortgage business, in particular, is bad for lower income mortgages, which hurts lower income,
+minorities and stuff like that because we haven't fixed the mortgage busi ness, and now we're maki ng it worse. There's no real risk in it. It's not
+a benefit to JPMorgan, but it hurts this country. And it's very unfortunate.",2022,2,answer,0.9988038539886475,Negative
+36,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"We're going to keep a buffer –  I'm not even sure what the SCB means at this point. We're not going to go below any regulatory minimum. And
+if we have to, we'll just drive down credit more to create what we've got to create. It's a terrible way to run a financial system,  and we owe you
+more on what we think that buffer should be because we have so much – what I think is so much excess c apital. It ju st causes huge confusion
+about what you should be doing with your capital.
+But just keep in mind one thing, we're earning 17% of tangible equity, we can continue doing that. The company is in great shape. We're going to serve our clients and manage the hell out the rest of this stuff. We still think we have great businesses and stuff like that. And that's what
+we're going to do. Most of this stuff doesn't create any additional risk at all, it just creates capital.",2022,2,answer,0.7397668361663818,Negative
+38,0,James Mitchell,Analyst,Seaport Global,"Hey. Good morning. Maybe just on expenses, if I kind of look at the first half with this slowdown in investment banking, I think your annualized
+is less than $76 billion, but you're still targeting $77 billion. Is that implication of just higher investment spend in the second half? Or just
+uncertainty around ge tting th e pipeline completed or not and just assuming it might get done until we know better?",2022,2,question,0.6304844617843628,Negative
+43,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"...right. Exa ctly. Obviously still running well below normal levels from the pre- pandemic period. But if you really want to kind of turn up the
+magnification on the microscope and look really, really, really closely, if you look at cash buffers in the lower income segm ents and early
+delinquency roll -rates in those segments, you can maybe see a little bit of an early warning signal to the effect that the burn- down of excess
+cash is a little bit faster there, b uffers are still above what they were pre- pandemi c but coming down,  and that absolute numbers for the typical
+customer are not that high.
+And you do see those early delinquency buckets still below pre- pandemic levels but getting closer in the lower income segment. So if you
+wanted to try to look for ear ly warning si gnals, that's where you would see it. But I think there's really still a big question about whether that's
+simply normalization or whether it's actually an early warning sign of deterioration. And for us, as you know, our portfolio is really n ot very
+expos ed to that segment of the market, so not really very significant for us.",2022,2,answer,0.6999560594558716,Negative
+62,0,Mike Mayo,Analyst,Wells Fargo,"Yeah. I think the only other thing is just Market revenues are a lot weaker, right? I mean the Market outlook is wors e, and so we know you had
+structural spending. So when all else equal that'd be a little bit less then.",2022,2,question,0.9999927282333374,Negative
+70,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"Our percent of that bridge brook has come down substantially just in the last 12 months and that's really just underwriting l oan by loan by loan,
+and you win s ome and you lose some. And if you guys look at high yield spreads and stuff like that, bonds were down 6%, that's what you
+see. So you have some flex and we're big boys, we know that, and there is write- downs of a couple of bridge loans. They're not huge. I think
+they were in the I nvestment Banking line.",2022,2,answer,0.9986275434494019,Negative
+75,0,Erika Najarian,Analyst,UBS,"Got it. And my follow up question is for Jamie. Jamie, we've heard your caution about the economy, and I think there's a bigger debate on how
+the US consumer is going to be impacted in light or in contact with the downturn. T he statistics that Jeremy laid out imply a pretty healthy
+starting point for the consumer that you bank, and the reserve build for loan growth in Card and the less than 2% loss rate in C ard lead us to
+believe that your consumer is still okay. As you think about the various scenarios and you think about the realistic range of outcomes, how
+does the US consumer perform, because it feels l ike that's the big wild card. And we've seen the journal term, a job flow or recession. I just
+wanted to get your thoughts there.",2022,2,question,0.586857259273529,Negative
+10,2,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. And that showed exceptionally low losses in wholesale, so I'm not sure whether or not that's a prediction of the future or not, but yeah.",2022,2,answer,0.7975422143936157,Negative
+13,2,Jamie Dimon,CEO,JP Morgan Chase & Co.,"Let me say it very simply for you. In COVID, we got to 15% unemployment within three months. And in two quarters, we added $15 billion ,
+which we can easily handle. That is clearly –  I always put that almost out as the  worst case. It'll clearly be a lot less than that, and you guys
+could look at the thi ngs yourselves . Every 5% is another $500 million or something like that, if you change odds and so on...",2022,2,answer,0.6350849866867065,Negative
+15,0,Jim Mitchell,Analyst,Seaport Global,"Hey. Good morning. Hey, Jeremy . At the Investor Day, you noted that expense growth in 2023 would slow from this year's level and might be
+slightly higher than consensus expectations at the time. So, is that – now that you get closer to next year, does that still hold? And if the
+economy does get worse than expected, is there some levers to pull? Or is it just still investing heavily, regardless?",2022,3,question,0.6404035687446594,Negative
+24,0,John McDonald,Analyst,Autonomous Research,"And just to follow up on Jamie's comments about not ann ualizing the fourth quarter, is that where the risks lie to annualizing the fourth
+quarter? What are some of the puts and takes – you said it might be down a little bit from that fourth quarter annualized.",2022,3,question,0.9393685460090637,Negative
+41,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"They're roughly the same. We're just getting closer to what you and I might consider bad events. And my hurricane, I've been very consistent .
+But looking at probabilities and possibili ties, there is still, for example, a possibility of a soft landing. We can debate  what  we think that
+percentage is. Yours might be different than mine, but there's a possibility of a mild recession. Consumers are in very good shape, companies
+are in very good shape, and there’s a  possibility  of something worse, mostly because of the war in Ukraine and oil price and all t he things like
+that. I would not change my possibilities and probabilities this quarter versus last quarter, for me.",2022,3,answer,0.8318683505058289,Negative
+62,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah, on that point, Glenn, I was going to say the same thing what was traditionally the case that emerging markets struggle,  sovereigns
+struggle with the kind of dollar strength that we're expe riencing right now, but our emerging markets franchise folks have been through these
+cycles before, so we manage through it.",2022,3,answer,0.9997699856758118,Negative
+0,1,Gerard Cassidy,Analyst,RBC,"Thank you. Good morning, Jeremy, and good morning, Jamie. You guys have been talking about the system, the liquidity with – Jamie, you
+referenced QT, also the fragility of the system. Can you share with us what are the metrics you guys are looking at to see if  the system does
+have a problem on liquidity? Just this week you probably saw that the Swiss National Bank upped its res erve currency swap lines to $6.3
+billion. So, what are some of the things you guys focus in on to see if there's going to be maybe more – some liquidity issues that could lead to
+greater problems?",2022,3,question,0.9431707859039307,Negative
+2,2,Matt O’Connor,Analyst,Inc.,"And I guess when we read the headlines about home prices going down in some markets and car prices starting to roll, I mean why doesn't
+that drive some tightening in those businesses?",2022,3,question,0.9496372938156128,Negative
+3,2,Jamie Dimon,CEO,JP Morgan Chase & Co.,"Well, it has. I mean, look at , the volumes in mortgage have dropped, and cars quota  have dropped and stuff like that. And that's already in our
+numbers , and we would expect that to continue that way.",2022,3,answer,0.9991024732589722,Negative
+15,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. So there are definitely still opportunities to optimize. We're continuing to work very hard and it's a big area of focus. Some of that is
+reflected in this quarter's numbers, but some of the other drivers of this quarter are what you might call more passive items , particularly in
+market risk RWA. And yeah, but we shou ld be clear that although we've said that the effects of capital optimization are not a material
+economic headwind for the company, they're also not zero. There are real consequences due to the choices that we're making as  a result of
+this capital environm ent. And in a Basel III outcome that is unreasonably punitive from a capital perspective, there will be additional
+consequences  that we obviously are hoping that's not the case and believe that it's not appropriate, but we'll see what happens.",2022,4,answer,0.5493262410163879,Negative
+20,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"No. I think it's the same. You have the Apples who are basically doing a lot of banking services and Walmar t starting theirs. And obviously,
+higher rates will hurt some of the folks in the fintech world and maybe even help some of the folks. So we expect tough compe tition going
+forward.",2022,4,answer,0.9997636675834656,Negative
+25,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,It was a gain last year. It wasn't a write -down this year.,2022,4,answer,0.47987860441207886,Negative
+30,0,Gerard Cassidy,Analyst,RBC,"That's correct, Jeremy. And just in terms of any lending, obviously, so many of these companies have seen their valuations co me down
+considerably. Is there any elevated risk lending to some of these companies considering the struggles  they're having?",2022,4,question,0.6129294037818909,Negative
+34,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,Oversimplifying.,2022,4,answer,0.9601354002952576,Negative
+61,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Sure. Thanks, Steve. So, let's do Banking first. So, I think the thing that's interesting about banking  right now is that the declines have been so
+significant, obviously from very elevated levels, but even relative to just 2019, 2022 was a relatively weak year. And as we look into 2023, it's
+possible that the actual economic environment will be worse than it was in 2022. So, that could conceivably make you pessimistic about the
+Investment Banking wallet outlook. And to be sure, it's not as if we're super optimistic.
+But it's important to note that part of the issue here is how quickly things changed in 202 2, specifically with respect to rates, as that affects the
+debt business and valuations as it affects M&A and ECM as well. And one of the sort of necessary conditions for people to do deals or decide
+to raise capital is just getting comfortable with valuat ions in the open market. So, I think there's a chance that that actually winds up helping in
+2023 in the Investment Banking wallet. Of course, we don't know, but those are some of the things that we're thinking about.
+Jeremy Barnum
+Chief Financial Officer , JPMorgan Chase & Co.  A
+Similarly, on the Markets side, obviously Markets had another very strong year, better than we'd expected. Since the numbers were so strong
+coming out of the pandemic, we were expecting more normalization than what we actually saw . And 2022 had a lot of themes. I think the
+active management community did well. That always helps us a little bit. And we had volatility with relatively orderly and continued Markets .
+As we look towards 2023, maybe some of those themes will be a little bit less obvious and that could be a little bit of a headwind. But on the
+other hand, it's not like the volatility is going away, and Markets seem to continue to be quite orderly. And a 4.5%, 5% rate  environment is
+probably one where there's more tr ading opportunities than a 0% rate environment.
+So, of course, we don't know. We'll see. I think you would have to probably expect some normalization there. The numbers are really very
+strong in Markets. But we'll see. We'll see what happens.",2022,4,answer,0.6280593276023865,Negative
+6,0,Steven Chubak,Analyst,Wolfe Research,...elevated macro uncertainties.,2023,1,question,0.9999967813491821,Negative
+2,1,John McDonald,Analyst,Autonomous Research,"Okay. And then I wanted to ask Jamie – there's a narrative out there that the industry could see a credit crunch – banks are going to stop
+lending, even Jay Powell mentioned that as a risk. Do you see that in terms of anything you look at in terms of lending and i s that a reaction
+that makes sense – that banks might be retrenching a lot here? Do you worry about that for the economy in terms of credit crunch? Thanks.",2023,1,question,0.69642573595047,Negative
+16,1,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. And we always say, right, we underwrite through the cycle. And I think notably, we didn't loosen our underwriting standards when all the
+numbers looked crazy good during the pandemic, and we're not going to overreact now and tighten unreasonably. Some of that co rrection
+happens naturally – credit metrics deteriorate for borrowers whether in consumer or wh olesale, and that might make them leave our pre -
+existing risk appetite, but we're not running around aggressively tightening standards right now.",2023,1,answer,0.9844110012054443,Negative
+0,2,Ebrahim Poonawala,Analyst,Bank of America,"Hi, good morning. I guess, maybe one question, Jeremy. You reminded us of the relatively low office exposure for JPM. But, ob viously, you're
+big players in the CRE market. Just give us a sense of when you look at t he two pressure points on CRE, one, how much is oversupply – and
+that probably goes beyond office into apartments – how much of a issue is oversupply in the market as we think about the next few years
+going into a weakening economy? And how much of a risk is higher for longer rates in that if the central banks can't cut rates in the next year
+or two, we will see a ton of more pain because of the re -fi wall that's coming up?",2023,1,question,0.737910807132721,Negative
+2,2,Jamie Dimon,CEO,JP Morgan Chase & Co.,"Can I just add also, housing is in short supply in America. It's not massively oversupplied like you saw in 2008.",2023,1,answer,0.9800563454627991,Negative
+4,2,Ebrahim Poonawala,Analyst,Bank of America,"And just as a follow up, I think the other risk from higher for longer rates, I think, is this – the ability of the economy, the financial markets to
+sustain a 5% less Fed fund for a long period of time? Like, what are the other areas you're watching if du ration mismatch and bank balance
+Ebrahim H. Poonawala
+Analyst, Bank of America Merrill Lynch  Q
+sheets being one, CRE market being one, are you worrying – worried about non -banks that have grown exponentially over the last decade in
+terms of risks at the non -banks if rates don't get cut? And if you can talk to the transmission mechanism of that coming back and hitting banks
+given the leverage that banks provide to the non -banks.",2023,1,question,0.6266700625419617,Negative
+9,2,Mike Mayo,Analyst,Wells Fargo,"All right. And then one for you, Jamie. I guess taking the 10,000 foot level, I guess, when  you look at asset liability management, or ALM – you
+could call this nightmare on ALM street, and you've seen some big problems at banks, and I guess how would you evaluate yours elf, I guess,
+with this $7 billion higher NII guide? It probably is good, but  to what degree are you willing to sacrifice JPM shareholder money to help rescue
+problem banks that did not get their asset liability management correctly?",2023,1,question,0.7370504140853882,Negative
+18,2,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Betsy, did we just lose you? I feel like you just dropped.",2023,1,answer,0.9977439641952515,Negative
+29,2,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah, Betsy, we really don't have any new information there, right? I mean, I think clearly if you go back like a year, we we re maybe a little bit
+more optimistic that it might be across all the different levers a nd all the different pieces of it, closer to capital neutral. I think now it feels like
+it’s likely to be worse than that. Hopefully, it’s not too much worse than that. And I would just remind you that there are a  lot of different levers,
+so when the NPR c omes, that's only going to be a part of it, there's going to be other pieces – the holistic review. And it's going to take a lot of
+time to phase in and we're going to have time to adjust. So we'll know when we know.",2023,1,answer,0.994838535785675,Negative
+31,2,Jamie Dimon,CEO,JP Morgan Chase & Co.,"And there were supposed – I just remembered, there were supposed to be pauses in there about how they looked at banks relative to the
+global economy, which are getting smaller. The G -SIFI was supposed to be adjusted for  that. So, it may very – we're expecting it go up, but
+there are a lot of reasons why it shouldn't go up. And JPMorgan – there's so much capital. I mean, so you can't look at JPMorgan and say,
+well, it's a capital issue. And even the banks, by the way, whe n you look at it – even though some of the banks that are in trouble, they have
+plenty of capital. Their issue wasn't capital, it was other things. And so I'm just hoping regulators are very thoughtful.
+And the other thing is they should a priori decide what they want out of the banking system at this point because I've made it clear – I can look
+at the banking system and say that no bank should keep a loan, if possible. That's how much capital is now being required for  loans.",2023,1,answer,0.5270695090293884,Negative
+48,2,Matt O’Connor,Analyst,Inc.,"Okay. And then just separately to squeeze in – you guys took some securities losses again this quarter. And in the past you've talked about
+really just going security -by-security looking for, kind of, pricing opportunities. Is that kind of what drove it again this quarter, or is there some
+kind of broader, overarching…",2023,1,question,0.5559645295143127,Negative
+2,0,Jim Mitchell,Analyst,Seaport Global,"Okay. But I guess just one follow -up on that. Just if we don't get rate cuts till middle of next year or later, does that sort of give some
+confidence to the outlook for next year or are you still worried about significant reprice?",2023,2,question,0.824335515499115,Negative
+16,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"It's unlikely, obviously. That would be an unlikely outcome.",2023,2,answer,0.9994634985923767,Negative
+6,1,Ebrahim Poonawala,Analyst,Bank of America,"Good morning. I guess just first question, following up on the outlook for the economy. Like, we've all been worried about the recession for a
+year and there's a debate about the lagged effects of the Fed rate hike cycle. When you think about – Jeremy, I think you mentioned your
+unemployment outlook relatively similar today versus a quarter ago – how worried shou ld we be in terms of the credit cycle 6 to 12 months
+from now? Or are you leaning towards concluding that maybe U.S. businesses, consumers have absorbed the rate cycle a lot bett er than we
+expected a year ago?",2023,2,question,0.6750422716140747,Negative
+20,1,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Mike, let me get this right. You're actually complaining that our expenses aren't high enough? Is that right?",2023,2,answer,0.5887995362281799,Negative
+30,1,Steven Chubak,Analyst,Wolfe Research,"Helpful color, and just a follow -up on Card income. Revenues were muted in the quarter. I was hoping you could unpack just the sources of
+pressure. Maybe more specifically, how much of a drag is associated with FAS 91 versus some other factors.",2023,2,question,0.9977915287017822,Negative
+31,1,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. So actually, that Card income number, Steve, is a little bit of a one -off thing. So we had a reward liability  adjustment this quarter, kind of
+a technical thing, so that's just a temporary headwind. And also, the sequential comparison is also getting hurt by a small p ositive one -off item
+in the prior period. And obviously, I know you guys looked at it, but Card i ncome isn't sort of a thing we look at that much ourselves.",2023,2,answer,0.9774036407470703,Negative
+36,1,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Sure. So, look, on pricing power, you're right – it really depends on the product and it depends on the competitive landscape across different
+banks, and so it's very granular, it's very product -specific and in some cases we'll have more pricing power than in other cases. I think the
+overall point that we're trying to make in connection with Basel III Endgame is just that like we think the capital increases  are excessive and it
+puts pressure on retu rns all else equal, that obviously puts pressure on us to increase price where we can. That is generally a bad thing for the
+real economy and how all that plays out in detail across different products and services remains to be seen, importantly sinc e we d on't actually
+have the proposal yet – so we need those details. And sorry, Glenn I forgot the second half of your question. What was it?",2023,2,answer,0.8804213404655457,Negative
+37,1,Glenn Schorr,Analyst,Evercore,"Actually, I think you hit on it so I'll just do a follow -up on a related. So the notion of private credit doing large traditional investment -grade
+lending activity is maybe part of the competitive landscape that limits the ability to push price. In Jamie's letter, you tal ked about the downside
+– or my question is what's the downside if more of the mortg age credit asset -backed intermediation business is pushed out of the banking
+system?",2023,2,question,0.769274115562439,Negative
+38,1,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"I mean, I guess it depends on what you mean by downside. But I just think societally speaking, I think we've seen in recent history that when
+home lending is happening outside the regulated perimeter and things get bad, when you have economic downturns, it produces b ad
+outcomes for individuals and homeowners and society as a whole, and Jamie has written about this extensively. Beyond that, financially,
+we've talked about how mortgage lending – I mean, the profitability swings obviously is reasonably cyclical and the recent past has actually
+been very profitable, then it was less so. Like, the correspondent channel right now is a ctually picking up a little bit. But it's a thin -margin
+business, it's challenging. And when you increase the capital requirements, it makes it even harder so that just becomes one of the areas
+where you're in that tension between remixing versus pricing p ower that we talked about a second ago.
+And it might, in fact, mean that we do less – less credit available for homeowners and more regulatory risk as the activity moves outside the
+perimeter.",2023,2,answer,0.9315611124038696,Negative
+46,1,Betsy L. Graseck,Analyst,Morgan Stanley & Co.,"Okay. And so, is it fair for me to think about that change as a mark -to-market to where we are today? And when I think about your forward
+guide here, longer -term you're saying, look, deposit betas are accelerating. So as I go through the 10 -Qs over the next four, five quarters, I
+should expect that that $2.5 billion should come down because deposit betas you're anticipating are going to be acceler ating from here? I'm
+just trying to put those two things together.",2023,2,question,0.5399830937385559,Negative
+56,1,Matt O’Connor,Analyst,Inc.,"Good morning. So I'm in your camp that eventually consumers will want more deposit rate sensitivity here. But I guess what wo uld make you
+change your rates meaning fully? So the top two banks have about 50% consumer market share, loan -to-deposit ratios are low. Your outlook
+for loan growth, and I think others, is fairly sluggish, at least outside of Card. I get that it's common sense, and that's w hat we've seen
+histo rically. But there really is this kind of big divergence among big banks and everybody else where the big banks just don't ne ed to pay that
+much for deposits for a slew of reasons. So what would make you change that?",2023,2,question,0.9986238479614258,Negative
+1,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Sure. Thanks, John. I think the themes are pretty much the same as we've seen in prior quarters. So, as we talked a little bi t about on the
+press call, we've been trying to be a little bit cautious about recognizing that we don't think the current levels are sustainable and we do think
+that we'll have to reprice in some pockets to some degree, maybe tiering or whatever at some point in the future. A nd, of course, that hasn't
+happened yet this year, so that's one factor.
+In the meantime, the CD strategy is working well. We're getting – continue to get very good feedback from the field and we're capturing money
+in motion, and so we're seeing the sort of internal migration and the associated slow increase in deposit rate paid as a result of CD migration.
+But that’s sort of working as we would have hoped and so everything is kind of playing out according to plan, I would say.
+In terms of higher -for-longer, I think it just means that there will continue to be upward pressure on deposit pricing both from internal migration
+and possibly moderate effects. And in the end, as we always say, we’re going to price products as a function of the competiti ve market
+environment.",2023,3,answer,0.9152216911315918,Negative
+18,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Sorry, I'm just getting a correction in the room. I meant to say trillion.",2023,3,answer,0.9611790180206299,Negative
+57,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"You want to start? Okay. So, I mean, on green shoots, you'll just note that our comments are cautious. I mean, there is momen tum. I do think
+we are a little bit more optimistic than we were, but obviously, markets have bee n bumpy, both equity markets and rate markets have been
+very whippy recently. So we don't want to get too carried away with optimism here. We are coming in off a very low base and s o there's a
+hope and an expectation that we are on the path to normalizatio n and improvement. And of course, the overall economic picture at least
+currently looks solid, this sort of immaculate disinflation trade is actually happening. So those are all reasons to be a lit tle bit optimistic in the
+near-term, but it's tempered with quite a bit of caution.",2023,3,answer,0.9194144606590271,Negative
+58,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"So I would add a question. There has been an extraordinary amount of fiscal monetary stimulus still in the system, and you can't look at, and
+of course, it can drive markets in sentiment and sales and profits and all that, but you can't stay like this forever. Betwee n QT, if you never had
+and how much the fiscal stimulus could continue at this rate before you h ave kind of the crowding out kind of factor. So I think people have to
+be very cautious, and of course, the geopolitics I think is just an extraordinary issue we have to deal with. How do you prep are the company
+for that?
+We do 100 stress tests a week, an d we do multiple views of it, including geopolitical problems, interest rate problems, but usually, geopolitics
+presents itself as a deep recession or a mild recession, or a recession part of the world, or markets going down a lot, and b ecause markets do
+well is not a reason, ever, to say that they are going to continue to do well.
+If you don't believe me, remember 1987, 1990, 1994, the year 2000, the year 2009, and people don't predict those inflection p oints. But my
+caution is that we are facing so many uncertainties out there. You just got to be very cautious with what you're facing. And like I said, the other
+thing about the green shoots, regardless of that, we try to run the company so that we serve the clients day in and day out, better products and
+better services, securely, safely, and all those things, so that's the ultimate goal.
+We know there are going to be bad times. That's not a surprise that there are going to be bad times. We don't always know how they're
+coming, and where they're coming fro m, but we'll keep on serving clients and doing good for clients, you can build a good business kind of
+separate from what it does to your returns. That's a slightly different issue at this point, but we'll deal with that too whe n we figure out what to
+do.",2023,3,answer,0.9676887392997742,Negative
+69,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. Now because you did ask a little bit about the expense outlook for next year. So I think at the conference we said, I think the consensus
+was $88 billion, but we're still going through the budget process, et cetera, et cetera. So that's still true. I think we're still kind of in the ballpark,
+but I would say at the margin there's going to be a li ttle bit of upward pressure.",2023,3,answer,0.9947203397750854,Negative
+71,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah, this is all now including First Republic. And I think there will be a little bit of upward pressure on t hat as we sort of do our usual thing and
+look at all of the opportunities that we see and the investments that we want to make. So no surprise in that sense that we'r e going to invest
+prudently. Nothing dramatic, but probably a little bit of upward pressur e at the margin.",2023,3,answer,0.7060490846633911,Negative
+76,0,Jim Mitchell,Analyst,Seaport Global,"Okay. And then if it weren't to change, and you talked about the potential negative impact on liquidity in the Markets busine ss specifi cally, is
+that a JPM pulling out of certain businesses type event? Or is it more a comment that there'd be fewer providers of liquidity  as less scaled
+players exit, and maybe that's almost equal a market share gain opportunity for JPMorgan in a smaller bus iness?",2023,3,question,0.7951200604438782,Negative
+81,0,Matt O’Connor,Analyst,Inc.,"Hi, good morning. You talked about increased investment spend in some areas in response to an earlier question. But just how do you think
+about cost control overall, looking at the medium term? The outlook for revenue is obviously pressured at least on net interest inc ome. Fees
+might help, but the backdrop is for potentially declining revenue or at least flattish revenue for a couple or few years.  So, I know you always
+say you want to invest for the cycle, and it's really paid off over time, but how are you thinking about cost control the nex t few years?",2023,3,question,0.5332189798355103,Negative
+16,0,Ebrahim Poonawala,Analyst,Bank of America,"And maybe just taking that a step further, there has been concern around whether we see some of the CRE pain filter into multi -family
+apartments. You all have a pretty large multi -family exposure, high quality. But just give us a sense of, one, are you seeing any bleed -through
+of what we've seen in office in  other areas of commercial real estate or any particular parts of C&I lending? Thank you .",2023,4,question,0.9838584065437317,Negative
+23,1,Manan Gosalia,Analyst,Morgan Stanley & Co.,"Great. And on the flip side, in C&I, you spoke about lower revolver utilization, more muted demand. What would it take for th at to rebound? Do
+you think it accelerates from here if rates come down or is there room for this to slow eve n further if the capital markets open up even more ?",2023,4,question,0.8626184463500977,Negative
+24,1,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. It's a good question. I mean, I think as you say, it's a little bit of a – I mean, I wouldn't necessarily say that, like, lack of debt market
+access in the last year, that was more of an earlier effect in terms of having that drive revolver utilization. I think the main driver the re is just a
+little bit of residual anxiety in the C -suite, which increases as the companies get smaller in size.
+So, it's really going to be a function of how 2024 plays out. The softer the landing is, the more supported the utilization should be, I woul d
+think. If things turn out a little bit worse, I think management teams are going to be incrementally more cautious about CapE x and so on, and
+so you might see utilization even lowe r.",2023,4,answer,0.9975951313972473,Negative
+34,1,Charles W. Peabody,Analyst,Portales Partners,"Just to make sure I understood what you're saying, so you have NII ex. Markets going from $94 billion to $88 billion. Within that, would the
+contribution from First Republic be down as well or up ?",2023,4,question,0.9503830075263977,Negative
+4,1,Jamie Dimon,CEO,JP Morgan Chase & Co.,Which we know are going to be wrong .,2024,1,answer,0.8642784357070923,Negative
+31,1,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Right. So, I think what's true about spreads in general, just broadly credit spreads including secondary markets and to some extent the
+leverage lending space, is that they are exceptionally tight. So, I'm sure that's reversed a little bit in the last few days.  But bro adly throughout
+the quarter, we've really seen credit spreads tighten quite a bit. You even see that a little bit in our OCI this quarter, wh ere losses in OCI that
+we would've had from higher rates have been meaningfully offset by tighter credit spreads in  the portfolio. So broadly, sort of in keeping with
+the big run -up that we saw in equity markets and the general sort of bullish tone, you saw quite a bit of credit spread tightening in secondary
+markets.
+That, I think, has manifested itself a little bi t in the leverage lending space in the normal way that it does, and that there's a lot of competition
+among providers for the revenue pool, and you start to see a little bit of loosening of terms which always makes us a little bit concerned. And
+as we have  in the past, we are going to be very well prepared to lose share in that space if we don't like the terms. We never compromis e on
+structure there. So, you are seeing a little bit of that.
+I think that, away from the leverage lending space in the broader C&I space, there was a moment a few months ago where I thin k, in no small
+part, as a result of banks generally anticipating this more challenging capital environment and sort of disc iplining a little bit their lending, you're
+seeing a little bit of widening actually in those corporate lending spreads. I don't know if that trend has like survived ove r the last few weeks,
+and  it was little bit hard to observe in any case .
+But I would say broadly, the dynamics are the tension between people trying to be careful with their balance sheets and the f act that overall
+asset prices and conditions are quite supportive and secondary market credit spreads have rallied a lot .",2024,1,answer,0.8015815019607544,Negative
+57,0,Jim Mitchell,Analyst,Seaport Global,"Oh, hey, good morning. Maybe just one last question on sort of deploying excess capital. It seems like the two primary ways t o do that
+organically would be through the trading book or the loan book. So, maybe two questions there. One, trading assets were up 20% year -over-
+year. Is that you leaning into it or just a function of demand? And is there further opportunities to grow that?
+And then, secondly, outside of Card, loan demand has been quite weak and any thoughts from yo u on if you're seeing any change in demand
+or how you're thinking about loan demand going forward? Thanks.",2024,2,question,0.6987122297286987,Negative
+35,1,Jamie Dimon,CEO,JP Morgan Chase & Co.,"Yeah. And also in the debt markets, rates came down, spreads are quite low, and markets are wide open. So it kind of makes sense that
+people are taking advantage of that today. Those conditions may not prevail, be the ongoing conditions late next year.",2024,3,answer,0.8962433934211731,Negative
+37,1,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"So I think what there is to say about consumer spend is a little bit boring in a sense because what's happened is that it's become normal, so
+meaning – I mean, I think we're getting to the point where it no longer makes sense to talk about the pandemic, but maybe one last time . One
+of the things that you had was that heavy rotation into T&E as people did a  lot of traveling and they booked cruises that they hadn't done
+before, and everyone was going out to dinner a lot, whatever. So you had the big spike in T&E, the big rotation into discreti onary spending,
+and that's now normalized. And you would normally t hink that rotation out of discretionary into nondiscretionary would be a sign of consumers
+battening down the hatches and getting ready for a much worse environment. But given the levels that it started from, what we  see it as is
+actually like normalizatio n. And inside that data, we're not seeing weakening, for example, in retail spending.
+So overall, we see the spending patterns as being sort of solid and consistent with the narrative that the consumer is on sol id footing and
+consistent with the strong labor market and the current central case of a kind of no -landing scenario economically. But obviously, as we
+always point out, that's one scenario and there are many other scenarios.",2024,3,answer,0.7817420363426208,Negative
+63,1,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"No. Those were core NII or NII ex.. So again, reiterating at the time, the 2024 consensus was $91.5 billion. The 2025 consens us was $90
+billion on NII ex. and our point was that that number, which remains an asset -sensitive number, indicated an insufficien t amount of sequential
+decline year -on-year. The current consensus as we see it for NII ex. Markets is $87 billion. And as we've noted, that's closer albeit maybe s till
+a little bit toppy.",2024,3,answer,0.8087061643600464,Negative
+77,1,Saul Martinez,Analyst,Inc.,"Okay. That's helpful. So it sounds like you're a little bit above that, but there's still some pressure. But you're not dramatically above those
+levels.",2024,3,question,0.9147732853889465,Negative
+21,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah, it's a good question. And I think given the significant improvement in business sentiment and the general optimism out there, you might
+have expected to see some pickup in loan growth. We are not really seeing that. I don't particularly think that's a negative. I think it's probably
+explained by a combination of wide-open capital markets, and so many of the larger corporates accessing the capital markets and healthy
+balance sheets in small businesses and maybe some residual caution. And maybe there are some pockets and some industries where some
+aspects of the policy uncertainty that we might be facing are making them a little bit more cautious than they otherwise would be about what
+they're executing in the near-term. But, we'll see what the new year brings as the current optimism starts getting tested with reality, one way or
+the other.
+And maybe if it materializes with tangible improvements and things one way or the other, you'll actually see that come through C&I loan growth
+in particular.",2024,4,answer,0.6683250069618225,Negative
+27,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"So, we are never going to tell the market what we're going to do. You all know that everybody is out there modeling these things, trading
+against these things. So, steady consistent buyers in the marketplace who are so predictable are making a mistake.",2024,4,answer,0.9962103366851807,Negative
+32,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,Yeah. It is worth noting that NII ex. Markets is down year-on-year. So there's some normalization there.,2024,4,answer,0.9968509078025818,Negative
+43,0,Ebrahim Poonawala,Analyst,Inc.,"Good morning. I guess just two questions. In terms of areas of vulnerability, so I heard you, Jeremy, on the lending side, but lots of
+crosscurrents. Like, if we anchor to the fact that you have a new administration that's taking place or take office with a focus on domestic
+CapEx. Even if we don't get any rates cut, when you look through your customer base where do you see areas of vulnerability, be it because of
+tariffs, be it because of just lack of any additional relief from the Fed? Yeah, would love to hear just from a credit quality perspective what no
+rate cuts might mean.",2024,4,question,0.964214026927948,Negative
+45,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"I would just point the biggest driver of credit has been and always will be unemployment. That's both in the consumer side and it bleeds into
+the corporate side. It bleeds into mortgages, sub-prime, credit card. So, really, it's your forecast of unemployment, which you have to make
+your own, which will determine that over time. And so, the second thing you said, vulnerabilities, it's unemployment, but the worst case would
+be stagflation. Higher rates with higher unemployment will drive higher credit losses literally across the board. We're not predicting that, but
+you just asked where the vulnerability is, that's the vulnerability.",2024,4,answer,0.9920378923416138,Negative
+3,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah, that's a good question, Ken. You're right. So if you remember, last quarter we said that we had one cut in the curve. I think latest curve has
+something like three cuts. And so, we've talked a lot, obviously, about how we are asset sensitive. You now see our EaR disclosed in the
+supplement, and probably our empirical EaR is a little bit higher than our modeled EaR as a result of the relatively low – lower than modeled
+rates paid in Consumer. So when you put that together, all else equal, the drop in the weighted-average IORB, which is about 22 basis points,
+should produce a notable headwind in our NII ex. Markets.",2025,1,answer,0.5163125395774841,Negative
+9,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"I just – before Jamie answers that, Erika, I just want to make one brief comment, which is the banking system being a source of strength means
+what it says. In other words, banks doing their job to support the economy. That's not a statement about bank equity performance and the
+extent to which banks are cyclical or not. Like obviously, a recessionary environment, as I've frequently said, all else equal, is bad for banks
+from an equity performance perspective. We're talking about the financial strength of banks' balance sheets and our ability to support our
+clients in a difficult moment.",2025,1,answer,0.8107886910438538,Negative
+27,0,Matt O’Connor,Analyst,Inc.,"Good morning. Just wanted to drill down on the credit card spend. Any comments in terms of changing patterns on the consumer card spend?
+There's been headlines in travel kind of going down. Just talk about some of the puts and takes in that up 7% year-over-year.",2025,1,question,0.5744985938072205,Negative
+28,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah, it's a good question and we're seeing that too. So let me talk about travel. I mean we obviously saw the airlines discuss what they are
+seeing as headwinds for them, specifically in airline travel, and we're seeing that too through the card spend. It's not obvious to us that that's
+necessarily an indicator for broader patterns. There are a variety of potential explanations for the narrow drop in airline spend.
+And as I mentioned previously, another thing that we are seeing looking at the April data is what would appear to be a little bit of front-loading
+of spending, specifically in items that might be – have prices go up as a function of tariffs. So you see people behaving rationally, and I have
+noted even you hear anecdotes, and I've seen evidence of companies specifically advertising we have pre-tariff inventory and so on and so
+forth. So it's not that surprising that you're seeing that a little bit in the spending data.
+The other thing that people are kind of interested in this space is like what's happening by income band, because we have seen some of the
+retailers and other folks talking about weaknesses in the lower income segment. And I think when we look at our Card data and also our cash
+buffers and peoples' checking accounts, of course, it is true that it is relatively weaker in the lower income segment. But when you take a step
+back and you ask, are we seeing signs of distress in the lower income segment? The answer is no. So, sure, the margin and cash buffers are
+lower, and you see some rotation of spend and spending is a little bit weaker than it was in the peak spending moments. But actually, some of
+the increases in spending that we're seeing in April are actually coming from the lower income segment. So no evidence of distress, I would
+say.",2025,1,answer,0.8809356689453125,Negative
+31,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,Delinquencies in Home Lending.,2025,1,answer,0.9998577833175659,Negative
+38,0,Steven Chubak,Analyst,Wolfe Research,"Hi. Good morning and thanks for taking my questions. Wanted to start off with one on the proposed SLR changes and just the impact of rate
+volatility. The Treasury is committed to providing relief to the banks under the SLR just to help mitigate some of the volatility in the 10-year. But
+given the geopolitical concerns, weakening global demand for treasuries, how does it inform your appetite just for purchasing U.S. Treasuries
+if those reforms are implemented and just how you're managing rate risk maybe more holistically across the Firm, just in light of some the
+recent volatility?",2025,1,question,0.5043140053749084,Negative
+41,0,Steven Chubak,Analyst,Wolfe Research,"Thank you both for that perspective. And just for my follow-up, did want to ask on the Markets outlook. So, admittedly, less surprising to hear
+some of the cautious IB commentary in light of the uncertainty. But was hoping you could just speak to the Markets businesses which have
+been performing extraordinarily well of late and just given the combination of elevated volatility, but also some indications that clients are
+taking down risk, how you expect that business to perform over the coming quarters.",2025,1,question,0.5983812212944031,Negative
+51,0,Ebrahim Poonawala,Analyst,Bank of America,"Thank you. Good morning. I guess just wanted to follow up on the macro uncertainty. I think when you talk to investors, we've gone from
+enthusiasm for a pro-business administration to a lot of headwinds. And I think Jamie mentioned you'll have companies take down guidance, et
+cetera, potentially over the coming weeks. I'm just wondering what is it you think we need to see before this uncertainty abates, or the 90-day
+pause that we saw with some of the other countries on tariffs. Is that enough? Or I'm just wondering when you talk to clients, corporate CEOs,
+what are they looking for from the administration that would inject confidence to get back anywhere close to where we were maybe 60 or 90
+days ago?",2025,1,question,0.9758032560348511,Negative
+53,0,Ebrahim Poonawala,Analyst,Bank of America,"Got it. I guess as a follow up, I think there's a lot of concern also in the treasury markets. We've seen the 10-year move from 3.99% to 4.50% in a
+matter of a week. Just your comfort level on terms of the functioning of the treasury market. Do you see the Fed stepping in, pausing QT,
+maybe even initiating some treasury purchases? Just any color would be great.",2025,1,question,0.9097057580947876,Negative
+64,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,...which we know will not happen.,2025,1,answer,0.6300828456878662,Negative
+87,0,Mike Mayo,Analyst,Wells Fargo,"Hey, Jamie, you just said on this call, there's a ""Deep recognition of flaws"" by the new regulatory regime. And can you put – you or Jeremy, put
+some meat on the bones as far as what's been an ideal scenario? You keep the safety and soundness of the system, but you rid all – as much
+red tape and bureaucracy as possible. How much could expenses potentially decline? I assume you pass on some of that to customers and
+you'd keep some of that, and the regulators would save money. So, some meat on the bones about the potential concrete savings from
+deregulation.
+But before that, the negative, which you highlight in the press release and the Chairman Letter about trade wars, Jamie, you went from trade
+wars ""Get over it"" to this week say, ""Do something."" So just as far as the tariff journey, what were you initially expecting to what happened and
+do you really think next earnings call we'll be through most of the uncertainty? Thanks.",2025,1,question,0.5803724527359009,Negative
+99,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"And I do think that the fact that the revenue performance in this quarter is good shouldn't make us lose focus on the importance of the larger
+fixes around financial resource deployment by regulated banks to supporting the capital markets ecosystem. Everything Jamie's been talking
+about SLR, LCR, ILST, G-SIB, Basel III Endgame, RWA, the whole panoply of items, which interacts, as we've often talked about and is miss-
+calibrated, it will, at the margin, make it harder for banks to serve a stabilizing function in a difficult moment. So that remains quite important as
+a policy priority.",2025,1,answer,0.9996896982192993,Negative

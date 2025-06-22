@@ -1,0 +1,325 @@
+question_order,question_answer_group_id,speaker,role,company,content,year,quarter,content_type,score,label
+47,0,Glenn Schorr,Analyst,Evercore,"Maybe the last quickie on credit is just with everybody having a job and there's wage inflation and excess cash, are there an y buckets of the
+income that you're seeing the early -stage delinquencies picking up?",2022,1,question,0.5047420859336853,negative
+55,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"One of the things I hated when CECL came out is that we'd spend a lot of time in every call yapping about CECL. I just think it's a huge
+mistake for all of us to spend too much time on it.",2022,1,answer,0.8070821166038513,negative
+86,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. I mean, you know that we're going to be reluctant to like predict the next three quarters of trading performance.",2022,1,answer,0.5008348226547241,negative
+5,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"Yeah, the only thing I would like to add is that certain loan growth is discretionary and portfolio- based. Think of mortgages, and there's a good
+chance we're going to drive it down substantially.",2022,2,answer,0.625165581703186,negative
+32,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"The other thing is, it's got bad effects for the economy because we're –  I just said, we're going to dr ive down this and drive down this, it's not
+good for the United States economy. And the mortgage business, in particular, is bad for lower income mortgages, which hurts lower income,
+minorities and stuff like that because we haven't fixed the mortgage busi ness, and now we're maki ng it worse. There's no real risk in it. It's not
+a benefit to JPMorgan, but it hurts this country. And it's very unfortunate.",2022,2,answer,0.9442470073699951,negative
+34,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"The balance...  ...well, no, we'll originate, but the balances in the books will probably come down. And look, we reserve the right to change that,
+but that's a portfolio decision. And if it doesn't make sense to own mortgages, we're not going to own them.",2022,2,answer,0.5121475458145142,negative
+62,0,Mike Mayo,Analyst,Wells Fargo,"Yeah. I think the only other thing is just Market revenues are a lot weaker, right? I mean the Market outlook is wors e, and so we know you had
+structural spending. So when all else equal that'd be a little bit less then.",2022,2,question,0.9013147950172424,negative
+70,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"Our percent of that bridge brook has come down substantially just in the last 12 months and that's really just underwriting l oan by loan by loan,
+and you win s ome and you lose some. And if you guys look at high yield spreads and stuff like that, bonds were down 6%, that's what you
+see. So you have some flex and we're big boys, we know that, and there is write- downs of a couple of bridge loans. They're not huge. I think
+they were in the I nvestment Banking line.",2022,2,answer,0.954173743724823,negative
+10,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah, I'll take that, Ebrahim. Thanks. The short answer to that question is just no. We just don't see anything that you coul d realistically
+describe as a crack in our actual credit performance. I made some comments about this in the prepared rem arks on the consumer side, but
+we've done some fairly detailed analysis about different cohorts and early delinquency bucket entry rates and stuff like that . And we do see, in
+some cases, some tiny increases . But generally in almost all cases, we think tha t's normalization , and it's even slower than we expect.",2022,3,answer,0.6829360127449036,negative
+15,0,Jim Mitchell,Analyst,Seaport Global,"Hey. Good morning. Hey, Jeremy . At the Investor Day, you noted that expense growth in 2023 would slow from this year's level and might be
+slightly higher than consensus expectations at the time. So, is that – now that you get closer to next year, does that still hold? And if the
+economy does get worse than expected, is there some levers to pull? Or is it just still investing heavily, regardless?",2022,3,question,0.8286553025245667,negative
+24,0,John McDonald,Analyst,Autonomous Research,"And just to follow up on Jamie's comments about not ann ualizing the fourth quarter, is that where the risks lie to annualizing the fourth
+quarter? What are some of the puts and takes – you said it might be down a little bit from that fourth quarter annualized.",2022,3,question,0.9224262833595276,negative
+41,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"They're roughly the same. We're just getting closer to what you and I might consider bad events. And my hurricane, I've been very consistent .
+But looking at probabilities and possibili ties, there is still, for example, a possibility of a soft landing. We can debate  what  we think that
+percentage is. Yours might be different than mine, but there's a possibility of a mild recession. Consumers are in very good shape, companies
+are in very good shape, and there’s a  possibility  of something worse, mostly because of the war in Ukraine and oil price and all t he things like
+that. I would not change my possibilities and probabilities this quarter versus last quarter, for me.",2022,3,answer,0.4835415780544281,negative
+4,1,Jamie Dimon,CEO,JP Morgan Chase & Co.,"Yeah. And I've always pointed out to you all , the pipelines come and go, okay? You've seen that the size we ’ve never had before. So, pipeline
+is not necessary to see . I would put in your model , lower IB revenues next quarter than this quarter based on what we see today. Markets, we
+have no idea. Seasonally, it's generally a low quarter in the fourth quarter, but we don't know this quarter because there's so much activity
+taking place, and your guess is as good as ours.",2022,3,answer,0.7921565175056458,negative
+2,2,Matt O’Connor,Analyst,Inc.,"And I guess when we read the headlines about home prices going down in some markets and car prices starting to roll, I mean why doesn't
+that drive some tightening in those businesses?",2022,3,question,0.8580226898193359,negative
+3,2,Jamie Dimon,CEO,JP Morgan Chase & Co.,"Well, it has. I mean, look at , the volumes in mortgage have dropped, and cars quota  have dropped and stuff like that. And that's already in our
+numbers , and we would expect that to continue that way.",2022,3,answer,0.9475385546684265,negative
+12,0,Ebrahim Poonawala,Analyst,Bank of America,"Good morning. I guess maybe, Jeremy, just following up on the credit assumptions underlying  – if you cou ld give us a sense of what's
+assumed in that reserve ratio at the end of the year, be it in terms of the unemployment rate, and your outlook around just a  lot of chatter
+around commercial real estate, the struggles to reprice in the current rate backdrop. Are you concerned about that? Are you seeing pain points
+in CRE customers given what's happening with cap rates and then just overall backlog today?",2022,4,question,0.6988334655761719,negative
+20,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"No. I think it's the same. You have the Apples who are basically doing a lot of banking services and Walmar t starting theirs. And obviously,
+higher rates will hurt some of the folks in the fintech world and maybe even help some of the folks. So we expect tough compe tition going
+forward.",2022,4,answer,0.898323655128479,negative
+26,0,Gerard Cassidy,Analyst,RBC,"Oh, I got it. Okay. I thought there was a write -down there. Okay.",2022,4,question,0.5666890144348145,negative
+27,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,I want to make that clear. Sorry about that.,2022,4,answer,0.4783511459827423,negative
+30,0,Gerard Cassidy,Analyst,RBC,"That's correct, Jeremy. And just in terms of any lending, obviously, so many of these companies have seen their valuations co me down
+considerably. Is there any elevated risk lending to some of these companies considering the struggles  they're having?",2022,4,question,0.9380052089691162,negative
+34,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,Oversimplifying.,2022,4,answer,0.7943970561027527,negative
+49,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Sure. So, I mean, as you know, obviously, we tend to break down our expenses across our three categories. And in some sense, the category
+that you're addressing is the volume - and revenue -related expense, which we highligh t because it should, pretty symmetrically, respond to a
+better or worse environment and thereby contribute to operating leverage.
+So, for example, in this year's ultimate outcome and the number that we wound up printing for 2022, the year -on-year change i n volume - and
+revenue -related expense, we're still refining the numbers, we'll probably show you more at Investor Day, but is probably close to $1 billion – in
+other words, year -on-year decline. Whereas next year we're assuming something more like flat. So , while the sort of year -on-year dollar
+change in the outlook sort of 2021 to 2022, 2022 to 2023 is comparable, the mix is quite different actually.
+And so, for example, if we wound up being wrong about the type of environment that we're budgeting for, you would expect a significant drop
+in the volume - and revenue -related expense number that's in the current outlook, and that would contribute to operating leverage. For the rest
+of it, we're always generating efficiency, and we've worked ju st as hard at that whether the revenue environment is good or bad.
+And as you know, we invest through the cycle. And so, broadly, our investment plans really shouldn't be that sensitive to sho rt-term changes
+in the environment. Of course, certain types of  things like marketing investments in the Card business in particular, the math of what we
+expect the NPV of those things to be through the cycle may change in a downturn, and that could produce lower investment, all  else equal.
+But the core strategic inve stments that we're making to secure the future of the company are not going to get modified because of the ups and
+downs of the environment.",2022,4,answer,0.6656309366226196,negative
+68,0,Matt O’Connor,Analyst,Inc.,"Good morning. How are you guys thinking about managing the securities book given the outlook of lower deposits? Obviously, th e yield curve
+is quite inverted depending on what part you're looking at or most parts, frankly. And then at the same time, the securities boo k is cash flowing
+a lot less than it was a couple years ago, just given the rate environment.",2022,4,question,0.573185920715332,negative
+70,0,Matt O’Connor,Analyst,Inc.,"I guess a bigger picture question – we've seen such a drop in really 5, 10 -year part of the curve and even further out. And banks aren't really
+buying; instead they're selling. And I guess I wa s wondering if you had thoughts on who's buying and what's driving the rates so much lower
+than most people think they should be at.",2022,4,question,0.7884497046470642,negative
+77,0,Andrew Lim,Analyst, Societe Generale,"Sure. Okay. Let's drill down into NII then. I just want to square a few comments you made there, Jeremy. So, if I heard you correctly, I think
+you are sort of talking about sequential increases in NII, so I guess looking towards like $20 billion plus for 1Q, maybe eve n 2Q. So, I guess
+we're hitting about $40 billion for 1H and then a sharp drop -off as, say, deposit costs increase and maybe we get a few Fed Fund rate cuts as
+well. Is that the way we should be thinking about it?",2022,4,question,0.4682869613170624,negative
+6,0,Steven Chubak,Analyst,Wolfe Research,...elevated macro uncertainties.,2023,1,question,0.8042227625846863,negative
+4,1,Erika Najarian,Analyst,UBS,"Hi. Good morning. My first question is you mentioned that your reserve build was driven mostly by worse economic assumptions.  I'm
+wondering if you could update us on what unemployment rate you're assuming in your reserve.",2023,1,question,0.5504292845726013,negative
+16,1,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. And we always say, right, we underwrite through the cycle. And I think notably, we didn't loosen our underwriting standards when all the
+numbers looked crazy good during the pandemic, and we're not going to overreact now and tighten unreasonably. Some of that co rrection
+happens naturally – credit metrics deteriorate for borrowers whether in consumer or wh olesale, and that might make them leave our pre -
+existing risk appetite, but we're not running around aggressively tightening standards right now.",2023,1,answer,0.5662361979484558,negative
+2,2,Jamie Dimon,CEO,JP Morgan Chase & Co.,"Can I just add also, housing is in short supply in America. It's not massively oversupplied like you saw in 2008.",2023,1,answer,0.8295056223869324,negative
+18,2,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Betsy, did we just lose you? I feel like you just dropped.",2023,1,answer,0.6134405136108398,negative
+42,2,Matt O’Connor,Analyst,Inc.,"Good morning. You guys talked about one of the drivers of the higher net interest income guide this year is due to likely hig her credit card
+balances. And I was just wondering if you could flush out what changed there on the outlook today versus three months ago. An d I guess, is it
+a good or bad thing that those balances will be higher than you thought?",2023,1,question,0.45084407925605774,negative
+8,1,Jamie Dimon,CEO,JP Morgan Chase & Co.,"Yeah. And I would just add that the 5.8% is not our predic tion. That is the average of the unemployment under multiple scenarios that we have
+to use which are hypothetical for CECL. So you have this prediction that's going to always look something different and we do n't know the
+outcome. We try to be really clear  here – the consumer is in good shape, they're spending down their excess cash – that's all tailwinds. Even if
+we go to a recession, they're going with rather good conditions, low borrowings and good house price values still. But the he adwinds are
+substant ial and somewhat unprecedented. There's war in Ukraine, oil and gas, quantitative tightening, unprecedented fiscal needs of
+governments, QT which we never experienced before. I just think people should take a deep breath on that. We don't know if th ose thi ngs
+could put us in a soft landing, a mild recession or a hard recession. And obviously, we all hope for the best.",2023,2,answer,0.6548666954040527,negative
+20,1,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Mike, let me get this right. You're actually complaining that our expenses aren't high enough? Is that right?",2023,2,answer,0.5934012532234192,negative
+25,1,Mike Mayo,Analyst,Wells Fargo,"And then one quick follow -up to that. Your efficiency ratio this quarter is the lowest we've seen in a long, long time and I guess you're saying
+don't extrapolate this efficiency ratio because NII will come down at s ome point. But when you just simply look at – you benchmark yourself
+against the low -cost providers, where do you think you're there now and where can you still go because if you extrapolate this quarter, you'r e
+getting closer?",2023,2,question,0.8496006727218628,negative
+30,1,Steven Chubak,Analyst,Wolfe Research,"Helpful color, and just a follow -up on Card income. Revenues were muted in the quarter. I was hoping you could unpack just the sources of
+pressure. Maybe more specifically, how much of a drag is associated with FAS 91 versus some other factors.",2023,2,question,0.7762414813041687,negative
+31,1,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. So actually, that Card income number, Steve, is a little bit of a one -off thing. So we had a reward liability  adjustment this quarter, kind of
+a technical thing, so that's just a temporary headwind. And also, the sequential comparison is also getting hurt by a small p ositive one -off item
+in the prior period. And obviously, I know you guys looked at it, but Card i ncome isn't sort of a thing we look at that much ourselves.",2023,2,answer,0.9458032250404358,negative
+62,1,Jamie Dimon,CEO,JP Morgan Chase & Co.,"But that's a little more complicated because a lot of that loan -to-value ratio is lower because of regulatory stuff, LCR, capital ratio, etcetera.",2023,2,answer,0.5159918069839478,negative
+65,1,Charles W. Peabody,Analyst,Portales Partners,"Morning. Jeremy, on page 4 of your presentation, you show some liquidity metrics. And there's been a meaningful deterioration , or I shouldn't
+say deterioration, depletion of some of that excess liquidity, obviously for First Republi c primarily. So my question is how quickly do you want
+to rebuild that liquidity because as I look out towards 2024, there's probably a half dozen variables that are going to make liquidity a premium
+event – to have excess liquidity? So that's my first que stion. What's your plans for replenishing that liquidity?",2023,2,question,0.5589897036552429,negative
+68,1,Charles W. Peabody,Analyst,Portales Partners,"All right. So sort of wrapped into that as a follow -up, if you take your $87 billion forecast for NII this year, and that implies at least one quarter
+of maybe $22 billion of NII, and you take your eventual forecast of mid -$70 billion of NII at some point in the future, that would imply at least
+one quarter of $18 billion of NII so  that's about an 18% drop. And if you hold the balance sheet steady, you're talking about a 30 -basis point
+Charles W. Peabody
+Analyst, Portales Partners LLC  Q
+drop in your margin, your NIM, to get from $22 billion to $18 billion. I mean, what is driving – is it really the deposit or are you thinking in term s
+of interest reversals as credit deteriorates or is it rebuilding of liquidity? I'm just trying to get a better sense of the i mpact is.",2023,2,question,0.7495058178901672,negative
+7,0,Steven Chubak,Analyst,Wolfe Research,"Hi. Jeremy, I was hoping to just inquire about the capital markets outlook. You cited improved activity levels in September. But given
+persistently higher rates, geopolitical tensions, and just poor performance of recent IPOs, how are you thinking about the ou tlook over the near
+to medium term? And how are you thinking about just the timing  of an inflection activity?",2023,3,question,0.4233591854572296,negative
+18,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Sorry, I'm just getting a correction in the room. I meant to say trillion.",2023,3,answer,0.4970676898956299,negative
+33,0,Ryan Kenny,Analyst,Morgan Stanley & Co.,"And then on the loan growth side, industry loan growth has slowed significantly this year. What demand are you seeing for loa n growth across
+the different categories? And I know it might be too early to talk about next year, but directionally, how should we think ab out loan growth
+given where we are in the cycle and the higher capital requirements coming?",2023,3,question,0.7196283340454102,negative
+44,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. So, Erika, I think the simple answer to your question is I believe that fourth quarter exit number equates to a $90 billion run rate ex.
+Markets and we're kind of saying...",2023,3,answer,0.7464541792869568,negative
+63,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,But the percent who are digital only is much lower than that .,2023,3,answer,0.8152376413345337,negative
+81,0,Matt O’Connor,Analyst,Inc.,"Hi, good morning. You talked about increased investment spend in some areas in response to an earlier question. But just how do you think
+about cost control overall, looking at the medium term? The outlook for revenue is obviously pressured at least on net interest inc ome. Fees
+might help, but the backdrop is for potentially declining revenue or at least flattish revenue for a couple or few years.  So, I know you always
+say you want to invest for the cycle, and it's really paid off over time, but how are you thinking about cost control the nex t few years?",2023,3,question,0.9047799706459045,negative
+82,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. I mean, I wish I had sort of an answer that fit better into your framework. But in some fundamental sense, we just kind of don't agree
+with the framework in the sense that and we've been through this over the last couple of years, right? In a world where rates  drop very
+suddenly and recover like quite dramatic ally, and credit becomes abnormally good and then rebounds, and you've seen these very significant
+fluctuations in capital markets. We  saw that in 2021 going into 2022 where the revenue environment can change a lot in the short term for
+reasons that can be  largely out of your control.
+And while of course there are parts of our expense base, which are in the short term directly sensitive to the revenue enviro nment and some
+of those adjust naturally and some of them we adjust more forcefully as a function of volumes, but other things are much more structural. And
+the goal is to make sure that those other things are sized appropriately to what we believe sustainable through the cycle ret urns are. So we're
+always very focused on  cost. You can be rest assured of that. That discipline internally is as aggressive as ever as we go through the budget
+cycle. But there are long -term plays and you really shouldn’t expect us to see trying to generate cosmetically lower costs in response t o a
+lower revenue environment where we didn’t balloon the costs when the revenue became as we’ve argued unsustainably high.",2023,3,answer,0.44406062364578247,negative
+1,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. Matt, not particularly updating. I think you're referring to that $80 billion number that we'd put out there, and I wou ldn't exactly describe
+that as an outlook. I think it's more just a number that we put out there to try to quantify a little bit the extent of the over earning . So, not
+particularly necessary to revise the number. But I just would point out, again, as we highlight on the page, and as I hig hlighted in the prepared
+remarks, that when you look at that $94 billion exit rate and full year guidance of $88 billion, that implies obviously exiti ng below $88 billion and
+some significant sequential decline. So, in that sense, you can see us kind of ma rching on the path to that $80 billion. Whether we ever get to
+the $80 billion or not and when is maybe a topic for later in the year or next year .",2023,4,answer,0.6140604019165039,negative
+7,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. Actually, John, this quarter, that's all like pretty quiet. So, the weighted average unemployment rate number is still 5.5%. We didn't have
+any really big revisions in the macro outlook driving the numbers, and our skew remains as it has been – a little bit skewed to the downside.
+Just recognizing that we still see risks being elevated, which obviously you can see that skew in the difference between the weighted average
+unemployment of 5.5%, and what's in our central outlook, which I think is somethin g like 4.6% (sic) [4.4%]  peak of the current levels.",2023,4,answer,0.5285974740982056,negative
+12,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. Both good questions. So let's do reprice first. So, I think all else equal, this more dovish Fed environment and these six cuts has the
+effect of taking a little bit of pressure off the reprice, especially product -level reprice. At the same time, we do continue to expect internal
+migration, particularly out of checking and savings into CDs, and in Who lesale, a little bit of ongoing migration out of non -interest -bearing into
+interest -bearing.
+And that trajectory, I would expect to continue even in a lower rate environment. So, as a result, if you look at weighted av erage rate paid, for
+example, for the consumer deposit franchise, we would actually expect that number to be a little bit higher, just even in a world with six  cuts.
+And that's actually intuitive when you think about it, as people continue migrating into CDs, but maybe a little non -intuiti ve if you're kind of
+trying to do beta type math with like change in rates and change in rate paid. It gets a little bit non -intuitive.
+And then, in terms of balances, yeah, you'll note that I said that our outlook is for balances to be very modestly down , which when you
+consider the QT, despite the various speculations about having it slow down later in the year, continues and that loan growth  in the system as
+a whole is expected to be quite muted. It's a pretty modest decline outlook consistent with the lower rates. So, I kind of agree with you that this
+environment is at the margin, a little bit more supportive for system -wide deposit balances. And then, obviously, we continue to be optimistic
+about our ability to take share in deposits based on our cust omer value proposition across all of our different businesses .",2023,4,answer,0.38698285818099976,negative
+18,1,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. Good question, Gerard. I mean, I think you've heard Jamie talk about this a lot. QT is obviously a big focus and one of  the complicating
+elements that we have in the current environment. I think that the math is the math in the sense that QT, all else equal, is withdrawing from
+system -wide deposits. In the last six months of this year, that's been offset, hopefully, by a reduction in the size of RRP. And so,  that's been
+supportive of system -wide deposits.
+As we g o into 2024, RRP is at lower levels, and so that may be a little bit less of a tailwind. But it's also the case, as you know,  that there's –
+the market's expectation is that QT is going to start slowing down at some point this year. So – and we still have reasonable levels of reserves
+and some cushion from RRP. So, that's part of the reason that our outlook is for deposits to be modestly down, with the shrin kage in system -
+wide deposits maybe partially offset by our belief that we can take some share. But, a lso I think the second half of this year is going to be
+interesting to watch in terms of what the Fed does .",2023,4,answer,0.8692744374275208,negative
+23,1,Manan Gosalia,Analyst,Morgan Stanley & Co.,"Great. And on the flip side, in C&I, you spoke about lower revolver utilization, more muted demand. What would it take for th at to rebound? Do
+you think it accelerates from here if rates come down or is there room for this to slow eve n further if the capital markets open up even more ?",2023,4,question,0.7697792053222656,negative
+34,1,Charles W. Peabody,Analyst,Portales Partners,"Just to make sure I understood what you're saying, so you have NII ex. Markets going from $94 billion to $88 billion. Within that, would the
+contribution from First Republic be down as well or up ?",2023,4,question,0.5529823303222656,negative
+10,0,Jim Mitchell,Analyst,Seaport Global,"Hey. Good morning. Jeremy, can you speak to the trends you're s eeing with respect to deposit migration in the quarter, if there's been any
+change? Have you seen that migration start to slow or not ?",2024,1,question,0.6502113342285156,negative
+13,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. So, I mean I think the drivers of, let's say, what's embedded in the current guidance is actually not meaningfully different from what it
+was in the fourth quarter, meaning it's the current yield curve, which is a little bit stale now. But the snap from quarter -end had  roughly three
+cuts in it. So, it's the current yield curve, it's what I just said, the expectation of ongoing internal migration. There is some meaningful offset
+from Card revolve growth, which while it's a little bit less than it was in prior years, is s till a tailwind there.
+We expect deposit balances to be sort of flat to modestly down, so that's a little bit of a headwind at the margin. And then,  there's obviously
+the wild card of potential product level reprice, which we always say we're going to mak e those decisions situationally as a function of
+competitive conditions in the marketplace, and you know this obviously, but in a world where we've got something like $900 bi llion of deposits
+paying effectively zero, relatively small changes in the product  level reprice can change the NII run rate by a lot. So, the error  bands here are
+pretty wide, and we're always going to stick with our mantra, which has been not losing primary bank relationships and thinki ng about the long -
+term health of the franchise when we think about deposit pricing .",2024,1,answer,0.6885647177696228,negative
+4,1,Jamie Dimon,CEO,JP Morgan Chase & Co.,Which we know are going to be wrong .,2024,1,answer,0.6281661987304688,negative
+31,1,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Right. So, I think what's true about spreads in general, just broadly credit spreads including secondary markets and to some extent the
+leverage lending space, is that they are exceptionally tight. So, I'm sure that's reversed a little bit in the last few days.  But bro adly throughout
+the quarter, we've really seen credit spreads tighten quite a bit. You even see that a little bit in our OCI this quarter, wh ere losses in OCI that
+we would've had from higher rates have been meaningfully offset by tighter credit spreads in  the portfolio. So broadly, sort of in keeping with
+the big run -up that we saw in equity markets and the general sort of bullish tone, you saw quite a bit of credit spread tightening in secondary
+markets.
+That, I think, has manifested itself a little bi t in the leverage lending space in the normal way that it does, and that there's a lot of competition
+among providers for the revenue pool, and you start to see a little bit of loosening of terms which always makes us a little bit concerned. And
+as we have  in the past, we are going to be very well prepared to lose share in that space if we don't like the terms. We never compromis e on
+structure there. So, you are seeing a little bit of that.
+I think that, away from the leverage lending space in the broader C&I space, there was a moment a few months ago where I thin k, in no small
+part, as a result of banks generally anticipating this more challenging capital environment and sort of disc iplining a little bit their lending, you're
+seeing a little bit of widening actually in those corporate lending spreads. I don't know if that trend has like survived ove r the last few weeks,
+and  it was little bit hard to observe in any case .
+But I would say broadly, the dynamics are the tension between people trying to be careful with their balance sheets and the f act that overall
+asset prices and conditions are quite supportive and secondary market credit spreads have rallied a lot .",2024,1,answer,0.7218534350395203,negative
+36,1,Charles W. Peabody,Analyst,Portales Partners,"Good morning. A couple of questions on the First Republic acquisition. Some of us obviously thought that would be a homerun, and I'm glad to
+see that Jamie Di mon validated that in his annual letter. When you look at the first quarter, it annualizes out to $2.7 billion, $2.8 billion,  above
+the $2 billion that Jamie published in the letter. I know you don't want to extrapolate that.
+But can you remind us what so rt of cost savings you still have in that, because this quarter did see expenses come down to $800 million down
+from $900 million? And then, secondly, is there an offset to that where the accretion becomes less and less and that's why yo u don't want to
+extrapolate the $2.7 billion, $2.8 billion? So, that's my first question .",2024,1,question,0.49730780720710754,negative
+5,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. Interesting question, Steve. So, let's talk about deposit balances. So, yeah, I see your point about how balance pressu res are slightly
+abating. When you look at the system as a whole, just to go through it, QT is still a bit of a headwind, loan grow th is modest and not enough to
+offset that. And our PE seems to have settled in roughly at its current levels, and there are reasons to believe that it migh t not go down that
+much more, although that could always change and that could supply extra reserves  into the system. But on balance net across all those
+various effects, we still think that there are net headwinds to deposit balances. So, when we think of our balance outlook, w e see it as flat to
+slightly down maybe with our sort of market share and gro wth ambitions offsetting those system -wide headwinds.
+So, in terms of normalizing higher, I guess it depends on relative to what, but I think it's definitely too early to be sort of calling the end of the
+overearning narrative or the normalization narrati ve. Clearly, the main difference in our current guidance relative to what we had earlier in the
+year, which implied a lot more sequential decline, is just the change in the Fed outlook. So, two cuts versus six cuts is the  main difference
+there. But obvious ly, based on the latest inflation data and so on, you could easily get back to a situation with a lot more cuts in the yield
+curve. So, we'll see how it goes and in the end, we're kind of focused on, on just running the place, recognizing, and trying  not to be distracted
+by what remains some amount of overearning, whatever it is.",2024,2,answer,0.5245591402053833,negative
+32,0,Mike Mayo,Analyst,Wells Fargo,"Hi. Jeremy, you said it's too early to end the overearning narrative and you highlighted higher deposit costs and the impact of lower rates and
+lower NII and DCM pull-forward and credit costs going higher. Anything I'm missing in that list? And what would cause you to end the
+overearning narrative?",2024,2,question,0.6321853399276733,negative
+47,0,Gerard Cassidy,Analyst,RBC,"Jeremy, I know you touched on deposits earlier in the call in response to a question. I noticed on the average balances the n on-interest -
+bearing deposits were relatively stable quarter -to-quarter versus prior quarters wh en they’ve steadily declined. And this is one of the areas, of
+course, investors are focused on in terms of the future of the net interest margin for you and your peers. Can you elaborate,  if you can, what
+you’re seeing in that non -interest -bearing deposit  account? I know this is average and not period, and the end number may actually be lower.
+But what are you guys seeing here?",2024,2,question,0.6939345598220825,negative
+50,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah. It's a good question. I think the short answer is no. We're not really seeing early signs of cracks in C&I. I mean, yes , I agree with you,
+like the C&I charge -off rate has been very, very  low for a long time. I think we emphasized that at last year's Investor Day, if I remember
+correctly. I think the C&I charge -off rate we've seen in 10 years was something like literally zero. So, that is clearly very low by historical
+standards. And while  we take a lot of pride in that number and I think it reflects the discipline in our underwriting process and the strength of
+our credit culture across the bankers and the risk team, that's not – we don't actually run that franchise to like a zero loss exp ectation. So, you
+have to assume there will be some upward pressure on that. But in any given quarter, the C&I numbers tend to be quite lumpy a nd quite
+idiosyncratic. So, I don't think that anything in the current quarter's results is indicative of anythin g broader, and I haven't heard anyone
+internally talk that way, I would say.",2024,2,answer,0.553083598613739,negative
+0,1,Jim Mitchell,Analyst,Seaport Global,"Hey, good morning. So, Jeremy, as you highlighted, full year NII guidance implies a sizable drop in Q4 NII ex. Markets about 6%. So, can you
+just maybe discuss what are the largest drivers of the sequential decline including any initial thoughts on deposit  behavior and pricing since
+the 50 basis point cut?
+And since it's related, I'll just throw out my follow -up question. I realize the forward curve is moving around a lot, but since Dan brought it up a
+month ago, can you frame how you're thinking about the NII trajectory for 2025? Thanks.",2024,3,question,0.9151149392127991,negative
+14,1,Erika Najarian,Analyst,UBS,"My first question, and thank you very much for answering all the NII questions so far, Jeremy, is just I guess another follow -up. As you can
+imagine, once Daniel said what he said on stage in September, everyone is trying to figure out the over/under for net interest income next
+year. So maybe a two -part first question, the second being inspired by what Jamie just said.
+Erika Najarian
+Analyst, UBS Securities LLC  Q
+Number one, NII is expected to be down 6% sequentially in fourth quarter. I think year -over-year in 2025, consensus has it down 4% from your
+new level. So it sounds like consensus still has room to come down, and based on the forward curve, Jeremy, it coul d be a little bit worse
+year-over-year than the fourth quarter sequential rate. But that being said, as Jamie noted, we have no idea what the curve is going to  look
+like. Right? It's gyrated so much. And so as we think about the curve, is it better for JPM organ to have more cuts in the short end but
+steepness or less cuts but a little bit of a flatter curve?",2024,3,question,0.9401403069496155,negative
+35,1,Jamie Dimon,CEO,JP Morgan Chase & Co.,"Yeah. And also in the debt markets, rates came down, spreads are quite low, and markets are wide open. So it kind of makes sense that
+people are taking advantage of that today. Those conditions may not prevail, be the ongoing conditions late next year.",2024,3,answer,0.8747052550315857,negative
+63,1,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"No. Those were core NII or NII ex.. So again, reiterating at the time, the 2024 consensus was $91.5 billion. The 2025 consens us was $90
+billion on NII ex. and our point was that that number, which remains an asset -sensitive number, indicated an insufficien t amount of sequential
+decline year -on-year. The current consensus as we see it for NII ex. Markets is $87 billion. And as we've noted, that's closer albeit maybe s till
+a little bit toppy.",2024,3,answer,0.8477481007575989,negative
+69,1,Jamie Dimon,CEO,JP Morgan Chase & Co.,[indiscernible],2024,3,answer,0.5004053115844727,negative
+73,1,Saul Martinez,Analyst,Inc.,"Hey. Good morning. I'm not going to ask about a specific NII in 2025, but I did want to delve into the how to think about you r deposit margin in
+volume dynamics in the CCB over the next few years. You have seen a decent amount of pressure in the deposit ma rgin, 2.6%, down about
+30 basis points as deposit balances have come down, so it put some pressure on deposit NII. But deposit margins are still wel l above where
+they were when rates were at levels that are consistent with where the forward curve now has b een going. So I guess how do we think about
+both volumes and margin dynamics if rates do come down, say, to the level that are consistent with the forward curve? I know the forward
+curve is likely going to be long, but that's the reference point we have.
+And conversely, volume offset. You mentioned, Jeremy, the retail deposits becoming a tailwind. But, I guess, how much of a ta ilwind could
+they be, especially as you are expecting to gain quite a bit of market share in retail deposits? So just give us a sen se of sort of the push and
+pull of these dynamics that really help drive the deposit, the value of the deposit franchise.",2024,3,question,0.8628947734832764,negative
+27,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"So, we are never going to tell the market what we're going to do. You all know that everybody is out there modeling these things, trading
+against these things. So, steady consistent buyers in the marketplace who are so predictable are making a mistake.",2024,4,answer,0.7221865057945251,negative
+29,0,Matt O’Connor,Analyst,Inc.,"Good morning. It seems like you guys have backed off the view that you're materially over-earning on net interest income. And is this all
+because of the higher rate environment that's expected now? Or is it also partly a different view on deposit pricing, specifically on the
+consumer side, which I think you had assumed it would reprice a bit more than we've seen?",2024,4,question,0.7946912050247192,negative
+32,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,Yeah. It is worth noting that NII ex. Markets is down year-on-year. So there's some normalization there.,2024,4,answer,0.9052926898002625,negative
+45,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"I would just point the biggest driver of credit has been and always will be unemployment. That's both in the consumer side and it bleeds into
+the corporate side. It bleeds into mortgages, sub-prime, credit card. So, really, it's your forecast of unemployment, which you have to make
+your own, which will determine that over time. And so, the second thing you said, vulnerabilities, it's unemployment, but the worst case would
+be stagflation. Higher rates with higher unemployment will drive higher credit losses literally across the board. We're not predicting that, but
+you just asked where the vulnerability is, that's the vulnerability.",2024,4,answer,0.5553776025772095,negative
+3,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah, that's a good question, Ken. You're right. So if you remember, last quarter we said that we had one cut in the curve. I think latest curve has
+something like three cuts. And so, we've talked a lot, obviously, about how we are asset sensitive. You now see our EaR disclosed in the
+supplement, and probably our empirical EaR is a little bit higher than our modeled EaR as a result of the relatively low – lower than modeled
+rates paid in Consumer. So when you put that together, all else equal, the drop in the weighted-average IORB, which is about 22 basis points,
+should produce a notable headwind in our NII ex. Markets.",2025,1,answer,0.8586145043373108,negative
+10,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,"Everyone trades stocks in a different way, so sentiment – but banks are a cork in the ocean when it comes to the economy. If the economy gets
+worse, credit losses will go up, volumes can change, deal curves can change. And we're not predicting all of that. What I would say is our
+excellent economist, Michael Feroli, I called him this morning, specifically to ask him, how they're looking at their forecast today, they think it's
+about 50-50 for a recession. So I'll just refer to that. Obviously, if there's a recession, credit losses will go up and other factors will change, too.
+And I think the one thing I'll add to what Jeremy said is – and I don't usually pay that much attention to anecdotes, but this time I am. And I think
+you're going to see a lot of companies – you guys – not you, but the analyst community has already reduced its earnings estimates for the S&P
+by 5%. So it's – now it's up 5% as opposed to up 10%. My guess is that will be zero and negative 5%, probably in the next month.
+And then you're going to hear 1,000 companies report, and they're going to tell you what their guidance is. My guess is a lot will remove it.
+They're going to tell you what they think it might do to their customers, their base, their earnings, their cost, their tariffs. It's different for every
+company. But I assume you'll see that. And anecdotally, a lot of people are not doing things because of this. They're going to wait and see. And
+that's M&A, that's M&A with middle market companies, that's people's hiring plans and stuff like that. So people have to adjust to this new
+environment. And I think we'll see what it is.
+I just also want to point out, just to – so you can round it up. This is to make you feel comfortable, not uncomfortable. When COVID hit,
+unemployment went from like 4% to 15% in a couple of months, and we had to add to reserves in a two-month period of $15 billion. And then to
+show you how stupid CECL is, in the three month – three quarter period, we took down the $15 billion. So, just – that just sizes up a bad
+recession. If it's a mild recession, it will be less than that. If it's a really bad recession, it will be more than that. Either way, we can handle it and
+serve our clients. Earnings won't be great and the stocks will go down, which I look at as an opportunity to buy back more stock.",2025,1,answer,0.5515977740287781,negative
+16,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,We should have not given you that forecast. We don't know what the number is going to be. That's a...,2025,1,answer,0.5308250188827515,negative
+28,0,Jeremy Barnum,CFO,JP Morgan Chase & Co.,"Yeah, it's a good question and we're seeing that too. So let me talk about travel. I mean we obviously saw the airlines discuss what they are
+seeing as headwinds for them, specifically in airline travel, and we're seeing that too through the card spend. It's not obvious to us that that's
+necessarily an indicator for broader patterns. There are a variety of potential explanations for the narrow drop in airline spend.
+And as I mentioned previously, another thing that we are seeing looking at the April data is what would appear to be a little bit of front-loading
+of spending, specifically in items that might be – have prices go up as a function of tariffs. So you see people behaving rationally, and I have
+noted even you hear anecdotes, and I've seen evidence of companies specifically advertising we have pre-tariff inventory and so on and so
+forth. So it's not that surprising that you're seeing that a little bit in the spending data.
+The other thing that people are kind of interested in this space is like what's happening by income band, because we have seen some of the
+retailers and other folks talking about weaknesses in the lower income segment. And I think when we look at our Card data and also our cash
+buffers and peoples' checking accounts, of course, it is true that it is relatively weaker in the lower income segment. But when you take a step
+back and you ask, are we seeing signs of distress in the lower income segment? The answer is no. So, sure, the margin and cash buffers are
+lower, and you see some rotation of spend and spending is a little bit weaker than it was in the peak spending moments. But actually, some of
+the increases in spending that we're seeing in April are actually coming from the lower income segment. So no evidence of distress, I would
+say.",2025,1,answer,0.7479987144470215,negative
+31,0,Jamie Dimon,CEO,JP Morgan Chase & Co.,Delinquencies in Home Lending.,2025,1,answer,0.8905829191207886,negative
+89,0,Mike Mayo,Analyst,Wells Fargo,"No, and you also mentioned hundreds of billions of dollars of extra lending if you reduce the CET1 ratio, I guess, back down by one-fifth.",2025,1,question,0.487081378698349,negative
