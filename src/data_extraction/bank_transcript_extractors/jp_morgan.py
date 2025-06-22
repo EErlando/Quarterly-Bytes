@@ -12,6 +12,74 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
         self._quarter = quarter
         self._year = year
 
+        ## Dictionary of misspelt roles in the transcripts
+        self._misspelt_roles_dict = {
+            "  ": " ",
+            ' ,': ',',
+            'Of ficer': 'Officer',
+            'Financ ial': 'Financial',
+            'Morg an': 'Morgan',
+            'Finan cial': 'Financial',
+            'Fina ncial': 'Financial',
+            'Fin ancial': 'Financial',
+            'Analy st': 'Analyst',
+            'Cha irman': 'Chairman',
+            'JPMo rgan': 'JPMorgan',
+            'JPMorganChase': 'JPMorgan Chase & Co.',
+            'JPMorga n': 'JPMorgan',
+            'JP Morgan': 'JPMorgan',
+            'Off icer': 'Officer',
+            'JPMor gan': 'JPMorgan',
+            'JPM organ': 'JPMorgan',
+            'Chair man': 'Chairman',
+            'Membe r': 'Member',
+            '-O': 'O',
+            'Membe rOperating': 'Member Operating',
+            'M ember': 'Member',
+            'Offi cer': 'Officer',
+            '& C o': '& Co',
+            'Chas e': 'Chase',
+            'C hief': 'Chief',
+            'Oper ating': 'Operating',
+            'Comm ittee': 'Committee',
+            'Execut ive': 'Executive',
+            'Financia l': 'Financial',
+            'Ch ief': 'Chief',
+            'Co .': 'Co.',
+            'Officer ,': 'Officer,',
+            'Financi al': 'Financial',
+            'M ember': 'Member',
+            'MemberOperating': 'Member Operating',
+            'Chie f': 'Chief',
+            'Mor gan': 'Morgan',
+            'M organ': 'Morgan',
+            'C apital': 'Capital',
+            'Ev ercore': 'Evercore',
+            'Ever core': 'Evercore',
+            'Evercor e': 'Evercore',
+            'Ame rica': 'America',
+            'Amer ica': 'America',
+            'P ortales': 'Portales',
+            'Po rtales': 'Portales',
+            'Seapor t': 'Seaport',
+            'Seap ort': 'Seaport',
+            'Farg o': 'Fargo',
+            'Ca pital': 'Capital',
+            'Ba nk': 'Bank',
+            'Amer ica': 'America',
+            'Secur ities': 'Securities',
+            'Well s': 'Wells',
+            'In c': 'Inc',
+            'Autono mous': 'Autonomous',
+            'Auton omous': 'Autonomous',
+            'S ecurities': 'Securities',
+            'M errill': 'Merrill',
+            'Inc .': 'Inc.',
+            'Deutsc he': 'Deutsche',
+            'Chief Financial Officer & Member Operating Committee, JPMorgan Chase & Co.': 'Chief Financial Officer, JPMorgan Chase & Co.',
+            'Chairman & Chief Executive Officer': 'Chief Executive Officer'
+        }
+
     def _extract_blocks_from_section(self, processed_text):
         # Define the separator pattern (newline, dots, newline)
         separator_regex = r"\.{10,}"
@@ -38,6 +106,19 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
             cleaned_blocks.append("\n".join(lines))
 
         return cleaned_blocks
+
+    def _correct_role_spelling(self, role_name) -> str:
+        """
+        Corrects any spelling or pdf conversion issues in the roles of the speaker
+
+        Returns:
+            str: correctly spelled role.
+        """
+        role_name = role_name.strip()
+        for misspelt_role in self._misspelt_roles_dict.keys():
+            if misspelt_role in role_name:
+                role_name = role_name.replace(misspelt_role, self._misspelt_roles_dict[misspelt_role])
+        return role_name.strip()
 
     def get_qna(self, full_text):
         """
@@ -80,7 +161,6 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
             speaker_name = "N/A"
             role_name = "N/A"
             text_content = ""
-            start_index = 0
 
             if not lines:
                 continue  # Skip empty blocks
@@ -94,24 +174,23 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
 
             if lines[0].startswith("."):
                 start_index = 1
-
+                
             # Handle the disclaimer at the end
-            if lines[start_index].startswith("Disclaimer"):
+            if lines[0].startswith("Disclaimer"):
                 continue
 
             else:  # Standard speaker: Name on line 1, Role on line 2, Text after
                 if len(lines) >= 1:
-                    speaker_name = lines[start_index]
+                    speaker_name = lines[0]
                 if len(lines) >= 2:
-                    role_name = lines[start_index + 1]
+                    role_name = lines[1]
+                    # Final cleanup for the role
+                    role_name = self._correct_role_spelling(role_name)
                     # Remove optional Q/A from role
                     role_name = re.sub(r"\s*(Q|A)$", "", role_name).strip()
                     role_name, company_name = (
                         role_name.split(",")[0].strip(),
                         role_name.split(",")[-1].strip(),
-                    )
-                    role_name = ", ".join(
-                        sorted([role.strip() for role in re.split(r"&|and", role_name)])
                     )
                     company_name = (
                         BankType.JPMORGAN.value
@@ -120,7 +199,7 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
                         else company_name
                     )
                 if len(lines) > 2:
-                    text_content = "\n".join(lines[start_index + 2 :])
+                    text_content = "\n".join(lines[2 :])
 
             # Final cleanup for text content (e.g., removing any leading/trailing blank lines)
             text_content = text_content.strip()
@@ -149,7 +228,7 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
             full_text (str): The complete transcript text.
 
         Returns:
-            pd.DataFrame: A DataFrame with 'speaker', 'role', 'content' columns.
+            List: A list of objects that contain the speaker, role, company and content.
         """
         entries = []
 
@@ -184,12 +263,10 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
                     speaker_name = lines[0]
                 if len(lines) >= 2:
                     role_name = lines[1]
+                    role_name = self._correct_role_spelling(role_name)
                     role_name, company_name = (
                         role_name.split(",")[0].strip(),
                         role_name.split(",")[-1].strip(),
-                    )
-                    role_name = ", ".join(
-                        sorted([role.strip() for role in re.split(r"&|and", role_name)])
                     )
                     company_name = (
                         BankType.JPMORGAN.value
@@ -214,7 +291,7 @@ class JpMorganTranscriptExtractor(BaseTranscriptExtractor):
 
         return entries
 
-    def get_qna_df(self, full_text):
+    def get_qna_df(self, full_text) -> pd.DataFrame:
         """
         Extracts the Question-and-Answer Session from the transcript text and structures it.
 

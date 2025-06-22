@@ -1,0 +1,39 @@
+--- LDA Topic Model with 11 Topics ---
+
+LDA model fitting complete for 11 topics.
+
+
+Interpreting Topics:
+
+Topic 1:
+basel endgame re on balance you re seeing it brennan dif ferent we color is
+
+Topic 2:
+we card ultimate re ve businesses investments that investment items
+
+Topic 3:
+we re that funding it progress density quarter months funds
+
+Topic 4:
+competitors organically allocation 10 year data dialogue denis highlighted cie executed partnership
+
+Topic 5:
+ve focused pretty before sachs we we re inside advantage looks asked
+
+Topic 6:
+buyback billion based smaller held thoughtful denis comments around vast classes
+
+Topic 7:
+business re we re taking question exit out driving proposal compete sustainably growing dividend 600
+
+Topic 8:
+we re that it we re you ve clients growth markets
+
+Topic 9:
+betsy we ve grown that cetera okay you ﬁrm long investment reasons close
+
+Topic 10:
+follow 2020 re transaction hearing there worth goldman targets levels
+
+Topic 11:
+pipeline outlook on balance rules relatively ﬁnancing markets deal balance sheet environment outcome

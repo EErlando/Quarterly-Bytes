@@ -1,0 +1,18 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 15, 'umap_n_components': 10, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 5, 'vectorizer_ngram_range': (1, 2)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_nii_high_market_rate): nii, high, market, rate, drive, low, drive high, mention, high rate, revenue
+Topic 1 (1_fix_market_strong_security service): fix, market, strong, security service, rate, revenue, environment, elevated, low, offset
+Topic 2 (2_commercial_reserve_expense_off): commercial, reserve, expense, off, cost, drive, reflect off, term, predominantly, compensation
+Topic 3 (3_capital_end_quarter_effect): capital, end, quarter, effect, versus, start, versus prior, business, current, prior quarter
+Topic 4 (4_consumer_result_business_deposit): consumer, result, business, deposit, management, report revenue, spend, revenue, segment, cash
+Topic 5 (5_start_report_result_revenue): start, report, result, revenue, loss, include, item, quarter, mention, security
+Topic 6 (6_inflow_asset_quarter_equity): inflow, asset, quarter, equity, see, quarter quarter, level, loan quarter, high, drive
+Topic 7 (7_awm_management_margin_tax): awm, management, margin, tax, strong inflow, high, report, advisor, inflow, offset
+Topic 8 (8_ib_deposit quarter_quarter_non): ib, deposit quarter, quarter, non, volume, quarter quarter, office, deposit, relate, drive
+Topic 9 (9_loan_sequentially_client_rate): loan, sequentially, client, rate, high rate, reflect, loan quarter, awm, off, quarter quarter
+Topic 10 (10_cib_ib_ib fee_rank): cib, ib, ib fee, rank, fee, report revenue, advisory, report, revenue, deal
+Topic 11 (11_underwriting_advisory_fee_condition): underwriting, advisory, fee, condition, underwriting fee, term, 1q, healthy, robust, particularly
+Topic 12 (12_open___): open, , , , , , , , , 
