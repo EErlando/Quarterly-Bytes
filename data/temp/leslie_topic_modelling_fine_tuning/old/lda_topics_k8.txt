@@ -1,0 +1,30 @@
+--- LDA Topic Model with 8 Topics ---
+
+LDA model fitting complete for 8 topics.
+
+
+Interpreting Topics:
+
+Topic 1:
+basel endgame on balance you re seeing incentive is incentive fees processes ebb outlined year basis
+
+Topic 2:
+card ultimate investment we ve seen investments direction travel thing thanks question 12 24 high level
+
+Topic 3:
+we re that we re it ve you clients we ve there
+
+Topic 4:
+strategies volatility ef it markets months things equity quarters reset
+
+Topic 5:
+we we re re that 2024 particularly ve focused non looks fering
+
+Topic 6:
+billion buyback based around smaller thoughtful denis comments classes activities we held
+
+Topic 7:
+private wealth wealth footprint private course couple europe us wealth management bit course couple years
+
+Topic 8:
+charge of gsib charge credit of cards targeting given that we

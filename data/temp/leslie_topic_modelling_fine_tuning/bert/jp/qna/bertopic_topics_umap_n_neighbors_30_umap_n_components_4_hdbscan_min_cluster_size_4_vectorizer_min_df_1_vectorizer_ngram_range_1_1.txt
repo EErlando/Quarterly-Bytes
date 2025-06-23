@@ -1,0 +1,7 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 4, 'hdbscan_min_cluster_size': 4, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 1)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_go_growth_capital_bank): go, growth, capital, bank, high, see, get, loan, rate, great
+Topic 1 (1_go_capital_time_thing): go, capital, time, thing, nii, get, come, say, see, way

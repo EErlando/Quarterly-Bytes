@@ -1,0 +1,21 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 15, 'umap_n_components': 10, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 2)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_client_franchise_management_wealth): client, franchise, management, wealth, business, wealth management, ef fort, fort, market, ef
+Topic 1 (1_revenue_ficc_ﬁnance_equity): revenue, ficc, ﬁnance, equity, underwriting, intermediation, revenue rise, rise, volume, net revenue
+Topic 2 (2_ep_roe_david let_generate): ep, roe, david let, generate, ep roe, result page, let result, net earning, page presentation, result
+Topic 3 (3_compensation_expense_non compensation_compensation expense): compensation, expense, non compensation, compensation expense, non, quarterly non, quarterly, tax, compensation ratio, net provision
+Topic 4 (4_common stock_dividend_common_stock): common stock, dividend, common, stock, repurchase, include common, requirement, cet1 ratio, cet1, standardized
+Topic 5 (5_inﬂation_economy_see_rate): inﬂation, economy, see, rate, geopolitical, interest rate, prove resilient, war ukraine, supply, economy prove
+Topic 6 (6_inﬂow_aus_aus total_total end): inﬂow, aus, aus total, total end, alternative aus, drive management, alternative alternative, alternative, net inﬂow, long term
+Topic 7 (7_total loan_pcl_portfolio_portfolio end): total loan, pcl, portfolio, portfolio end, loan, loan portfolio, nii, net charge, total, primarily
+Topic 8 (8_chief_ofﬁcer_ir_earning presentation): chief, ofﬁcer, ir, earning presentation, earning, solomon, gs, halio, consent, carey halio
+Topic 9 (9_investment_loss_cre_public portfolio): investment, loss, cre, public portfolio, net loss, equity investment, portfolio, relate cie, marcus loan, relate
+Topic 10 (10_fee_management fee_management_revenue): fee, management fee, management, revenue, private banking, banking, lending revenue, banking lending, lending, revenue rise
+Topic 11 (11_join_moment_thank carey_thank): join, moment, thank carey, thank, remark moment, join prepared, prepared remark, celebrate, violence, carey
+Topic 12 (12_ai_proven_technology_efﬁciently): ai, proven, technology, efﬁciently, scale, win, productivity, engineering capability, solution scale, ai solution
+Topic 13 (13_question open_open_open question_question): question open, open, open question, question, additionally execution, outcome deliver, identiﬁe outcome, identiﬁe, area identiﬁe, question additionally
+Topic 14 (14_stress_fed_regulation_fed stress): stress, fed, regulation, fed stress, supervision, stress buf, ﬁle, suit, ﬁnancial, administration
+Topic 15 (15_principal portfolio_portfolio_historical principal_historical): principal portfolio, portfolio, historical principal, historical, solution page, principal, platform solution, reduction, total approximately, platform

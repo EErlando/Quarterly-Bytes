@@ -1,0 +1,9 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 2, 'hdbscan_min_cluster_size': 2, 'vectorizer_min_df': 1, 'vectorizer_ngram_range': (1, 1)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_capital_go_mean_high): capital, go, mean, high, see, talk, quarter, time, growth, actually
+Topic 1 (1_go_thing_aoci_time): go, thing, aoci, time, fed, give, war, mean, quarter, guess
+Topic 2 (2_go_get_market_thing): go, get, market, thing, high, quarter, mean, say, rate, cycle
+Topic 3 (3_growth_go_capital_current): growth, go, capital, current, big, great, business, way, numerator, term

@@ -1,0 +1,19 @@
+--- BERTopic Model - Parameters: {'umap_n_neighbors': 30, 'umap_n_components': 5, 'hdbscan_min_cluster_size': 5, 'vectorizer_min_df': 5, 'vectorizer_ngram_range': (1, 2)} ---
+
+Interpreting Topics:
+
+BERTopic - Top Words per Topic:
+Topic 0 (0_nii_high_market_drive): nii, high, market, drive, rate, mention, low, loss, high rate, drive high
+Topic 1 (1_start_report_result_revenue): start, report, result, revenue, loss, include, exclude, gain, quarter, firmwide
+Topic 2 (2_capital_ccb_quarter_start): capital, ccb, quarter, start, current, versus, business, versus prior, prior quarter, 4q
+Topic 3 (3_commercial_off_reserve_expense): commercial, off, reserve, expense, cost, drive, reflect off, bank, loan growth, compensation
+Topic 4 (4_ccb_consumer_report revenue_deposit): ccb, consumer, report revenue, deposit, business, management, spend, revenue, touch, segment
+Topic 5 (5_inflow_asset_quarter_equity): inflow, asset, quarter, equity, see, quarter quarter, level, loan quarter, drive, high
+Topic 6 (6_awm_management_margin_tax): awm, management, margin, tax, strong inflow, high, report, average, revenue drive, inflow
+Topic 7 (7_loan_sequentially_client_high rate): loan, sequentially, client, high rate, rate, loan quarter, reflect, awm, cost, off
+Topic 8 (8_cib_ib_ib fee_fee): cib, ib, ib fee, fee, report revenue, advisory, ib revenue, report, revenue, deal
+Topic 9 (9_underwriting_underwriting fee_fee_advisory): underwriting, underwriting fee, fee, advisory, significantly, capital market, healthy, 1q, remain, see
+Topic 10 (10_volatility_market_strong_security service): volatility, market, strong, security service, elevated, high, rate, service, total, drive
+Topic 11 (11_ib_office_relate_market revenue): ib, office, relate, market revenue, deposit, volume, quarter, deposit quarter, quarter quarter, non
+Topic 12 (12_environment_uncertainty_franchise_client): environment, uncertainty, franchise, client, global, mind, earning, course, employee, open
+Topic 13 (13_open___): open, , , , , , , , , 
