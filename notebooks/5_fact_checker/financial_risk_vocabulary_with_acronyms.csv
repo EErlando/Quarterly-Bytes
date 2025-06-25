@@ -1,0 +1,44 @@
+risk_factor,synonym_variant
+default,default;defaults;defaulted;defaulting;credit default;non-payment;failure to pay
+delinquency,delinquency;delinquent;delinquencies;late payment;past due
+impairment,impairment;impaired;write-down;writeoff;write-off;devaluation;loss in value
+downgrade,downgrade;downgrades;downgraded;credit rating reduction;rating downgrade;credit deterioration
+liquidity risk,liquidity risk;liquidity crunch;liquidity shortfall;funding risk;funding gap;cash flow mismatch;illiquidity;withdrawal risk
+market risk,market risk;volatility;market fluctuation;market turmoil;market dislocation;market instability;price risk
+interest rate risk,interest rate risk;interest rate fluctuation;rate change risk;yield curve risk
+credit risk,credit risk;credit loss;counterparty risk;creditworthiness risk;bad debt;non-performing loan;loan loss
+operational risk,operational risk;fraud;system failure;cyber risk;cyberattack;internal control failure;process breakdown;error
+regulatory risk,regulatory risk;regulatory action;regulatory change;regulatory scrutiny;regulatory requirement;regulatory enforcement;compliance failure
+reputational risk,reputational risk;reputation risk;brand damage;negative publicity;loss of confidence;scandal
+litigation,litigation;lawsuit;legal proceedings;class action;penalty;fine;settlement
+capital adequacy,capital adequacy;capital shortfall;capital buffer;Tier 1 capital;CET1;regulatory capital
+bankruptcy,bankruptcy;insolvency;failure;bank failure
+macroeconomic risk,macroeconomic risk;recession;economic downturn;downturn;macroeconomic uncertainty
+geopolitical risk,geopolitical risk;political instability;geopolitical uncertainty;war risk;sanction risk
+stress testing,stress test;stress scenario;adverse scenario;scenario analysis;stress testing
+model risk,model risk;model error;model uncertainty;model failure
+ESG risk,ESG risk;climate risk;environmental risk;social risk;governance risk;sustainability risk
+NPL,Non-Performing Loan;non-performing loans
+LCR,Liquidity Coverage Ratio;liquidity coverage
+NSFR,Net Stable Funding Ratio;net stable funding
+CET1,Common Equity Tier 1;core capital
+RWA,Risk-Weighted Assets;risk weighted asset
+VaR,Value at Risk;value at risk
+AML,Anti-Money Laundering;anti money laundering
+KYC,Know Your Customer;know your customer
+SIFI,Systemically Important Financial Institution;systemically important
+GSIB,Global Systemically Important Bank;global systemically important
+ECL,Expected Credit Loss;expected credit losses
+P&L,Profit and Loss;profit & loss
+D-SIB,Domestic Systemically Important Bank;domestic systemically important
+FRTB,Fundamental Review of the Trading Book;trading book regulation
+FICC,"Fixed Income, Currencies, and Commodities;fixed income;currencies;commodities"
+LIBOR,London Interbank Offered Rate;benchmark rate
+SOFR,Secured Overnight Financing Rate;overnight financing rate
+OFAC,Office of Foreign Assets Control;sanctions office
+PD,Probability of Default;probability of default
+LGD,Loss Given Default;loss given default
+EAD,Exposure at Default;exposure at default
+TLAC,Total Loss Absorbing Capacity;loss absorbing capacity
+CCAR,Comprehensive Capital Analysis and Review;capital analysis review
+DFAST,Dodd-Frank Act Stress Test;Dodd Frank stress test

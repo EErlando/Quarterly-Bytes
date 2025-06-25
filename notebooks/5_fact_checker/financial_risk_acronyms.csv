@@ -1,0 +1,25 @@
+risk_factor,synonym_variant
+NPL,Non-Performing Loan;non-performing loans
+LCR,Liquidity Coverage Ratio;liquidity coverage
+NSFR,Net Stable Funding Ratio;net stable funding
+CET1,Common Equity Tier 1;core capital
+RWA,Risk-Weighted Assets;risk weighted asset
+VaR,Value at Risk;value at risk
+AML,Anti-Money Laundering;anti money laundering
+KYC,Know Your Customer;know your customer
+SIFI,Systemically Important Financial Institution;systemically important
+GSIB,Global Systemically Important Bank;global systemically important
+ECL,Expected Credit Loss;expected credit losses
+P&L,Profit and Loss;profit & loss
+D-SIB,Domestic Systemically Important Bank;domestic systemically important
+FRTB,Fundamental Review of the Trading Book;trading book regulation
+FICC,"Fixed Income, Currencies, and Commodities;fixed income;currencies;commodities"
+LIBOR,London Interbank Offered Rate;benchmark rate
+SOFR,Secured Overnight Financing Rate;overnight financing rate
+OFAC,Office of Foreign Assets Control;sanctions office
+PD,Probability of Default;probability of default
+LGD,Loss Given Default;loss given default
+EAD,Exposure at Default;exposure at default
+TLAC,Total Loss Absorbing Capacity;loss absorbing capacity
+CCAR,Comprehensive Capital Analysis and Review;capital analysis review
+DFAST,Dodd-Frank Act Stress Test;Dodd Frank stress test

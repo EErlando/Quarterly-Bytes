@@ -1,0 +1,44 @@
+phrase,risk_category,softer_language_example
+bankruptcy,Imminent financial distress,financial challenges;exploring options
+insolvency,Imminent financial distress,capital position under pressure;balance sheet stress
+liquidity crisis,Imminent financial distress,liquidity constraints;tight funding;managing liquidity proactively
+unable to meet obligations,Imminent financial distress,challenges in meeting obligations
+default is likely,Imminent financial distress,elevated risk of default;proactive management of exposures
+default is imminent,Imminent financial distress,monitoring credit risk;closely observing market conditions
+run on the bank,Imminent financial distress,deposit outflows;monitoring liquidity position
+failure to comply with capital requirements,Imminent financial distress,capital ratio challenges;capital buffer pressure
+breach of regulatory ratios,Imminent financial distress,monitoring regulatory metrics
+substantial write-down,Major losses or write-downs,adjustments to asset valuations;non-cash charges
+material impairment,Major losses or write-downs,review of asset quality;adjustments in valuations
+large losses,Major losses or write-downs,negative impact on earnings;profitability pressures
+significant deterioration in asset quality,Major losses or write-downs,softening in asset quality;portfolio performance issues
+unexpected losses,Major losses or write-downs,unexpected headwinds;unanticipated challenges
+losses continue to mount,Major losses or write-downs,elevated losses;difficult operating environment
+material exposure not previously disclosed,Major losses or write-downs,previously unidentified exposures
+under investigation by,Regulatory problems,working with regulators;regulatory dialogue
+regulatory sanction,Regulatory problems,discussions with regulators
+regulatory fine,Regulatory problems,addressing regulatory matters
+failed stress test,Regulatory problems,stress test results under review
+consent order,Regulatory problems,addressing requirements;regulatory engagement
+deficiency letter,Regulatory problems,addressing regulator feedback
+non-compliance with,Regulatory problems,working to address compliance matters
+fraud uncovered,Internal problems,control issues identified;internal review
+management misconduct,Internal problems,internal review of practices;integrity review
+whistleblower complaint,Internal problems,reviewing management conduct
+accounting irregularities,Internal problems,employee concerns;reported issues
+material weaknesses in controls,Internal problems,accounting review;control review
+data breach,Internal problems,control enhancements;review of processes
+cyber incident,Internal problems,security incident;IT risk management
+client withdrawals accelerating,Confidence & reputation damage,IT security event;managing cyber risk
+reputational damage,Confidence & reputation damage,elevated client outflows;client repositioning
+loss of major client,Confidence & reputation damage,brand perception challenges;reputation management
+significant outflows,Confidence & reputation damage,loss of a key client;client transitions
+ratings downgrade imminent,Confidence & reputation damage,funding outflows;liquidity movements
+systemic risk,Severe macroeconomic/systemic concerns,potential for ratings review;engagement with rating agencies
+contagion risk,Severe macroeconomic/systemic concerns,market-wide risks;sectoral pressures
+lack of market confidence,Severe macroeconomic/systemic concerns,market transmission risk;wider market concerns
+significant uncertainty regarding the bank’s future,Severe macroeconomic/systemic concerns,market confidence challenges;uncertain conditions
+material adverse event,Severe macroeconomic/systemic concerns,uncertainty in outlook;closely monitoring future developments
+pending class action,Legal proceedings,potential adverse scenario;unexpected event risk
+significant unresolved litigation,Legal proceedings,ongoing legal matters;litigation proceedings
+expected settlement will materially affect capital,Legal proceedings,legal matters unresolved;pending court actions

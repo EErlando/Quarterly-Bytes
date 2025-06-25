@@ -1,0 +1,44 @@
+phrase,risk_category
+bankruptcy,Imminent financial distress
+insolvency,Imminent financial distress
+liquidity crisis,Imminent financial distress
+unable to meet obligations,Imminent financial distress
+default is likely,Imminent financial distress
+default is imminent,Imminent financial distress
+run on the bank,Imminent financial distress
+failure to comply with capital requirements,Imminent financial distress
+breach of regulatory ratios,Imminent financial distress
+substantial write-down,Major losses or write-downs
+material impairment,Major losses or write-downs
+large losses,Major losses or write-downs
+significant deterioration in asset quality,Major losses or write-downs
+unexpected losses,Major losses or write-downs
+losses continue to mount,Major losses or write-downs
+material exposure not previously disclosed,Major losses or write-downs
+under investigation by,Regulatory problems
+regulatory sanction,Regulatory problems
+regulatory fine,Regulatory problems
+failed stress test,Regulatory problems
+consent order,Regulatory problems
+deficiency letter,Regulatory problems
+non-compliance with,Regulatory problems
+fraud uncovered,Internal problems
+management misconduct,Internal problems
+whistleblower complaint,Internal problems
+accounting irregularities,Internal problems
+material weaknesses in controls,Internal problems
+data breach,Internal problems
+cyber incident,Internal problems
+client withdrawals accelerating,Confidence & reputation damage
+reputational damage,Confidence & reputation damage
+loss of major client,Confidence & reputation damage
+significant outflows,Confidence & reputation damage
+ratings downgrade imminent,Confidence & reputation damage
+systemic risk,Severe macroeconomic/systemic concerns
+contagion risk,Severe macroeconomic/systemic concerns
+lack of market confidence,Severe macroeconomic/systemic concerns
+significant uncertainty regarding the bank’s future,Severe macroeconomic/systemic concerns
+material adverse event,Severe macroeconomic/systemic concerns
+pending class action,Legal proceedings
+significant unresolved litigation,Legal proceedings
+expected settlement will materially affect capital,Legal proceedings
