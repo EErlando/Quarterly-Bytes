@@ -55,3 +55,7 @@ Thumbs.db
 
 # Miscellaneous
 *.swp
+
+# Temporary / model artifacts
+data/temp/
+**/best_model/
