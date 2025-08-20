@@ -175,7 +175,7 @@ def extract_transcripts_pdf_df_from_dir(transcripts_dir: str, bank_type: BankTyp
         transcripts_dir (str): The path to the directory containing the PDF
                                transcript files.
         bank_type (BankType): An enumeration member indicating the type of bank
-                              (e.g., BankType.GOLDMAN_SACHS, BankType.JPMORGAN_CHASE)
+                              (e.g., BankType.GOLDMAN_SACHS, BankType.JPMORGAN)
                               to determine the correct parsing strategy.
 
     Returns:
