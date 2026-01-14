@@ -1,13 +1,18 @@
-# Byte-compiled / optimized / DLL files
+# ================================
+# Python bytecode / cache
+# ================================
 __pycache__/
 *.pyc
 *.pyd
 *.pyo
 
+# ================================
 # Distribution / packaging
+# ================================
 .Python
 env/
 venv/
+.venv/
 build/
 develop-eggs/
 dist/
@@ -16,21 +21,29 @@ eggs/
 .installed.cfg
 *.egg
 
+# ================================
 # Installer logs
+# ================================
 pip-log.txt
 pip-delete-this-directory.txt
 
+# ================================
 # Unit test / coverage reports
+# ================================
 .coverage
 .tox/
 nosetests.xml
 coverage.xml
 
-# Editors
+# ================================
+# Editors / IDEs
+# ================================
 .vscode/
 .idea/
 
+# ================================
 # OS generated files
+# ================================
 .DS_Store
 .DS_Store?
 ._*
@@ -39,23 +52,51 @@ coverage.xml
 ehthumbs.db
 Thumbs.db
 
-# Jupyter Notebook
-.ipynb_checkpoints
+# ================================
+# Jupyter
+# ================================
+.ipynb_checkpoints/
 
-# Virtual environment
-.venv
-
-# Data files
+# ================================
+# Data files (keep CSV optional)
+# ================================
 # *.csv
 *.json
 *.sqlite3
 
+# ================================
 # Logs
+# ================================
 *.log
 
-# Miscellaneous
+# ================================
+# Temporary / swap files
+# ================================
 *.swp
 
-# Temporary / model artifacts
+# ================================
+# ML / NLP / Model artifacts (IMPORTANT)
+# ================================
+
+# temp experiment outputs
 data/temp/
+
+# model checkpoints
 **/best_model/
+**/checkpoints/
+**/models/
+
+# BERTopic / topic modelling outputs
+**/bertopic_*.txt
+**/topic_*.txt
+
+# embeddings / vectors
+**/*embeddings*
+**/*vectorizer*
+
+# common ML binary formats
+*.pkl
+*.joblib
+*.pt
+*.bin
+*.h5
